@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "Since the early 1990s, scientists ---- to find a reliable way to predict earthquakes, but their efforts ---- mostly unsuccessful.",
+    "options": [
+      {"id": "A", "text": "have been trying / have been"},
+      {"id": "B", "text": "tried / had been"},
+      {"id": "C", "text": "try / are"},
+      {"id": "D", "text": "were trying / will be"},
+      {"id": "E", "text": "had tried / were"}
+    ],
+    "correctOption": "A",
+    "explanation": "'Since' edatı Present Perfect (Continuous) tenseleri gerektirir. 'Bugüne kadar çabalıyorlar ve çabaları çoğunlukla başarısız oldu' anlamı A şıkkında doğru verilmiştir."
+  },
+  {
+    "id": 2,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "The new composite material is ---- strong ---- it can withstand extreme pressures without deforming.",
+    "options": [
+      {"id": "A", "text": "so / that"},
+      {"id": "B", "text": "such / that"},
+      {"id": "C", "text": "more / than"},
+      {"id": "D", "text": "neither / nor"},
+      {"id": "E", "text": "both / and"}
+    ],
+    "correctOption": "A",
+    "explanation": "Boşluklar arasında sadece bir sıfat (strong) olduğu için 'so + sıfat + that' yapısı kullanılmalıdır. 'O kadar sağlam ki...' anlamı katar."
+  },
+  {
+    "id": 3,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "---- the introduction of antibiotics, infectious diseases were the leading cause of death worldwide.",
+    "options": [
+      {"id": "A", "text": "Prior to"},
+      {"id": "B", "text": "In addition to"},
+      {"id": "C", "text": "As a result of"},
+      {"id": "D", "text": "In spite of"},
+      {"id": "E", "text": "Rather than"}
+    ],
+    "correctOption": "A",
+    "explanation": "Cümlede antibiyotiklerin icadından 'önce' bulaşıcı hastalıkların bir numaralı ölüm sebebi olduğu anlatılıyor. 'Prior to' (önce) bu anlamı sağlar."
+  },
+  {
+    "id": 4,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "Many researchers believe that if global warming ---- at its current rate, many coastal cities ---- submerged by the end of the century.",
+    "options": [
+      {"id": "A", "text": "continues / will be"},
+      {"id": "B", "text": "continued / would be"},
+      {"id": "C", "text": "had continued / would have been"},
+      {"id": "D", "text": "will continue / are"},
+      {"id": "E", "text": "is continuing / were"}
+    ],
+    "correctOption": "A",
+    "explanation": "Geleceğe yönelik olası bir durumdan bahsedildiği için Type 1 (If + Present, Future) koşul cümlesi kullanılmalıdır."
+  },
+  {
+    "id": 5,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "The human brain is an incredibly complex organ, ---- exact workings are still not fully understood by neuroscientists.",
+    "options": [
+      {"id": "A", "text": "whose"},
+      {"id": "B", "text": "which"},
+      {"id": "C", "text": "of which"},
+      {"id": "D", "text": "that"},
+      {"id": "E", "text": "whom"}
+    ],
+    "correctOption": "A",
+    "explanation": "İnsan beyni ve onun işleyişi arasındaki sahiplik ilişkisini (beynin işleyişi) belirtmek için 'whose' ilgi zamiri (relative pronoun) kullanılmalıdır."
+  },
+  {
+    "id": 6,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The discovery of penicillin was a major ---- in the field of medicine, saving millions of lives.",
+    "options": [
+      {"id": "A", "text": "breakthrough"},
+      {"id": "B", "text": "breakdown"},
+      {"id": "C", "text": "drawback"},
+      {"id": "D", "text": "obstacle"},
+      {"id": "E", "text": "substitution"}
+    ],
+    "correctOption": "A",
+    "explanation": "'Breakthrough', tıp veya bilim gibi alanlarda 'önemli buluş, dönüm noktası' anlamına gelir."
+  },
+  {
+    "id": 7,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "In order to function properly, the human body needs a ---- supply of essential vitamins and minerals.",
+    "options": [
+      {"id": "A", "text": "steady"},
+      {"id": "B", "text": "scarce"},
+      {"id": "C", "text": "sudden"},
+      {"id": "D", "text": "superficial"},
+      {"id": "E", "text": "vague"}
+    ],
+    "correctOption": "A",
+    "explanation": "'Steady', 'düzenli, sürekli' anlamına gelir. Vücudun sürekli bir vitamin kaynağına ihtiyacı olduğunu belirtir."
+  },
+  {
+    "id": 8,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The chemical reaction was so ---- that it caused an explosion in the laboratory.",
+    "options": [
+      {"id": "A", "text": "volatile"},
+      {"id": "B", "text": "inert"},
+      {"id": "C", "text": "sluggish"},
+      {"id": "D", "text": "predictable"},
+      {"id": "E", "text": "benign"}
+    ],
+    "correctOption": "A",
+    "explanation": "'Volatile', kimyada 'uçucu, patlamaya hazır, dengesiz' anlamına gelir. Patlamaya sebep olmasından bu kelimenin doğru olduğu anlaşılır."
+  },
+  {
+    "id": 9,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "Even though solar energy is abundant and renewable, ----.",
+    "options": [
+      {"id": "A", "text": "it is still relatively expensive to capture and store efficiently"},
+      {"id": "B", "text": "fossil fuels have completely been replaced by it"},
+      {"id": "C", "text": "it causes significant pollution during energy generation"},
+      {"id": "D", "text": "governments are not investing in alternative energy sources"},
+      {"id": "E", "text": "there is a high demand for non-renewable resources"}
+    ],
+    "correctOption": "A",
+    "explanation": "'Even though' zıtlık bağlacıdır. Güneş enerjisinin bol ve yenilenebilir olması olumlu bir durumdur; virgül sonrasında olumsuz bir durum (yakalama ve depolamanın pahalı olması) gelmelidir."
+  },
+  {
+    "id": 10,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "----, the mission to Mars was considered a tremendous success by the international space community.",
+    "options": [
+      {"id": "A", "text": "Despite encountering several technical difficulties along the way"},
+      {"id": "B", "text": "Because the astronauts failed to collect any soil samples"},
+      {"id": "C", "text": "So that they could gather more data about the planet's atmosphere"},
+      {"id": "D", "text": "If the rover had not been damaged during the landing"},
+      {"id": "E", "text": "Given that the project was cancelled due to a lack of funding"}
+    ],
+    "correctOption": "A",
+    "explanation": "Cümlenin devamında Mars görevinin büyük bir başarı olduğu belirtilmiş. Teknik zorluklar yaşanmasına 'rağmen' (Despite) başarılı olması anlamca en uyumlu seçenektir."
+  },
+  {
+    "id": 11,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "Many animal species are facing extinction ----.",
+    "options": [
+      {"id": "A", "text": "due to the rapid destruction of their natural habitats"},
+      {"id": "B", "text": "unless conservation efforts are immediately abandoned"},
+      {"id": "C", "text": "so long as they continue to adapt to changing environments"},
+      {"id": "D", "text": "in case they discover new food sources"},
+      {"id": "E", "text": "although poaching has been entirely eradicated"}
+    ],
+    "correctOption": "A",
+    "explanation": "Birçok hayvan türünün neslinin tükenme tehlikesiyle karşı karşıya kalmasının nedeni (due to) doğal yaşam alanlarının hızla yok olmasıdır."
+  },
+  {
+    "id": 12,
+    "type": "Çeviri (İngilizce-Türkçe)",
+    "context": null,
+    "text": "The primary goal of modern agriculture is to increase crop yields without causing long-term damage to the environment.",
+    "options": [
+      {"id": "A", "text": "Modern tarımın temel amacı, çevreye uzun vadeli zarar vermeden ürün verimini artırmaktır."},
+      {"id": "B", "text": "Çevreye uzun vadeli zarar vermemek için modern tarım, ürün verimini artırmayı hedeflemektedir."},
+      {"id": "C", "text": "Modern tarım, ürün verimini artırırken çevreye uzun vadeli zarar vermemeyi temel amaç edinmiştir."},
+      {"id": "D", "text": "Ürün verimini artırmak modern tarımın asıl amacıdır, ancak çevreye uzun vadeli zarar verilmemelidir."},
+      {"id": "E", "text": "Çevreye uzun vadeli zararlar vermeden ürün veriminin artırılması modern tarımın temel hedeflerinden biridir."}
+    ],
+    "correctOption": "A",
+    "explanation": "'The primary goal of modern agriculture is' (Modern tarımın temel amacı ...dır), 'to increase crop yields' (ürün verimini artırmak), 'without causing long-term damage to the environment' (çevreye uzun vadeli zarar vermeden). Tam eşleşme A seçeneğindedir."
+  },
+  {
+    "id": 13,
+    "type": "Çeviri (İngilizce-Türkçe)",
+    "context": null,
+    "text": "Because atoms are so small, scientists must use specialized electron microscopes to observe them.",
+    "options": [
+      {"id": "A", "text": "Atomlar çok küçük olduğu için, bilim insanları onları gözlemlemek amacıyla özel elektron mikroskopları kullanmak zorundadır."},
+      {"id": "B", "text": "Atomlar o kadar küçüktür ki, bilim insanları onları gözlemlemek için özel elektron mikroskopları kullanmalıdır."},
+      {"id": "C", "text": "Bilim insanlarının atomları gözlemlemek için özel elektron mikroskopları kullanmalarının nedeni atomların çok küçük olmasıdır."},
+      {"id": "D", "text": "Bilim insanları çok küçük olan atomları gözlemleyebilmek için özel elektron mikroskopları kullanmak zorundadırlar."},
+      {"id": "E", "text": "Atomların çok küçük olmasından dolayı, onları gözlemlemek için özel elektron mikroskoplarının kullanılması gerekir."}
+    ],
+    "correctOption": "A",
+    "explanation": "'Because ...' (... olduğu için), 'must use' (kullanmak zorundadır/kullanmalıdır). 'to observe them' (onları gözlemlemek amacıyla/için). En yakın ve doğru yapısal çeviri A şıkkıdır."
+  },
+  {
+    "id": 14,
+    "type": "Çeviri (Türkçe-İngilizce)",
+    "context": null,
+    "text": "Güneş sistemi, merkezdeki bir yıldız ve onun yörüngesinde dönen gezegenlerden oluşur.",
+    "options": [
+      {"id": "A", "text": "The solar system consists of a central star and the planets orbiting it."},
+      {"id": "B", "text": "A central star and the planets that orbit it make up the solar system."},
+      {"id": "C", "text": "The solar system is composed of planets that orbit a star in the center."},
+      {"id": "D", "text": "Planets orbiting a central star constitute the solar system."},
+      {"id": "E", "text": "The solar system includes a star at the center and planets that orbit around it."}
+    ],
+    "correctOption": "A",
+    "explanation": "'...den oluşur' fiili 'consists of' ile karşılanır. 'merkezdeki bir yıldız' (a central star), 'onun yörüngesinde dönen gezegenler' (the planets orbiting it)."
+  },
+  {
+    "id": 15,
+    "type": "Çeviri (Türkçe-İngilizce)",
+    "context": null,
+    "text": "Hücre bölünmesi, tüm canlı organizmaların büyümesi ve onarımı için hayati bir süreçtir.",
+    "options": [
+      {"id": "A", "text": "Cell division is a vital process for the growth and repair of all living organisms."},
+      {"id": "B", "text": "The growth and repair of all living organisms depend on cell division, which is a vital process."},
+      {"id": "C", "text": "Cell division is essential for all living organisms to grow and repair themselves."},
+      {"id": "D", "text": "A vital process for all living organisms to grow and repair is cell division."},
+      {"id": "E", "text": "For the growth and repair of all living organisms, cell division is a necessary process."}
+    ],
+    "correctOption": "A",
+    "explanation": "Özne 'Cell division' (Hücre bölünmesi), yüklem 'is a vital process' (hayati bir süreçtir), tümleç 'for the growth and repair of all living organisms' (tüm canlı organizmaların büyümesi ve onarımı için). Öge dizilimi A seçeneğinde tamdır."
+  },
+  {
+    "id": 16,
+    "type": "Paragraf",
+    "context": "Graphene is a single layer of carbon atoms arranged in a two-dimensional honeycomb lattice. It is renowned for its remarkable properties: it is stronger than steel, harder than diamond, yet incredibly lightweight and flexible. Furthermore, graphene is an excellent conductor of heat and electricity. Despite its potential to revolutionize industries ranging from electronics to energy storage, mass-producing high-quality graphene at a low cost remains a significant challenge for scientists.",
+    "text": "According to the passage, one of the main obstacles to the widespread use of graphene is ----.",
+    "options": [
+      {"id": "A", "text": "its inability to conduct electricity efficiently"},
+      {"id": "B", "text": "the difficulty of producing it cheaply and in large quantities"},
+      {"id": "C", "text": "its lack of flexibility compared to other materials"},
+      {"id": "D", "text": "the fact that it is heavier than steel"},
+      {"id": "E", "text": "its weak structural integrity under pressure"}
+    ],
+    "correctOption": "B",
+    "explanation": "Parçanın son cümlesinde 'mass-producing high-quality graphene at a low cost remains a significant challenge' denilmektedir. Bu ifade B seçeneğiyle (ucuz ve büyük miktarda üretmenin zorluğu) birebir örtüşür."
+  },
+  {
+    "id": 17,
+    "type": "Paragraf",
+    "context": "Water covers about 71% of the Earth's surface, mostly in oceans and other large water bodies. However, only 2.5% of the Earth's water is freshwater, and the vast majority of that is locked up in glaciers and ice caps. Consequently, less than 1% of the total water on Earth is readily accessible for human use. This scarcity is exacerbated by pollution, climate change, and growing population demands, making water conservation a critical global issue.",
+    "text": "It can be inferred from the passage that ----.",
+    "options": [
+      {"id": "A", "text": "the amount of freshwater available for human use is extremely limited"},
+      {"id": "B", "text": "all of the Earth's freshwater is heavily polluted"},
+      {"id": "C", "text": "melting glaciers will solve the global water scarcity problem"},
+      {"id": "D", "text": "the human population is decreasing, reducing the demand for water"},
+      {"id": "E", "text": "oceans are a direct source of drinking water for most humans"}
+    ],
+    "correctOption": "A",
+    "explanation": "Parçada Dünya'daki suyun yüzde 1'inden daha azının insanların kullanımına hazır olduğu (less than 1%... is readily accessible) belirtiliyor, bu da tatlı su miktarının son derece kısıtlı olduğunu (A seçeneği) gösterir."
+  },
+  {
+    "id": 18,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) Mitochondria are often referred to as the powerhouses of the cell. (II) They generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy. (III) The nucleus contains the majority of the cell's genetic material. (IV) In addition to supplying cellular energy, mitochondria are involved in other tasks, such as signaling, cellular differentiation, and cell death. (V) The number of mitochondria in a cell can vary widely by organism, tissue, and cell type.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Parçanın genelinde 'Mitochondria' (mitokondri) ve onun görevlerinden bahsedilirken, III. cümlede konu hücre çekirdeğine (nucleus) kaymıştır. Dolayısıyla anlam bütünlüğünü bozan cümle III. cümledir."
+  },
+  {
+    "id": 19,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) Black holes are regions of spacetime where gravity is so strong that nothing, not even light, can escape. (II) The theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole. (III) Telescopes use lenses and mirrors to gather and focus light from distant objects. (IV) The boundary of the region from which no escape is possible is called the event horizon. (V) Although the event horizon has an enormous effect on the fate and circumstances of an object crossing it, no locally detectable features appear to be observed.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Tüm paragrafta kara delikler (black holes) ve onların çekim kuvveti, olay ufku gibi özellikleri anlatılırken III. cümlede teleskoplardan bahsedilmesi paragrafın bütünlüğünü bozmuştur."
+  },
+  {
+    "id": 20,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) Climate change is altering the global distribution of many plant and animal species. (II) As temperatures rise, many species are migrating towards the poles or to higher elevations to find suitable habitats. (III) Deforestation in tropical regions is primarily driven by agricultural expansion. (IV) This shift in distribution can disrupt local ecosystems and lead to new interactions between species that previously did not coexist. (V) Furthermore, species that are unable to migrate quickly enough face an increased risk of extinction.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Paragraf, iklim değişikliğinin bitki ve hayvan türlerinin dağılımı ve göçü üzerindeki etkisini anlatmaktadır. III. cümle ise tropikal ormansızlaşmanın nedenlerinden bahsederek konudan sapmıştır."
+  }
+]

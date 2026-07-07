@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "In order to limit the spread of the virus, scientists have developed several measures that can be ________ implemented in crowded areas.",
+    "options": [
+      {"id": "A", "text": "reluctantly"},
+      {"id": "B", "text": "scarcely"},
+      {"id": "C", "text": "effectively"},
+      {"id": "D", "text": "vaguely"},
+      {"id": "E", "text": "recklessly"}
+    ],
+    "correctOption": "C",
+    "explanation": "'effectively' (etkili bir şekilde) cümleye anlamca en uygun zarftır. Bilim insanlarının önlemlerinin etkili bir şekilde uygulanması beklenir."
+  },
+  {
+    "id": 2,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The theory of relativity, proposed by Albert Einstein, caused a major ________ in the field of modern physics.",
+    "options": [
+      {"id": "A", "text": "breakthrough"},
+      {"id": "B", "text": "obstacle"},
+      {"id": "C", "text": "illusion"},
+      {"id": "D", "text": "deficiency"},
+      {"id": "E", "text": "dispute"}
+    ],
+    "correctOption": "A",
+    "explanation": "'breakthrough' (önemli buluş, atılım) fizik alanında yapılan büyük bir gelişmeyi ifade etmek için kullanılır."
+  },
+  {
+    "id": 3,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Many species of amphibians are highly ________ to environmental changes, such as water pollution and temperature shifts.",
+    "options": [
+      {"id": "A", "text": "resistant"},
+      {"id": "B", "text": "susceptible"},
+      {"id": "C", "text": "indifferent"},
+      {"id": "D", "text": "immune"},
+      {"id": "E", "text": "accustomed"}
+    ],
+    "correctOption": "B",
+    "explanation": "'susceptible' (duyarlı, hassas) kelimesi 'to' edatı ile kullanılır ve çevresel değişikliklere karşı savunmasız/hassas olmayı ifade eder."
+  },
+  {
+    "id": 4,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The researchers had to ________ their initial hypothesis when the new data failed to support their expectations.",
+    "options": [
+      {"id": "A", "text": "verify"},
+      {"id": "B", "text": "abandon"},
+      {"id": "C", "text": "implement"},
+      {"id": "D", "text": "sustain"},
+      {"id": "E", "text": "confirm"}
+    ],
+    "correctOption": "B",
+    "explanation": "Veriler beklentileri desteklemediğine göre, araştırmacılar ilk hipotezlerini 'abandon' (terk etmek, vazgeçmek) zorunda kalmışlardır."
+  },
+  {
+    "id": 5,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Advances in renewable energy technologies are ________ to reducing the global carbon footprint.",
+    "options": [
+      {"id": "A", "text": "detrimental"},
+      {"id": "B", "text": "indispensable"},
+      {"id": "C", "text": "vulnerable"},
+      {"id": "D", "text": "hostile"},
+      {"id": "E", "text": "indifferent"}
+    ],
+    "correctOption": "B",
+    "explanation": "Yenilenebilir enerji teknolojilerindeki gelişmeler, küresel karbon ayak izini azaltmak için 'indispensable' (vazgeçilmez, elzem) niteliktedir."
+  },
+  {
+    "id": 6,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Due to the extreme heat, the water in the shallow lake began to ________ rapidly, leaving behind dry, cracked mud.",
+    "options": [
+      {"id": "A", "text": "condense"},
+      {"id": "B", "text": "freeze"},
+      {"id": "C", "text": "evaporate"},
+      {"id": "D", "text": "circulate"},
+      {"id": "E", "text": "fluctuate"}
+    ],
+    "correctOption": "C",
+    "explanation": "Aşırı sıcaklık nedeniyle sığ göldeki suyun hızla 'evaporate' (buharlaşmak) etmesi beklenir."
+  },
+  {
+    "id": 7,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The discovery of antibiotics in the 20th century ________ transformed the medical field, saving millions of lives.",
+    "options": [
+      {"id": "A", "text": "profoundly"},
+      {"id": "B", "text": "scarcely"},
+      {"id": "C", "text": "hesitantly"},
+      {"id": "D", "text": "coincidentally"},
+      {"id": "E", "text": "marginally"}
+    ],
+    "correctOption": "A",
+    "explanation": "Antibiyotiklerin keşfi tıp alanını 'profoundly' (derinden, büyük ölçüde) dönüştürmüştür."
+  },
+  {
+    "id": 8,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Despite extensive searches, the archaeologists could not find any ________ evidence of an ancient settlement in that region.",
+    "options": [
+      {"id": "A", "text": "ambiguous"},
+      {"id": "B", "text": "tangible"},
+      {"id": "C", "text": "superficial"},
+      {"id": "D", "text": "fraudulent"},
+      {"id": "E", "text": "fragile"}
+    ],
+    "correctOption": "B",
+    "explanation": "Araştırmacılar, bölgede antik bir yerleşime dair somut, elle tutulur ('tangible') kanıt bulamamışlardır."
+  },
+  {
+    "id": 9,
+    "type": "Dil Bilgisi",
+    "context": null,
+    "text": "If the engineers ________ the structural flaw earlier, the bridge ________ such extensive repairs now.",
+    "options": [
+      {"id": "A", "text": "noticed / wouldn't have required"},
+      {"id": "B", "text": "had noticed / wouldn't require"},
+      {"id": "C", "text": "notice / won't require"},
+      {"id": "D", "text": "have noticed / didn't require"},
+      {"id": "E", "text": "would notice / hadn't required"}
+    ],
+    "correctOption": "B",
+    "explanation": "Mixed conditional yapısıdır. Geçmişteki bir olayın (had noticed) günümüze etkisi (wouldn't require now) anlatılmaktadır."
+  },
+  {
+    "id": 10,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "Although solar power is an abundant source of clean energy, ________.",
+    "options": [
+      {"id": "A", "text": "it is heavily relied upon in developing nations"},
+      {"id": "B", "text": "it requires significant initial investment and specific weather conditions to be efficient"},
+      {"id": "C", "text": "fossil fuels are becoming increasingly rare and expensive"},
+      {"id": "D", "text": "there are many other renewable resources available today"},
+      {"id": "E", "text": "the sun provides more energy than we could ever consume"}
+    ],
+    "correctOption": "B",
+    "explanation": "'Although' (olmasına rağmen) zıtlık bağlacıdır. Güneş enerjisi bol ve temiz olmasına rağmen, verimli olması için ciddi yatırım ve uygun hava koşulları gerektirdiği bir zıtlıktır."
+  },
+  {
+    "id": 11,
+    "type": "Okuma Parçası",
+    "context": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It generally involves the green pigment chlorophyll and generates oxygen as a byproduct. While photosynthesis is crucial for maintaining normal levels of oxygen in the atmosphere, it is also the source of energy for nearly all life on Earth. In plants, the process mainly takes place in the leaves, specifically within specialized cell structures called chloroplasts. Without photosynthesis, the carbon cycle could not occur, and oxygen-requiring life would not survive.",
+    "text": "According to the passage, photosynthesis ________.",
+    "options": [
+      {"id": "A", "text": "only occurs in green plants and no other organisms"},
+      {"id": "B", "text": "consumes oxygen and generates carbon dioxide"},
+      {"id": "C", "text": "is essential for both oxygen production and providing energy for life on Earth"},
+      {"id": "D", "text": "takes place primarily in the roots of the plants"},
+      {"id": "E", "text": "can happen without the presence of sunlight"}
+    ],
+    "correctOption": "C",
+    "explanation": "Parçada fotosentezin hem oksijen seviyesini korumada hayati olduğu hem de Dünya'daki neredeyse tüm yaşam için enerji kaynağı olduğu belirtilmektedir."
+  },
+  {
+    "id": 12,
+    "type": "Okuma Parçası",
+    "context": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It generally involves the green pigment chlorophyll and generates oxygen as a byproduct. While photosynthesis is crucial for maintaining normal levels of oxygen in the atmosphere, it is also the source of energy for nearly all life on Earth. In plants, the process mainly takes place in the leaves, specifically within specialized cell structures called chloroplasts. Without photosynthesis, the carbon cycle could not occur, and oxygen-requiring life would not survive.",
+    "text": "It is stated in the passage that chloroplasts ________.",
+    "options": [
+      {"id": "A", "text": "are specialized structures in the roots where water is stored"},
+      {"id": "B", "text": "are found in the leaves and are the main sites of photosynthesis"},
+      {"id": "C", "text": "absorb oxygen from the atmosphere"},
+      {"id": "D", "text": "prevent the carbon cycle from occurring naturally"},
+      {"id": "E", "text": "are present in all living organisms"}
+    ],
+    "correctOption": "B",
+    "explanation": "Parçada 'the process mainly takes place in the leaves, specifically within specialized cell structures called chloroplasts' denilmektedir, bu da B şıkkıyla uyuşur."
+  },
+  {
+    "id": 13,
+    "type": "Okuma Parçası",
+    "context": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It generally involves the green pigment chlorophyll and generates oxygen as a byproduct. While photosynthesis is crucial for maintaining normal levels of oxygen in the atmosphere, it is also the source of energy for nearly all life on Earth. In plants, the process mainly takes place in the leaves, specifically within specialized cell structures called chloroplasts. Without photosynthesis, the carbon cycle could not occur, and oxygen-requiring life would not survive.",
+    "text": "The main idea of the passage is ________.",
+    "options": [
+      {"id": "A", "text": "the chemical composition of chlorophyll"},
+      {"id": "B", "text": "how the carbon cycle affects global warming"},
+      {"id": "C", "text": "the anatomy of plant leaves"},
+      {"id": "D", "text": "the fundamental role of photosynthesis in sustaining life"},
+      {"id": "E", "text": "the differences between plants and other organisms"}
+    ],
+    "correctOption": "D",
+    "explanation": "Parçanın bütünü, fotosentezin yaşamın sürdürülmesindeki temel ve vazgeçilmez rolünden bahsetmektedir."
+  },
+  {
+    "id": 14,
+    "type": "Okuma Parçası",
+    "context": "Nanotechnology refers to the manipulation of matter on an atomic, molecular, and supramolecular scale. It holds the promise of developing new materials and devices with a vast range of applications, such as in medicine, electronics, and energy production. For instance, in medicine, nanoparticles can be engineered to deliver drugs directly to cancer cells, minimizing damage to healthy tissues. However, the rise of nanotechnology also raises concerns regarding the toxicity and environmental impact of nanomaterials. Despite these challenges, investments in nanotechnology research continue to grow globally due to its revolutionary potential.",
+    "text": "One significant advantage of using nanoparticles in medicine, as mentioned in the text, is ________.",
+    "options": [
+      {"id": "A", "text": "their ability to easily cross the blood-brain barrier"},
+      {"id": "B", "text": "the targeted delivery of drugs to cancer cells to avoid harming healthy tissue"},
+      {"id": "C", "text": "their role in reducing the overall cost of medical treatments"},
+      {"id": "D", "text": "the complete elimination of all toxic side effects"},
+      {"id": "E", "text": "their capability to replace traditional surgical procedures entirely"}
+    ],
+    "correctOption": "B",
+    "explanation": "Metinde 'nanoparticles can be engineered to deliver drugs directly to cancer cells, minimizing damage to healthy tissues' denilmiştir. Bu da B seçeneğiyle doğrudan örtüşür."
+  },
+  {
+    "id": 15,
+    "type": "Okuma Parçası",
+    "context": "Nanotechnology refers to the manipulation of matter on an atomic, molecular, and supramolecular scale. It holds the promise of developing new materials and devices with a vast range of applications, such as in medicine, electronics, and energy production. For instance, in medicine, nanoparticles can be engineered to deliver drugs directly to cancer cells, minimizing damage to healthy tissues. However, the rise of nanotechnology also raises concerns regarding the toxicity and environmental impact of nanomaterials. Despite these challenges, investments in nanotechnology research continue to grow globally due to its revolutionary potential.",
+    "text": "We can infer from the passage that nanotechnology ________.",
+    "options": [
+      {"id": "A", "text": "is a field that has reached its full potential without any further need for research"},
+      {"id": "B", "text": "is mainly focused on environmental preservation rather than technological advancement"},
+      {"id": "C", "text": "presents both revolutionary benefits and potential risks that need to be addressed"},
+      {"id": "D", "text": "has been completely banned in many countries due to toxicity concerns"},
+      {"id": "E", "text": "is considered irrelevant by the global scientific community"}
+    ],
+    "correctOption": "C",
+    "explanation": "Parça hem devrimsel potansiyelinden hem de toksisite/çevre gibi endişelerden bahsetmektedir; dolayısıyla hem faydaları hem de riskleri vardır."
+  },
+  {
+    "id": 16,
+    "type": "Okuma Parçası",
+    "context": "Nanotechnology refers to the manipulation of matter on an atomic, molecular, and supramolecular scale. It holds the promise of developing new materials and devices with a vast range of applications, such as in medicine, electronics, and energy production. For instance, in medicine, nanoparticles can be engineered to deliver drugs directly to cancer cells, minimizing damage to healthy tissues. However, the rise of nanotechnology also raises concerns regarding the toxicity and environmental impact of nanomaterials. Despite these challenges, investments in nanotechnology research continue to grow globally due to its revolutionary potential.",
+    "text": "The word 'manipulation' in the passage is closest in meaning to ________.",
+    "options": [
+      {"id": "A", "text": "handling or controlling"},
+      {"id": "B", "text": "destruction"},
+      {"id": "C", "text": "abandonment"},
+      {"id": "D", "text": "observation"},
+      {"id": "E", "text": "estimation"}
+    ],
+    "correctOption": "A",
+    "explanation": "Nanoteknolojideki 'manipulation', maddenin atomik düzeyde işlenmesi, kontrol edilmesi (handling/controlling) anlamına gelir."
+  },
+  {
+    "id": 17,
+    "type": "Çeviri",
+    "context": null,
+    "text": "The success of the mission depends entirely on the precision of the calculations made by the engineering team.",
+    "options": [
+      {"id": "A", "text": "Görevin başarısı, tamamen mühendislik ekibinin yaptığı hesaplamaların kesinliğine bağlıdır."},
+      {"id": "B", "text": "Mühendislik ekibinin yaptığı hesaplamalar, görevin kesin olarak başarılı olmasını sağlayacaktır."},
+      {"id": "C", "text": "Görevin başarılı olması için mühendislik ekibinin hesaplamaları kesin bir şekilde yapması gerekir."},
+      {"id": "D", "text": "Mühendislik ekibinin hesaplamalarındaki kesinlik, görevin başarısını doğrudan etkiler."},
+      {"id": "E", "text": "Görevin başarıya ulaşması büyük oranda mühendislik ekibinin kesin hesaplamalarıyla mümkündür."}
+    ],
+    "correctOption": "A",
+    "explanation": "Cümledeki 'depends entirely on' (tamamen ...'e bağlıdır) ve 'precision of the calculations' (hesaplamaların kesinliği) ifadelerinin en doğru çevirisi A şıkkıdır."
+  },
+  {
+    "id": 18,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Karbon salınımını azaltmak için alınan önlemler, küresel ısınmanın etkilerini yavaşlatmada kritik bir rol oynamaktadır.",
+    "options": [
+      {"id": "A", "text": "The measures to reduce carbon emissions play a critical role in slowing down the effects of global warming."},
+      {"id": "B", "text": "Reducing carbon emissions is a critical measure to slow down the effects of global warming."},
+      {"id": "C", "text": "Measures taken to reduce carbon emissions played a critical role in stopping global warming."},
+      {"id": "D", "text": "Global warming's effects are slowing down thanks to the critical measures taken against carbon emissions."},
+      {"id": "E", "text": "Taking critical measures to reduce carbon emissions can slow down the effects of global warming."}
+    ],
+    "correctOption": "A",
+    "explanation": "'Alınan önlemler' (The measures to reduce...), 'kritik bir rol oynamaktadır' (play a critical role) tam ve doğru çevirisi A seçeneğidir."
+  },
+  {
+    "id": 19,
+    "type": "Paragraf Tamamlama",
+    "context": null,
+    "text": "Vaccines have proven to be one of the most effective public health interventions in history. By introducing a harmless component of a pathogen into the body, they stimulate the immune system to produce antibodies. ________. Consequently, when the body encounters the actual pathogen later, it is well-prepared to fight off the infection.",
+    "options": [
+      {"id": "A", "text": "Some viruses mutate too rapidly to be controlled by conventional vaccines."},
+      {"id": "B", "text": "This creates a 'memory' within the immune system without causing the disease itself."},
+      {"id": "C", "text": "Antibiotics are generally used to treat bacterial infections rather than viral ones."},
+      {"id": "D", "text": "However, the distribution of vaccines remains a challenge in many developing countries."},
+      {"id": "E", "text": "Vaccine hesitancy has led to outbreaks of diseases that were previously eradicated."}
+    ],
+    "correctOption": "B",
+    "explanation": "Boşluktan önceki cümlede antikor üretiminden bahsedilmekte, boşluktan sonrasında ise vücudun hastalığı yenebilmesinden bahsedilmektedir. B şıkkında bu sürecin bağışıklık sisteminde nasıl bir 'hafıza' oluşturduğu anlatılarak anlam bütünlüğü sağlanmıştır."
+  },
+  {
+    "id": 20,
+    "type": "İlgisiz Cümle",
+    "context": null,
+    "text": "(I) Earthquakes are sudden shaking of the ground caused by the passage of seismic waves through Earth's rocks. (II) These waves are produced when a form of energy stored in Earth's crust is suddenly released. (III) Volcanoes often occur at tectonic plate boundaries where magma erupts to the surface. (IV) The location below the earth's surface where the earthquake starts is called the hypocenter. (V) Directly above it on the surface of the earth is the epicenter.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Paragraf genel olarak depremlerden, sismik dalgalardan ve depremin merkez üssünden bahsederken, III. cümle volkanlardan bahsederek anlam bütünlüğünü bozmaktadır."
+  }
+]

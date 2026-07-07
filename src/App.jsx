@@ -1,12 +1,57 @@
 import { useState } from 'react';
-import questionsData from './data/questions.json';
 import './index.css';
 
 function App() {
+  const [selectedTest, setSelectedTest] = useState(null);
+  const [questionsData, setQuestionsData] = useState([]);
+  const [isLoading, setIsLoading] = useState(false);
+  
   const [currentIdx, setCurrentIdx] = useState(0);
   const [selectedOption, setSelectedOption] = useState(null);
   const [isAnswered, setIsAnswered] = useState(false);
   const [score, setScore] = useState({ correct: 0, wrong: 0 });
+
+  const loadTest = async (testNumber) => {
+    setIsLoading(true);
+    try {
+      const module = await import(`./data/deneme${testNumber}.json`);
+      setQuestionsData(module.default);
+      setSelectedTest(testNumber);
+      setCurrentIdx(0);
+      setScore({ correct: 0, wrong: 0 });
+      setSelectedOption(null);
+      setIsAnswered(false);
+    } catch (e) {
+      alert(`Deneme ${testNumber} henüz yüklenmedi veya bulunamadı.`);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  if (!selectedTest) {
+    return (
+      <div className="app-container menu-container">
+        <header className="header" style={{justifyContent: 'center', textAlign: 'center'}}>
+          <h1>YÖKDİL Deneme Platformu</h1>
+        </header>
+        <div className="card test-grid">
+          <h2>Lütfen Bir Deneme Seçin</h2>
+          <div className="grid">
+            {[1, 2, 3, 4, 5].map(num => (
+              <button 
+                key={num} 
+                className="test-btn"
+                onClick={() => loadTest(num)}
+                disabled={isLoading}
+              >
+                Deneme Sınavı {num} {isLoading ? '...' : ''}
+              </button>
+            ))}
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   const question = questionsData[currentIdx];
   const isFinished = currentIdx >= questionsData.length;
@@ -31,28 +76,31 @@ function App() {
   };
 
   const handleReset = () => {
-    setCurrentIdx(0);
-    setScore({ correct: 0, wrong: 0 });
-    setSelectedOption(null);
-    setIsAnswered(false);
+    setSelectedTest(null);
+    setQuestionsData([]);
   };
 
   if (isFinished) {
     return (
       <div className="app-container">
         <div className="card end-screen">
-          <h2>Tebrikler! Testi Tamamladınız</h2>
+          <h2>Tebrikler! Deneme {selectedTest} Sınavını Tamamladınız</h2>
           <p>Toplam {questionsData.length} sorudan {score.correct} tanesini doğru cevapladınız.</p>
-          <button className="reset-btn" onClick={handleReset}>Tekrar Başla</button>
+          <button className="reset-btn" onClick={handleReset}>Ana Menüye Dön</button>
         </div>
       </div>
     );
   }
 
+  if (!question) return null;
+
   return (
     <div className="app-container">
       <header className="header">
-        <h1>YÖKDİL Çalışma Platformu</h1>
+        <div className="header-title">
+          <button className="back-btn" onClick={() => setSelectedTest(null)}>❮ Menü</button>
+          <h1>Deneme {selectedTest}</h1>
+        </div>
         <div className="stats">
           <span>Toplam: {currentIdx + 1}/{questionsData.length}</span>
           <span className="correct">✓ {score.correct}</span>

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The discovery of penicillin was a major medical _____, saving countless lives since its introduction in the 1940s.",
+    "options": [
+      {"id": "A", "text": "setback"},
+      {"id": "B", "text": "breakthrough"},
+      {"id": "C", "text": "obstacle"},
+      {"id": "D", "text": "controversy"},
+      {"id": "E", "text": "drawback"}
+    ],
+    "correctOption": "B",
+    "explanation": "'Breakthrough' (büyük buluş/önemli gelişme) cümleye anlamca en uygun kelimedir. Penisilin keşfi tıbbi bir dönüm noktasıdır."
+  },
+  {
+    "id": 2,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Photosynthesis is the process by which green plants and some other organisms use sunlight to _____ foods from carbon dioxide and water.",
+    "options": [
+      {"id": "A", "text": "synthesize"},
+      {"id": "B", "text": "deteriorate"},
+      {"id": "C", "text": "eradicate"},
+      {"id": "D", "text": "fluctuate"},
+      {"id": "E", "text": "diminish"}
+    ],
+    "correctOption": "A",
+    "explanation": "'Synthesize' (sentezlemek, oluşturmak) anlamındadır. Fotosentez sürecinde besin sentezlenir."
+  },
+  {
+    "id": 3,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The ozone layer is crucial because it protects the Earth from the _____ effects of the sun's ultraviolet radiation.",
+    "options": [
+      {"id": "A", "text": "beneficial"},
+      {"id": "B", "text": "harmless"},
+      {"id": "C", "text": "detrimental"},
+      {"id": "D", "text": "negligible"},
+      {"id": "E", "text": "ambiguous"}
+    ],
+    "correctOption": "C",
+    "explanation": "'Detrimental' (zararlı) anlamındadır. Ozon tabakası, güneşin zararlı (detrimental) etkilerinden korur."
+  },
+  {
+    "id": 4,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "Even though nuclear energy is highly efficient, _____",
+    "options": [
+      {"id": "A", "text": "it produces very little waste compared to coal."},
+      {"id": "B", "text": "it is the only reliable energy source for the future."},
+      {"id": "C", "text": "it poses significant risks regarding radioactive waste disposal."},
+      {"id": "D", "text": "many countries are planning to build more nuclear reactors."},
+      {"id": "E", "text": "solar power has become much cheaper in recent years."}
+    ],
+    "correctOption": "C",
+    "explanation": "'Even though' zıtlık bağlacıdır. Verimli olmasına rağmen (olumlu), radyoaktif atık bertarafı konusunda ciddi riskler taşır (olumsuz) cümlesi doğru tamamlamadır."
+  },
+  {
+    "id": 5,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "If carbon dioxide levels in the atmosphere continue to rise at the current rate, _____",
+    "options": [
+      {"id": "A", "text": "the problem of global warming will largely be solved."},
+      {"id": "B", "text": "we might witness more extreme and unpredictable weather patterns."},
+      {"id": "C", "text": "renewable energy sources would have been useless."},
+      {"id": "D", "text": "scientists have already found a way to reverse the damage."},
+      {"id": "E", "text": "the agricultural sector didn't suffer as much as predicted."}
+    ],
+    "correctOption": "B",
+    "explanation": "Koşul cümlesi (Type 1). Eğer karbondioksit seviyeleri artmaya devam ederse, gelecekte daha aşırı ve öngörülemez hava olaylarına tanık olabiliriz."
+  },
+  {
+    "id": 6,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "Because Mars has a very thin atmosphere, _____",
+    "options": [
+      {"id": "A", "text": "it cannot retain much heat from the sun."},
+      {"id": "B", "text": "water once flowed on its surface billions of years ago."},
+      {"id": "C", "text": "rovers have successfully landed there multiple times."},
+      {"id": "D", "text": "its gravity is only about 38% of Earth's."},
+      {"id": "E", "text": "it is often referred to as the Red Planet."}
+    ],
+    "correctOption": "A",
+    "explanation": "Neden-sonuç ilişkisi (Because). Mars'ın çok ince bir atmosferi olduğu için (neden), güneşten gelen ısıyı fazla tutamaz (sonuç)."
+  },
+  {
+    "id": 7,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Advances in nanotechnology have made it possible to create materials that are both incredibly light and exceptionally strong.",
+    "options": [
+      {"id": "A", "text": "Nanoteknoloji alanındaki ilerlemeler, sadece hafif değil aynı zamanda dayanıklı malzemelerin üretilmesini sağlamıştır."},
+      {"id": "B", "text": "Nanoteknolojideki ilerlemeler, hem inanılmaz derecede hafif hem de olağanüstü derecede güçlü olan malzemeler yaratmayı mümkün kılmıştır."},
+      {"id": "C", "text": "İnanılmaz derecede hafif ve güçlü malzemeler yaratmak, nanoteknolojideki ilerlemeler sayesinde mümkün olmuştur."},
+      {"id": "D", "text": "Nanoteknoloji sayesinde, hem olağanüstü derecede güçlü hem de çok hafif malzemeler yaratmak kolaylaşmıştır."},
+      {"id": "E", "text": "Nanoteknolojinin gelişmesiyle, inanılmaz derecede hafif ve sağlam materyaller yaratmak muhtemeldir."}
+    ],
+    "correctOption": "B",
+    "explanation": "'Advances in nanotechnology' = Nanoteknolojideki ilerlemeler, 'have made it possible' = mümkün kılmıştır, 'to create materials that are both incredibly light and exceptionally strong' = hem inanılmaz derecede hafif hem de olağanüstü derecede güçlü olan malzemeler yaratmayı. B şıkkı birebir çeviridir."
+  },
+  {
+    "id": 8,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Güneş panelleri, güneş ışığını doğrudan elektriğe dönüştürerek temiz ve yenilenebilir bir enerji kaynağı sağlar.",
+    "options": [
+      {"id": "A", "text": "Solar panels convert sunlight into electricity, providing a clean and renewable source of energy."},
+      {"id": "B", "text": "By converting sunlight directly into electricity, solar panels provide a clean and renewable source of energy."},
+      {"id": "C", "text": "Solar panels provide a clean and renewable energy source, which converts sunlight into electricity."},
+      {"id": "D", "text": "The direct conversion of sunlight into electricity makes solar panels a clean and renewable energy source."},
+      {"id": "E", "text": "Since solar panels convert sunlight into electricity, they are a clean and renewable energy source."}
+    ],
+    "correctOption": "B",
+    "explanation": "'... dönüştürerek' = 'By converting ...', 'doğrudan' = 'directly', 'sağlar' = 'provide'. B şıkkı Türkçe cümlenin tam karşılığıdır."
+  },
+  {
+    "id": 9,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Many deep-sea creatures possess bioluminescence, which allows them to produce light and communicate in the dark depths of the ocean.",
+    "options": [
+      {"id": "A", "text": "Derin deniz canlılarının çoğu okyanusun karanlık derinliklerinde iletişim kurmak için biyolüminesans adı verilen bir ışık üretir."},
+      {"id": "B", "text": "Pek çok derin deniz canlısı, okyanusun karanlık derinliklerinde ışık üretmelerini ve iletişim kurmalarını sağlayan biyolüminesansa sahiptir."},
+      {"id": "C", "text": "Okyanusun karanlık derinliklerinde yaşayan canlılar, ışık üreterek iletişim kurmalarını sağlayan biyolüminesansa sahiptir."},
+      {"id": "D", "text": "Biyolüminesans sayesinde pek çok derin deniz canlısı, okyanusun karanlığında ışık üretebilir ve iletişim kurabilir."},
+      {"id": "E", "text": "Derin deniz canlıları biyolüminesansa sahip oldukları için karanlık okyanus derinliklerinde ışık üretip anlaşabilirler."}
+    ],
+    "correctOption": "B",
+    "explanation": "'Many deep-sea creatures' = Pek çok derin deniz canlısı, 'possess bioluminescence' = biyolüminesansa sahiptir, 'which allows them to produce light and communicate' = ışık üretmelerini ve iletişim kurmalarını sağlayan, 'in the dark depths of the ocean' = okyanusun karanlık derinliklerinde."
+  },
+  {
+    "id": 10,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) The human immune system is a complex network of cells and proteins that defends the body against infection. (II) White blood cells, also known as leukocytes, play a key role in this defense mechanism. (III) The circulatory system is responsible for transporting oxygen-rich blood from the heart to the rest of the body. (IV) When the body detects foreign substances called antigens, the immune system is triggered to destroy them. (V) Vaccines work by imitating an infection to train the immune system to fight off the real disease later.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Parça bağışıklık sistemi (immune system) ve vücudu enfeksiyonlara karşı nasıl koruduğu hakkındadır. III. cümle ise dolaşım sisteminin (circulatory system) görevinden bahsetmekte olup anlam akışını bozmaktadır."
+  },
+  {
+    "id": 11,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) Black holes are regions in space where the gravitational pull is so strong that nothing, not even light, can escape. (II) They are usually formed when a massive star collapses in upon itself at the end of its life cycle. (III) Most stars in the Milky Way are red dwarfs, which are much smaller and cooler than our Sun. (IV) As matter falls into a black hole, it gets extremely hot and emits X-rays, which astronomers can detect. (V) The boundary of a black hole, beyond which nothing can return, is known as the event horizon.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Metin genel olarak kara deliklerin (black holes) ne olduğu, nasıl oluştuğu ve özellikleri üzerine odaklanmaktadır. III. cümle ise kırmızı cüce yıldızlarından bahsettiği için konu dışıdır."
+  },
+  {
+    "id": 12,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) Graphene is a single layer of carbon atoms arranged in a two-dimensional honeycomb lattice. (II) It is highly valued in material science because it is stronger than steel and conducts electricity better than copper. (III) Carbon is the fourth most abundant element in the universe by mass. (IV) Potential applications of graphene include flexible electronics, advanced batteries, and water filtration systems. (V) Despite its incredible properties, mass-producing high-quality graphene at a low cost remains a significant challenge.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Metin grafen (graphene) malzemesi ve onun üstün fiziksel özelliklerine odaklanmaktadır. III. cümle karbonun evrendeki bolluk oranından bahsederek konu bütünlüğünü bozmaktadır."
+  },
+  {
+    "id": 13,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) Earthquakes occur when tectonic plates grinding against each other suddenly slip, releasing a massive amount of seismic energy. (II) Seismologists use devices called seismographs to measure and record these seismic waves. (III) The magnitude of an earthquake is usually reported using the Richter scale or the moment magnitude scale. (IV) Volcanoes, on the other hand, erupt when molten rock called magma rises to the surface. (V) Buildings in earthquake-prone areas are now designed with flexible foundations to withstand these violent tremors.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "D",
+    "explanation": "Metin depremlerin oluşumu, ölçümü ve depreme dayanıklı yapılar hakkındadır. IV. cümle ise volkanik patlamalardan bahsettiği için konu bütünlüğünü bozmaktadır."
+  },
+  {
+    "id": 14,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) The invention of the microscope in the late 16th century revolutionized biology. (II) It allowed scientists to observe microorganisms and cellular structures that were invisible to the naked eye. (III) Telescopes have also played a crucial role in expanding our understanding of the universe. (IV) Antonie van Leeuwenhoek is often credited as the first microbiologist for his pioneering work with early microscopes. (V) Modern electron microscopes can now magnify specimens millions of times, revealing details at the atomic level.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Paragraf mikroskobun icadı ve biyolojideki devrimi üzerinedir. III. cümle teleskoplardan ve astronomiden bahsettiği için akışı bozmaktadır."
+  },
+  {
+    "id": 15,
+    "type": "Okuma Parçası",
+    "context": "CRISPR-Cas9 is a groundbreaking gene-editing technology that has revolutionized molecular biology. Derived from the natural defense mechanisms of bacteria against viruses, CRISPR allows scientists to precisely alter DNA sequences and modify gene function. The system consists of two main components: the Cas9 protein, which acts as molecular scissors to cut DNA, and a guide RNA, which directs Cas9 to the specific location in the genome. The potential applications of CRISPR are vast, ranging from curing genetic diseases like sickle cell anemia to creating drought-resistant crops. However, the technology has also sparked intense ethical debates, particularly regarding its potential use in modifying human embryos. Critics argue that such modifications could lead to unforeseen genetic consequences and open the door to 'designer babies.' Despite these concerns, ongoing research aims to improve the precision of CRISPR and establish strict ethical guidelines to ensure its safe application.",
+    "text": "What is the primary function of the Cas9 protein in the CRISPR system?",
+    "options": [
+      {"id": "A", "text": "It guides the RNA to the correct location in the genome."},
+      {"id": "B", "text": "It cuts the DNA at a specific targeted location."},
+      {"id": "C", "text": "It repairs the broken DNA strands after editing."},
+      {"id": "D", "text": "It acts as a defense mechanism against bacterial infections."},
+      {"id": "E", "text": "It creates new genes to replace the defective ones."}
+    ],
+    "correctOption": "B",
+    "explanation": "Parçada Cas9 proteini için 'acts as molecular scissors to cut DNA' (DNA'yı kesmek için moleküler makas olarak görev yapar) ifadesi kullanılmıştır."
+  },
+  {
+    "id": 16,
+    "type": "Okuma Parçası",
+    "context": "CRISPR-Cas9 is a groundbreaking gene-editing technology that has revolutionized molecular biology. Derived from the natural defense mechanisms of bacteria against viruses, CRISPR allows scientists to precisely alter DNA sequences and modify gene function. The system consists of two main components: the Cas9 protein, which acts as molecular scissors to cut DNA, and a guide RNA, which directs Cas9 to the specific location in the genome. The potential applications of CRISPR are vast, ranging from curing genetic diseases like sickle cell anemia to creating drought-resistant crops. However, the technology has also sparked intense ethical debates, particularly regarding its potential use in modifying human embryos. Critics argue that such modifications could lead to unforeseen genetic consequences and open the door to 'designer babies.' Despite these concerns, ongoing research aims to improve the precision of CRISPR and establish strict ethical guidelines to ensure its safe application.",
+    "text": "According to the passage, what is the main ethical concern surrounding CRISPR technology?",
+    "options": [
+      {"id": "A", "text": "The high cost of the technology limits its availability to wealthy nations."},
+      {"id": "B", "text": "It might accidentally create new, dangerous viruses."},
+      {"id": "C", "text": "It is currently too imprecise to be used safely in any medical applications."},
+      {"id": "D", "text": "Its application on human embryos could lead to unpredictable genetic outcomes and 'designer babies'."},
+      {"id": "E", "text": "Modifying crops might lead to the extinction of natural plant species."}
+    ],
+    "correctOption": "D",
+    "explanation": "Parçada, etik tartışmaların özellikle 'modifying human embryos' (insan embriyolarının değiştirilmesi) üzerinde yoğunlaştığı ve eleştirmenlerin 'designer babies' (tasarım bebekler) ve öngörülemeyen genetik sonuçlardan endişe duyduğu belirtilmektedir."
+  },
+  {
+    "id": 17,
+    "type": "Okuma Parçası",
+    "context": "CRISPR-Cas9 is a groundbreaking gene-editing technology that has revolutionized molecular biology. Derived from the natural defense mechanisms of bacteria against viruses, CRISPR allows scientists to precisely alter DNA sequences and modify gene function. The system consists of two main components: the Cas9 protein, which acts as molecular scissors to cut DNA, and a guide RNA, which directs Cas9 to the specific location in the genome. The potential applications of CRISPR are vast, ranging from curing genetic diseases like sickle cell anemia to creating drought-resistant crops. However, the technology has also sparked intense ethical debates, particularly regarding its potential use in modifying human embryos. Critics argue that such modifications could lead to unforeseen genetic consequences and open the door to 'designer babies.' Despite these concerns, ongoing research aims to improve the precision of CRISPR and establish strict ethical guidelines to ensure its safe application.",
+    "text": "The passage implies that the CRISPR-Cas9 system was originally _____",
+    "options": [
+      {"id": "A", "text": "synthesized completely in a laboratory by genetic engineers."},
+      {"id": "B", "text": "a mechanism used by viruses to attack bacterial cells."},
+      {"id": "C", "text": "adapted from a natural process that bacteria use to defend themselves."},
+      {"id": "D", "text": "designed solely to treat human genetic disorders."},
+      {"id": "E", "text": "discovered during agricultural research on crops."}
+    ],
+    "correctOption": "C",
+    "explanation": "Parçada 'Derived from the natural defense mechanisms of bacteria against viruses' (Bakterilerin virüslere karşı doğal savunma mekanizmalarından türetilmiştir) ifadesi geçmektedir."
+  },
+  {
+    "id": 18,
+    "type": "Okuma Parçası",
+    "context": "Coral reefs are among the most diverse and valuable ecosystems on Earth. They support over 25% of all marine species, despite covering less than 1% of the ocean floor. However, these vital ecosystems are facing severe threats, primarily due to climate change. As global temperatures rise, the oceans absorb a significant amount of the excess heat, causing water temperatures to increase. This thermal stress leads to coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, causing them to turn completely white. These algae, known as zooxanthellae, provide the corals with up to 90% of their energy through photosynthesis. Without the algae, the corals are left vulnerable, weakened, and likely to die if the temperatures do not return to normal relatively quickly. Furthermore, increased carbon dioxide in the atmosphere leads to ocean acidification, which makes it harder for corals to build their calcium carbonate skeletons, further threatening reef survival.",
+    "text": "What is the primary cause of coral bleaching mentioned in the passage?",
+    "options": [
+      {"id": "A", "text": "Ocean acidification preventing skeleton growth."},
+      {"id": "B", "text": "Thermal stress caused by rising ocean temperatures."},
+      {"id": "C", "text": "An overpopulation of marine species living in the reefs."},
+      {"id": "D", "text": "Direct physical damage from human activities."},
+      {"id": "E", "text": "A sudden decrease in atmospheric carbon dioxide."}
+    ],
+    "correctOption": "B",
+    "explanation": "Parçada 'This thermal stress leads to coral bleaching' ifadesiyle, mercan beyazlamasının asıl nedeninin okyanus sularının ısınmasından kaynaklı termal stres (thermal stress) olduğu belirtilmiştir."
+  },
+  {
+    "id": 19,
+    "type": "Okuma Parçası",
+    "context": "Coral reefs are among the most diverse and valuable ecosystems on Earth. They support over 25% of all marine species, despite covering less than 1% of the ocean floor. However, these vital ecosystems are facing severe threats, primarily due to climate change. As global temperatures rise, the oceans absorb a significant amount of the excess heat, causing water temperatures to increase. This thermal stress leads to coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, causing them to turn completely white. These algae, known as zooxanthellae, provide the corals with up to 90% of their energy through photosynthesis. Without the algae, the corals are left vulnerable, weakened, and likely to die if the temperatures do not return to normal relatively quickly. Furthermore, increased carbon dioxide in the atmosphere leads to ocean acidification, which makes it harder for corals to build their calcium carbonate skeletons, further threatening reef survival.",
+    "text": "What role do zooxanthellae play in the life of corals?",
+    "options": [
+      {"id": "A", "text": "They build the calcium carbonate skeletons for the corals."},
+      {"id": "B", "text": "They protect the corals from the effects of ocean acidification."},
+      {"id": "C", "text": "They act as a defense mechanism against predators."},
+      {"id": "D", "text": "They provide the majority of the energy corals need to survive."},
+      {"id": "E", "text": "They cool down the surrounding water temperatures."}
+    ],
+    "correctOption": "D",
+    "explanation": "Parçada 'provide the corals with up to 90% of their energy through photosynthesis' denilmiştir. Yani zooxanthellae algleri, mercanlara enerjilerinin büyük kısmını sağlar."
+  },
+  {
+    "id": 20,
+    "type": "Okuma Parçası",
+    "context": "Coral reefs are among the most diverse and valuable ecosystems on Earth. They support over 25% of all marine species, despite covering less than 1% of the ocean floor. However, these vital ecosystems are facing severe threats, primarily due to climate change. As global temperatures rise, the oceans absorb a significant amount of the excess heat, causing water temperatures to increase. This thermal stress leads to coral bleaching, a phenomenon where corals expel the symbiotic algae living in their tissues, causing them to turn completely white. These algae, known as zooxanthellae, provide the corals with up to 90% of their energy through photosynthesis. Without the algae, the corals are left vulnerable, weakened, and likely to die if the temperatures do not return to normal relatively quickly. Furthermore, increased carbon dioxide in the atmosphere leads to ocean acidification, which makes it harder for corals to build their calcium carbonate skeletons, further threatening reef survival.",
+    "text": "According to the passage, how does ocean acidification affect corals?",
+    "options": [
+      {"id": "A", "text": "It causes them to expel their symbiotic algae."},
+      {"id": "B", "text": "It makes it difficult for them to construct their calcium carbonate skeletons."},
+      {"id": "C", "text": "It increases the temperature of the ocean water rapidly."},
+      {"id": "D", "text": "It forces them to migrate to cooler ocean floors."},
+      {"id": "E", "text": "It prevents them from absorbing carbon dioxide."}
+    ],
+    "correctOption": "B",
+    "explanation": "Parçanın sonunda 'ocean acidification, which makes it harder for corals to build their calcium carbonate skeletons' (okyanus asitlenmesi, mercanların kalsiyum karbonat iskeletlerini oluşturmasını zorlaştırır) denmektedir."
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "Cloze Test",
+    "context": "The human immune system is a complex network of cells and proteins that defends the body against infection. While ____(1)____ immune responses are crucial for survival, overactive responses can lead to autoimmune diseases. Researchers ____(2)____ studying these mechanisms for decades. Recent breakthroughs have shown that certain T-cells ____(3)____ a central role in regulating this balance. If scientists can harness this ability, they ____(4)____ new therapies for conditions like rheumatoid arthritis. However, there are still many challenges to ____(5)____ before these therapies can be applied in clinical settings.",
+    "text": "While ____(1)____ immune responses are crucial for survival...",
+    "options": [
+      {"id": "A", "text": "inadequate"},
+      {"id": "B", "text": "robust"},
+      {"id": "C", "text": "fragile"},
+      {"id": "D", "text": "obsolete"},
+      {"id": "E", "text": "detrimental"}
+    ],
+    "correctOption": "B",
+    "explanation": "'robust' means strong and healthy, which fits the positive necessity for survival against infections."
+  },
+  {
+    "id": 2,
+    "type": "Cloze Test",
+    "context": "The human immune system is a complex network of cells and proteins that defends the body against infection. While ____(1)____ immune responses are crucial for survival, overactive responses can lead to autoimmune diseases. Researchers ____(2)____ studying these mechanisms for decades. Recent breakthroughs have shown that certain T-cells ____(3)____ a central role in regulating this balance. If scientists can harness this ability, they ____(4)____ new therapies for conditions like rheumatoid arthritis. However, there are still many challenges to ____(5)____ before these therapies can be applied in clinical settings.",
+    "text": "Researchers ____(2)____ studying these mechanisms for decades.",
+    "options": [
+      {"id": "A", "text": "are"},
+      {"id": "B", "text": "will be"},
+      {"id": "C", "text": "have been"},
+      {"id": "D", "text": "were"},
+      {"id": "E", "text": "had been"}
+    ],
+    "correctOption": "C",
+    "explanation": "The phrase 'for decades' indicates an action that started in the past and continues into the present, requiring the present perfect continuous tense 'have been'."
+  },
+  {
+    "id": 3,
+    "type": "Cloze Test",
+    "context": "The human immune system is a complex network of cells and proteins that defends the body against infection. While ____(1)____ immune responses are crucial for survival, overactive responses can lead to autoimmune diseases. Researchers ____(2)____ studying these mechanisms for decades. Recent breakthroughs have shown that certain T-cells ____(3)____ a central role in regulating this balance. If scientists can harness this ability, they ____(4)____ new therapies for conditions like rheumatoid arthritis. However, there are still many challenges to ____(5)____ before these therapies can be applied in clinical settings.",
+    "text": "Recent breakthroughs have shown that certain T-cells ____(3)____ a central role in regulating this balance.",
+    "options": [
+      {"id": "A", "text": "play"},
+      {"id": "B", "text": "avoid"},
+      {"id": "C", "text": "disrupt"},
+      {"id": "D", "text": "ignore"},
+      {"id": "E", "text": "conceal"}
+    ],
+    "correctOption": "A",
+    "explanation": "'Play a role' is a common English collocation meaning to have a specific part or function in an activity or situation."
+  },
+  {
+    "id": 4,
+    "type": "Cloze Test",
+    "context": "The human immune system is a complex network of cells and proteins that defends the body against infection. While ____(1)____ immune responses are crucial for survival, overactive responses can lead to autoimmune diseases. Researchers ____(2)____ studying these mechanisms for decades. Recent breakthroughs have shown that certain T-cells ____(3)____ a central role in regulating this balance. If scientists can harness this ability, they ____(4)____ new therapies for conditions like rheumatoid arthritis. However, there are still many challenges to ____(5)____ before these therapies can be applied in clinical settings.",
+    "text": "If scientists can harness this ability, they ____(4)____ new therapies for conditions like rheumatoid arthritis.",
+    "options": [
+      {"id": "A", "text": "developed"},
+      {"id": "B", "text": "might develop"},
+      {"id": "C", "text": "had developed"},
+      {"id": "D", "text": "develop"},
+      {"id": "E", "text": "were developing"}
+    ],
+    "correctOption": "B",
+    "explanation": "This is a Type 1 conditional sentence focusing on a future possibility. 'Might develop' correctly expresses future potential."
+  },
+  {
+    "id": 5,
+    "type": "Cloze Test",
+    "context": "The human immune system is a complex network of cells and proteins that defends the body against infection. While ____(1)____ immune responses are crucial for survival, overactive responses can lead to autoimmune diseases. Researchers ____(2)____ studying these mechanisms for decades. Recent breakthroughs have shown that certain T-cells ____(3)____ a central role in regulating this balance. If scientists can harness this ability, they ____(4)____ new therapies for conditions like rheumatoid arthritis. However, there are still many challenges to ____(5)____ before these therapies can be applied in clinical settings.",
+    "text": "However, there are still many challenges to ____(5)____ before these therapies can be applied in clinical settings.",
+    "options": [
+      {"id": "A", "text": "undergo"},
+      {"id": "B", "text": "overlook"},
+      {"id": "C", "text": "overcome"},
+      {"id": "D", "text": "withdraw"},
+      {"id": "E", "text": "undertake"}
+    ],
+    "correctOption": "C",
+    "explanation": "The verb 'overcome' is the correct collocate for 'challenges', meaning to succeed in dealing with a problem or difficulty."
+  },
+  {
+    "id": 6,
+    "type": "Paragraph Completion",
+    "context": "",
+    "text": "_____. For instance, the gravitational pull of the moon is the primary cause of ocean tides on Earth. The sun also plays a role, though its effect is less pronounced due to its greater distance. When the sun, moon, and Earth align, we experience spring tides, which are exceptionally high and low.",
+    "options": [
+      {"id": "A", "text": "The ocean tides are primarily caused by underwater earthquakes."},
+      {"id": "B", "text": "Celestial bodies exert significant forces on our planet."},
+      {"id": "C", "text": "The moon's surface is covered with craters from meteorite impacts."},
+      {"id": "D", "text": "Solar flares can disrupt satellite communications on Earth."},
+      {"id": "E", "text": "Astronomy is the study of everything in the universe beyond Earth's atmosphere."}
+    ],
+    "correctOption": "B",
+    "explanation": "The paragraph discusses the gravitational pull of the moon and the sun (celestial bodies) on Earth, providing specific examples of their forces."
+  },
+  {
+    "id": 7,
+    "type": "Paragraph Completion",
+    "context": "",
+    "text": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. _____. This byproduct is essential for the survival of most aerobic life forms on Earth, including humans.",
+    "options": [
+      {"id": "A", "text": "The process typically involves the green pigment chlorophyll."},
+      {"id": "B", "text": "Plants also require minerals from the soil to grow effectively."},
+      {"id": "C", "text": "Cellular respiration is the reverse process of photosynthesis."},
+      {"id": "D", "text": "As a result of this process, oxygen is released into the atmosphere."},
+      {"id": "E", "text": "Some bacteria perform photosynthesis without producing oxygen."}
+    ],
+    "correctOption": "D",
+    "explanation": "The following sentence refers to 'This byproduct', which logically points back to the oxygen released into the atmosphere during photosynthesis."
+  },
+  {
+    "id": 8,
+    "type": "Paragraph Completion",
+    "context": "",
+    "text": "The development of quantum computers promises a massive leap in computational power. Unlike classical computers, which process information in binary bits of 0 and 1, quantum computers use quantum bits or qubits. _____. This property allows them to solve complex problems, such as molecular modeling, much faster than current technology.",
+    "options": [
+      {"id": "A", "text": "Qubits can exist in multiple states simultaneously due to superposition."},
+      {"id": "B", "text": "Classical computers are still widely used for everyday tasks."},
+      {"id": "C", "text": "The first mechanical computer was designed by Charles Babbage."},
+      {"id": "D", "text": "Quantum cryptography ensures secure communication channels."},
+      {"id": "E", "text": "The hardware required for quantum computers must be kept at extremely high temperatures."}
+    ],
+    "correctOption": "A",
+    "explanation": "The blank must explain how qubits are different and what 'property' allows them to solve complex problems faster, which is their ability to exist in multiple states."
+  },
+  {
+    "id": 9,
+    "type": "Paragraph Completion",
+    "context": "",
+    "text": "Climate change is altering global weather patterns and causing a rise in sea levels. _____. For example, coastal cities are increasingly vulnerable to flooding during severe storms. Furthermore, agricultural yields in many regions are expected to decline due to prolonged droughts.",
+    "options": [
+      {"id": "A", "text": "Many scientists disagree on the exact causes of global warming."},
+      {"id": "B", "text": "The transition to renewable energy sources is accelerating globally."},
+      {"id": "C", "text": "These changes pose significant threats to human populations and ecosystems."},
+      {"id": "D", "text": "Carbon dioxide is not the only greenhouse gas responsible for these changes."},
+      {"id": "E", "text": "The Industrial Revolution marked the beginning of large-scale fossil fuel use."}
+    ],
+    "correctOption": "C",
+    "explanation": "The surrounding sentences give examples of vulnerabilities and declining yields, so the blank must introduce the idea of threats and consequences to humans and ecosystems."
+  },
+  {
+    "id": 10,
+    "type": "Paragraph Completion",
+    "context": "",
+    "text": "Nanotechnology involves the manipulation of matter on an atomic, molecular, and supramolecular scale. _____. In medicine, for example, engineered nanoparticles can be used to deliver drugs directly to cancer cells, minimizing damage to healthy tissue.",
+    "options": [
+      {"id": "A", "text": "The concept was first introduced by physicist Richard Feynman in 1959."},
+      {"id": "B", "text": "It has a wide range of potential applications across various scientific fields."},
+      {"id": "C", "text": "The production of nanomaterials can be expensive and complex."},
+      {"id": "D", "text": "Critics worry about the environmental impact of microscopic pollutants."},
+      {"id": "E", "text": "Carbon nanotubes are among the strongest materials known to science."}
+    ],
+    "correctOption": "B",
+    "explanation": "The following sentence gives an example of an application ('In medicine, for example...'), so the blank must introduce the idea that it has wide applications."
+  },
+  {
+    "id": 11,
+    "type": "Vocabulary",
+    "context": "",
+    "text": "The exact cause of the disease remains _____, although genetic factors are strongly suspected to play a role.",
+    "options": [
+      {"id": "A", "text": "definitive"},
+      {"id": "B", "text": "obscure"},
+      {"id": "C", "text": "prevalent"},
+      {"id": "D", "text": "explicit"},
+      {"id": "E", "text": "transparent"}
+    ],
+    "correctOption": "B",
+    "explanation": "The word 'obscure' means unclear or unknown, perfectly fitting the context that the exact cause is not fully understood despite suspicions."
+  },
+  {
+    "id": 12,
+    "type": "Vocabulary",
+    "context": "",
+    "text": "Engineers are working on a new type of battery that can _____ large amounts of energy for long periods without degrading.",
+    "options": [
+      {"id": "A", "text": "deplete"},
+      {"id": "B", "text": "emit"},
+      {"id": "C", "text": "retain"},
+      {"id": "D", "text": "squander"},
+      {"id": "E", "text": "convert"}
+    ],
+    "correctOption": "C",
+    "explanation": "The verb 'retain' means to hold or keep, which makes sense for a battery that needs to store large amounts of energy."
+  },
+  {
+    "id": 13,
+    "type": "Vocabulary",
+    "context": "",
+    "text": "The sudden _____ of the volcano surprised geologists, as it had been dormant for over two centuries.",
+    "options": [
+      {"id": "A", "text": "extinction"},
+      {"id": "B", "text": "emission"},
+      {"id": "C", "text": "erosion"},
+      {"id": "D", "text": "eruption"},
+      {"id": "E", "text": "evolution"}
+    ],
+    "correctOption": "D",
+    "explanation": "'Eruption' is the specific scientific term used for a volcano becoming active and violently releasing lava and gas."
+  },
+  {
+    "id": 14,
+    "type": "Sentence Completion",
+    "context": "",
+    "text": "Even though artificial intelligence has made remarkable progress in pattern recognition, _____.",
+    "options": [
+      {"id": "A", "text": "they are capable of learning from massive datasets very quickly"},
+      {"id": "B", "text": "it still struggles with tasks requiring true common sense and emotional intelligence"},
+      {"id": "C", "text": "robotics engineering requires a deep understanding of mechanical physics"},
+      {"id": "D", "text": "algorithms have become increasingly efficient over the past decade"},
+      {"id": "E", "text": "computer vision is now widely used in autonomous vehicles"}
+    ],
+    "correctOption": "B",
+    "explanation": "The conjunction 'even though' requires a contrasting statement. Option B provides a contrast to 'remarkable progress' by mentioning an ongoing struggle."
+  },
+  {
+    "id": 15,
+    "type": "Sentence Completion",
+    "context": "",
+    "text": "_____, scientists can accurately determine the age of ancient organic materials.",
+    "options": [
+      {"id": "A", "text": "By measuring the remaining amount of carbon-14 in a sample"},
+      {"id": "B", "text": "Since the fossil record provides incomplete evidence of evolution"},
+      {"id": "C", "text": "Because geological layers are often disturbed by tectonic activity"},
+      {"id": "D", "text": "If the artifacts were preserved in an oxygen-free environment"},
+      {"id": "E", "text": "Although radiometric dating is a relatively modern technique"}
+    ],
+    "correctOption": "A",
+    "explanation": "Option A gives the method (measuring carbon-14) that logically enables scientists to determine the age of organic materials."
+  },
+  {
+    "id": 16,
+    "type": "Sentence Completion",
+    "context": "",
+    "text": "Most experts agree that a shift towards electric vehicles is necessary _____.",
+    "options": [
+      {"id": "A", "text": "so that internal combustion engines have become more fuel-efficient"},
+      {"id": "B", "text": "unless the government provides substantial subsidies for battery research"},
+      {"id": "C", "text": "in order to reduce the transportation sector's heavy reliance on fossil fuels"},
+      {"id": "D", "text": "yet public transportation systems require massive infrastructure investments"},
+      {"id": "E", "text": "given that renewable energy sources are often intermittent"}
+    ],
+    "correctOption": "C",
+    "explanation": "Option C provides a logical reason and purpose (reducing fossil fuel reliance) for why a shift towards electric vehicles is deemed necessary."
+  },
+  {
+    "id": 17,
+    "type": "Grammar",
+    "context": "",
+    "text": "By the time the Mars rover finally _____ its mission next year, it _____ valuable data for over a decade.",
+    "options": [
+      {"id": "A", "text": "completes / will have been collecting"},
+      {"id": "B", "text": "will complete / has collected"},
+      {"id": "C", "text": "completed / had collected"},
+      {"id": "D", "text": "has completed / is collecting"},
+      {"id": "E", "text": "completes / would collect"}
+    ],
+    "correctOption": "A",
+    "explanation": "The phrase 'By the time' + present simple ('completes') is used for future actions. This is paired with the future perfect continuous ('will have been collecting') to emphasize the duration of the action up to that future point."
+  },
+  {
+    "id": 18,
+    "type": "Grammar",
+    "context": "",
+    "text": "The new material is not only lighter than aluminum _____ stronger than steel, making it ideal for aerospace applications.",
+    "options": [
+      {"id": "A", "text": "or else"},
+      {"id": "B", "text": "but also"},
+      {"id": "C", "text": "as well as"},
+      {"id": "D", "text": "so that"},
+      {"id": "E", "text": "nor"}
+    ],
+    "correctOption": "B",
+    "explanation": "The correct correlative conjunction pair is 'not only... but also', used to join two parallel elements in a sentence."
+  },
+  {
+    "id": 19,
+    "type": "Translation",
+    "context": "",
+    "text": "Bilim insanları, okyanus asitlenmesinin mercan resifleri üzerindeki uzun vadeli etkilerini anlamak için yeni bir çalışma başlattılar.",
+    "options": [
+      {"id": "A", "text": "A new study has been initiated by scientists to mitigate the long-term effects of ocean acidification on coral reefs."},
+      {"id": "B", "text": "Scientists have launched a new study to understand the long-term effects of ocean acidification on coral reefs."},
+      {"id": "C", "text": "The long-term effects of ocean acidification on coral reefs are being studied by scientists through a new project."},
+      {"id": "D", "text": "Scientists are initiating new studies to observe how ocean acidification affects coral reefs in the long term."},
+      {"id": "E", "text": "In order to understand coral reefs, scientists have started a new study on long-term ocean acidification."}
+    ],
+    "correctOption": "B",
+    "explanation": "'Bilim insanları' correctly translates to 'Scientists', 'başlattılar' to 'have launched/started', 'anlamak için' to 'to understand', and 'uzun vadeli etkilerini' to 'the long-term effects of'."
+  },
+  {
+    "id": 20,
+    "type": "Translation",
+    "context": "",
+    "text": "The discovery of antibiotics in the 20th century revolutionized medicine by providing an effective cure for bacterial infections.",
+    "options": [
+      {"id": "A", "text": "Yirminci yüzyılda antibiyotiklerin keşfi, bakteriyel enfeksiyonlar için etkili bir tedavi sağlayarak tıpta devrim yaratmıştır."},
+      {"id": "B", "text": "Tıpta devrim yaratan antibiyotikler, 20. yüzyılda keşfedilerek bakteriyel enfeksiyonlara kesin bir çözüm sunmuştur."},
+      {"id": "C", "text": "Bakteriyel enfeksiyonları etkili bir şekilde tedavi eden antibiyotiklerin 20. yüzyıldaki keşfi tıbbı tamamen değiştirmiştir."},
+      {"id": "D", "text": "Yirminci yüzyılda keşfedilen antibiyotikler, bakteriyel enfeksiyonlara karşı etkili bir tedavi sunarak tıp dünyasında devrim yapmıştır."},
+      {"id": "E", "text": "Antibiyotiklerin keşfi 20. yüzyılda tıpta devrim yapmış ve bakteriyel enfeksiyonların etkili tedavisini mümkün kılmıştır."}
+    ],
+    "correctOption": "A",
+    "explanation": "'The discovery of antibiotics in the 20th century' is 'Yirminci yüzyılda antibiyotiklerin keşfi', 'revolutionized medicine' is 'tıpta devrim yaratmıştır', and 'by providing...' corresponds to '...sağlayarak'."
+  }
+]

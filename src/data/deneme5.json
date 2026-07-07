@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The ---- of antibiotics in agriculture has led to the emergence of resistant strains of bacteria.",
+    "options": [
+      {"id": "A", "text": "prevention"},
+      {"id": "B", "text": "reduction"},
+      {"id": "C", "text": "overuse"},
+      {"id": "D", "text": "scarcity"},
+      {"id": "E", "text": "distribution"}
+    ],
+    "correctOption": "C",
+    "explanation": "Cümlede antibiyotiklerin tarımda 'aşırı kullanımı'nın dirençli bakteri suşlarının ortaya çıkmasına yol açtığı ifade edilmektedir. 'Overuse' aşırı kullanım anlamına gelir."
+  },
+  {
+    "id": 2,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Because the ecosystem is highly fragile, even minor environmental changes can have ---- consequences.",
+    "options": [
+      {"id": "A", "text": "beneficial"},
+      {"id": "B", "text": "negligible"},
+      {"id": "C", "text": "temporary"},
+      {"id": "D", "text": "devastating"},
+      {"id": "E", "text": "sustainable"}
+    ],
+    "correctOption": "D",
+    "explanation": "Ekosistem oldukça kırılgan olduğu için, küçük çevresel değişikliklerin bile 'yıkıcı' (devastating) sonuçları olabilir."
+  },
+  {
+    "id": 3,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Some species of plants can ---- toxic metals from the soil, making them useful for environmental cleanup.",
+    "options": [
+      {"id": "A", "text": "extract"},
+      {"id": "B", "text": "reflect"},
+      {"id": "C", "text": "ignore"},
+      {"id": "D", "text": "dilute"},
+      {"id": "E", "text": "pollute"}
+    ],
+    "correctOption": "A",
+    "explanation": "Bitkilerin topraktan toksik metalleri 'çıkarabildiği' (extract) ve bu nedenle çevresel temizlikte faydalı oldukları anlatılmaktadır."
+  },
+  {
+    "id": 4,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "If scientists ---- earlier that the virus was airborne, they ---- stricter mask mandates sooner.",
+    "options": [
+      {"id": "A", "text": "realized / could implement"},
+      {"id": "B", "text": "had realized / might have implemented"},
+      {"id": "C", "text": "realize / will implement"},
+      {"id": "D", "text": "have realized / implemented"},
+      {"id": "E", "text": "would realize / had implemented"}
+    ],
+    "correctOption": "B",
+    "explanation": "Type 3 If Clause: Geçmişte gerçekleşmemiş bir koşul (had V3) ve geçmişteki olası sonucu (might have V3) ifade eder."
+  },
+  {
+    "id": 5,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "The fossil fuels we rely on today ---- from the remains of plants and animals that ---- millions of years ago.",
+    "options": [
+      {"id": "A", "text": "form / died"},
+      {"id": "B", "text": "formed / had died"},
+      {"id": "C", "text": "are formed / have died"},
+      {"id": "D", "text": "were formed / died"},
+      {"id": "E", "text": "have been formed / die"}
+    ],
+    "correctOption": "D",
+    "explanation": "Fosil yakıtlar geçmişte oluştuğu için edilgen ve Simple Past (were formed), ölen hayvanlar da geçmişte olduğu için Simple Past (died) kullanılır."
+  },
+  {
+    "id": 6,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "Water ---- into hydrogen and oxygen gases when an electric current ---- through it.",
+    "options": [
+      {"id": "A", "text": "decomposes / is passed"},
+      {"id": "B", "text": "decomposed / passed"},
+      {"id": "C", "text": "has decomposed / will be passed"},
+      {"id": "D", "text": "will decompose / passes"},
+      {"id": "E", "text": "is decomposing / has passed"}
+    ],
+    "correctOption": "A",
+    "explanation": "Bilimsel bir gerçek (geniş zaman) anlatılıyor. Su parçalanır (decomposes), elektrik akımı geçirildiğinde (is passed - edilgen)."
+  },
+  {
+    "id": 7,
+    "type": "Cloze Test",
+    "context": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. (7) ---- in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct. The process is critical (8) ---- life on Earth as it maintains the normal level of oxygen in the atmosphere.",
+    "text": "Which of the following is correct for the blank numbered (7)?",
+    "options": [
+      {"id": "A", "text": "Respiration"},
+      {"id": "B", "text": "Digestion"},
+      {"id": "C", "text": "Photosynthesis"},
+      {"id": "D", "text": "Fermentation"},
+      {"id": "E", "text": "Transpiration"}
+    ],
+    "correctOption": "C",
+    "explanation": "Parça fotosentez (photosynthesis) hakkında bilgi vermektedir."
+  },
+  {
+    "id": 8,
+    "type": "Cloze Test",
+    "context": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. (7) ---- in plants generally involves the green pigment chlorophyll and generates oxygen as a byproduct. The process is critical (8) ---- life on Earth as it maintains the normal level of oxygen in the atmosphere.",
+    "text": "Which of the following is correct for the blank numbered (8)?",
+    "options": [
+      {"id": "A", "text": "for"},
+      {"id": "B", "text": "by"},
+      {"id": "C", "text": "with"},
+      {"id": "D", "text": "from"},
+      {"id": "E", "text": "against"}
+    ],
+    "correctOption": "A",
+    "explanation": "Bir şey için kritik/önemli olmak anlamında 'critical for' yapısı kullanılır."
+  },
+  {
+    "id": 9,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "Although solar energy is a renewable and clean resource, ----.",
+    "options": [
+      {"id": "A", "text": "it requires significant initial investment and is weather-dependent"},
+      {"id": "B", "text": "fossil fuels are becoming increasingly expensive"},
+      {"id": "C", "text": "scientists are trying to discover new energy sources"},
+      {"id": "D", "text": "greenhouse gas emissions have decreased in recent years"},
+      {"id": "E", "text": "wind power is also gaining popularity worldwide"}
+    ],
+    "correctOption": "A",
+    "explanation": "Zıtlık bağlacı (Although), güneş enerjisinin olumlu özelliklerinin yanında olumsuz bir özelliğinin (maliyetli ve hava durumuna bağlı olması) gelmesini gerektirir."
+  },
+  {
+    "id": 10,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "Since the Earth's crust is divided into several major tectonic plates, ----.",
+    "options": [
+      {"id": "A", "text": "the core is extremely hot and composed mainly of iron"},
+      {"id": "B", "text": "their movement causes earthquakes and volcanic activity at their boundaries"},
+      {"id": "C", "text": "oceans cover more than 70 percent of the planet's surface"},
+      {"id": "D", "text": "the atmosphere protects us from harmful solar radiation"},
+      {"id": "E", "text": "many ancient civilizations believed the Earth was flat"}
+    ],
+    "correctOption": "B",
+    "explanation": "Neden-sonuç ilişkisi: Yer kabuğu tektonik plakalara bölündüğü için (Since), bu plakaların hareketleri depremlere ve volkanik aktiviteye neden olur."
+  },
+  {
+    "id": 11,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "----, the Mars rover Curiosity has provided unprecedented insights into the planet's geology.",
+    "options": [
+      {"id": "A", "text": "Because the mission was cancelled due to budget cuts"},
+      {"id": "B", "text": "By analyzing rock samples and sending high-resolution images"},
+      {"id": "C", "text": "Unless new spacecraft are launched in the next decade"},
+      {"id": "D", "text": "Although humans have never set foot on another planet"},
+      {"id": "E", "text": "While telescopes are still useful for observing distant stars"}
+    ],
+    "correctOption": "B",
+    "explanation": "Curiosity aracının Mars'ın jeolojisi hakkında nasıl bilgi sağladığı 'By analyzing...' (analiz ederek) yapısıyla anlamlı bir şekilde tamamlanır."
+  },
+  {
+    "id": 12,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Quantum computers have the potential to solve certain problems much faster than classical computers.",
+    "options": [
+      {"id": "A", "text": "Kuantum bilgisayarları, bazı sorunları klasik bilgisayarlardan çok daha hızlı çözme potansiyeline sahiptir."},
+      {"id": "B", "text": "Kuantum bilgisayarları klasik bilgisayarlardan daha hızlı olduğu için pek çok sorunu çözebilir."},
+      {"id": "C", "text": "Bazı problemleri daha hızlı çözmek için klasik bilgisayarlar yerine kuantum bilgisayarları kullanılabilir."},
+      {"id": "D", "text": "Kuantum bilgisayarlarının potansiyeli, klasik bilgisayarlara göre daha karmaşık sorunları çözmesinden gelir."},
+      {"id": "E", "text": "Klasik bilgisayarların çözemediği bazı problemleri kuantum bilgisayarları hızlıca çözme kapasitesine sahiptir."}
+    ],
+    "correctOption": "A",
+    "explanation": "Özne: 'Quantum computers', Yüklem: 'have the potential to solve', Nesne: 'certain problems', Zarf: 'much faster than classical computers'. Birebir çevirisi A şıkkıdır."
+  },
+  {
+    "id": 13,
+    "type": "Çeviri",
+    "context": null,
+    "text": "The human brain is one of the most complex organs in the body, containing billions of neurons.",
+    "options": [
+      {"id": "A", "text": "İnsan beyni, milyarlarca nöron içerdiği için vücuttaki en karmaşık organlardan biridir."},
+      {"id": "B", "text": "Vücuttaki en karmaşık organ olan insan beyni, milyarlarca nörondan oluşur."},
+      {"id": "C", "text": "İnsan beyni, milyarlarca nöron içeren, vücuttaki en karmaşık organlardan biridir."},
+      {"id": "D", "text": "Milyarlarca nöron içeren insan beyni, vücudumuzdaki en önemli organlardan biridir."},
+      {"id": "E", "text": "İnsan beyninin milyarlarca nöron içermesi, onu vücudun en karmaşık organı yapar."}
+    ],
+    "correctOption": "C",
+    "explanation": "Virgülle ayrılmış 'containing billions of neurons' ifadesi sıfat fiil gibi çevrilir: 'milyarlarca nöron içeren'."
+  },
+  {
+    "id": 14,
+    "type": "Çeviri",
+    "context": null,
+    "text": "İklim değişikliği sadece sıcaklıkların artmasına değil, aynı zamanda aşırı hava olaylarına da neden olmaktadır.",
+    "options": [
+      {"id": "A", "text": "Climate change causes not only an increase in temperatures but also extreme weather events."},
+      {"id": "B", "text": "Extreme weather events and rising temperatures are both caused by climate change."},
+      {"id": "C", "text": "Not only temperatures increase, but also extreme weather events are triggered by climate change."},
+      {"id": "D", "text": "Climate change is responsible for extreme weather events as well as increasing temperatures."},
+      {"id": "E", "text": "The rise in temperatures and extreme weather events are the main consequences of climate change."}
+    ],
+    "correctOption": "A",
+    "explanation": "'Sadece ... değil, aynı zamanda ...' yapısı İngilizce'de 'not only ... but also ...' ile karşılanır."
+  },
+  {
+    "id": 15,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Genetik mühendisliğindeki ilerlemeler, pek çok kalıtsal hastalığın tedavisinde yeni yollar açmıştır.",
+    "options": [
+      {"id": "A", "text": "Advancements in genetic engineering have opened new ways in the treatment of many inherited diseases."},
+      {"id": "B", "text": "Genetic engineering advancements will provide new treatments for various inherited diseases."},
+      {"id": "C", "text": "New ways in treating many inherited diseases have been discovered through genetic engineering."},
+      {"id": "D", "text": "Progress in genetic engineering is paving the way for the cure of several inherited diseases."},
+      {"id": "E", "text": "Thanks to genetic engineering, new ways to treat hereditary diseases have emerged."}
+    ],
+    "correctOption": "A",
+    "explanation": "Özne: Advancements in genetic engineering, Yüklem: have opened new ways, Nesne: in the treatment of many inherited diseases."
+  },
+  {
+    "id": 16,
+    "type": "Paragraf Tamamlama",
+    "context": null,
+    "text": "Black holes are regions of space where gravity is so strong that nothing, not even light, can escape. They form when massive stars collapse under their own gravity at the end of their life cycles. ----. This boundary is called the event horizon, and once it is crossed, there is no return.",
+    "options": [
+      {"id": "A", "text": "The closest known black hole to Earth is thousands of light-years away."},
+      {"id": "B", "text": "However, supermassive black holes exist at the centers of most galaxies."},
+      {"id": "C", "text": "Anything that passes a certain boundary around the black hole is inevitably pulled in."},
+      {"id": "D", "text": "Albert Einstein's theory of general relativity predicted their existence."},
+      {"id": "E", "text": "Scientists use powerful telescopes to detect the radiation emitted by matter falling into them."}
+    ],
+    "correctOption": "C",
+    "explanation": "Boşluktan sonraki cümle 'This boundary...' (Bu sınır...) diye başlamaktadır. Demek ki boşlukta bir 'sınır'dan bahsedilmesi gerekiyor."
+  },
+  {
+    "id": 17,
+    "type": "Paragraf Tamamlama",
+    "context": null,
+    "text": "Antibiotic resistance occurs when bacteria evolve in response to the use of these medicines. Bacteria, not humans or animals, become antibiotic-resistant. ----. Consequently, standard treatments become ineffective, infections persist, and they may spread to others.",
+    "options": [
+      {"id": "A", "text": "Viruses can also mutate and become resistant to antiviral drugs."},
+      {"id": "B", "text": "These resistant bacteria may infect humans and animals, and the infections they cause are harder to treat."},
+      {"id": "C", "text": "Alexander Fleming discovered the first antibiotic, penicillin, in 1928."},
+      {"id": "D", "text": "Most antibiotics are prescribed for viral infections, which is a incorrect medical practice."},
+      {"id": "E", "text": "The development of new antibiotics is a slow and expensive process for pharmaceutical companies."}
+    ],
+    "correctOption": "B",
+    "explanation": "Paragrafta dirençli bakterilerden bahsedilmiş. Boşluktan sonra bu durumun tedavileri etkisiz kıldığı söylenmiş. B şıkkında dirençli bakterilerin insanları enfekte edebileceği ve tedavisinin zorlaştığı belirtilerek anlam bütünlüğü sağlanır."
+  },
+  {
+    "id": 18,
+    "type": "İlgisiz Cümle",
+    "context": null,
+    "text": "(I) DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms. (II) Nearly every cell in a person's body has the same DNA. (III) Most DNA is located in the cell nucleus, where it is called nuclear DNA. (IV) RNA acts as a messenger carrying instructions from DNA for controlling the synthesis of proteins. (V) However, a small amount of DNA can also be found in the mitochondria.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "D",
+    "explanation": "Paragraf genel olarak DNA'nın ne olduğu ve hücrenin neresinde bulunduğuyla ilgilidir (çekirdek ve mitokondri). Ancak IV. cümle RNA'nın işlevinden bahsederek konuyu bölmektedir."
+  },
+  {
+    "id": 19,
+    "type": "İlgisiz Cümle",
+    "context": null,
+    "text": "(I) The solar system formed about 4.6 billion years ago from a giant interstellar molecular cloud. (II) The vast majority of the system's mass is in the Sun, with most of the remaining mass contained in Jupiter. (III) Mars is often called the 'Red Planet' because of the iron oxide prevalent on its surface. (IV) The four smaller inner planets, Mercury, Venus, Earth and Mars, are terrestrial planets. (V) They are primarily composed of rock and metal.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Paragraf güneş sisteminin oluşumu, kütlesi ve gezegenlerin genel yapısı (karasal gezegenler vb.) hakkındadır. Mars'ın neden 'Kızıl Gezegen' olarak adlandırıldığı (III) bu genel konseptin içinde detay ve ilgisiz bir cümledir."
+  },
+  {
+    "id": 20,
+    "type": "Paragraf Okuma",
+    "context": "Graphene is a one-atom-thick layer of carbon atoms arranged in a hexagonal lattice. It is the building block of Graphite, but it is a remarkable substance on its own, with a multitude of astonishing properties. It is the thinnest material known to man at one atom thick, and also incredibly strong - about 200 times stronger than steel. On top of that, graphene is an excellent conductor of heat and electricity and has interesting light absorption abilities. It is truly a material that could change the world, with unlimited potential for integration in almost any industry.",
+    "text": "According to the passage, which of the following is NOT true about graphene?",
+    "options": [
+      {"id": "A", "text": "It is made of carbon atoms."},
+      {"id": "B", "text": "It is thicker and heavier than steel."},
+      {"id": "C", "text": "It conducts electricity very well."},
+      {"id": "D", "text": "It is the thinnest known material."},
+      {"id": "E", "text": "It has potential applications in various industries."}
+    ],
+    "correctOption": "B",
+    "explanation": "Parçada grafenin çelikten 200 kat daha güçlü olduğu ancak en ince malzeme (one-atom-thick) olduğu belirtilmektedir. Dolayısıyla çelikten 'daha kalın ve daha ağır' (thicker and heavier) olduğu bilgisi yanlıştır."
+  }
+]
