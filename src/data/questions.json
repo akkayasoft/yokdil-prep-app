@@ -55,5 +55,91 @@
     ],
     "correctOption": "C",
     "explanation": "Parçada geçen 'These nanoparticles can... release their payload directly inside the tumor. This targeted approach... minimizes the toxicity to the rest of the body.' ifadesinden, nanopartiküllerin en büyük avantajının ilacı doğrudan kanserli hücreye iletip sağlıklı hücrelere zarar vermemesi olduğu anlaşılmaktadır."
+  },
+  {
+    "id": 5,
+    "type": "Kelime Bilgisi",
+    "text": "The rapid ---- of artificial intelligence has led to significant breakthroughs in both medical diagnostics and autonomous driving technologies.",
+    "options": [
+      {"id": "A", "text": "deterioration"},
+      {"id": "B", "text": "expansion"},
+      {"id": "C", "text": "hesitation"},
+      {"id": "D", "text": "restriction"},
+      {"id": "E", "text": "suspension"}
+    ],
+    "correctOption": "B",
+    "explanation": "Cümlede yapay zekanın tıp ve otonom sürüşteki büyük atılımlara (breakthroughs) yol açtığı belirtiliyor. Bu olumlu gelişmeye sebep olabilecek şey yapay zekanın 'hızlı genişlemesi/gelişmesi' (expansion) olabilir. Deterioration (kötüleşme), hesitation (duraksama), restriction (kısıtlama) ve suspension (askıya alma) anlamca uygun değildir."
+  },
+  {
+    "id": 6,
+    "type": "Kelime Bilgisi",
+    "text": "To accurately predict the trajectory of the asteroid, astronomers must ---- massive amounts of data collected from multiple satellite observatories.",
+    "options": [
+      {"id": "A", "text": "neglect"},
+      {"id": "B", "text": "compile"},
+      {"id": "C", "text": "scatter"},
+      {"id": "D", "text": "dismiss"},
+      {"id": "E", "text": "forge"}
+    ],
+    "correctOption": "B",
+    "explanation": "Gökbilimcilerin asteroitin yörüngesini doğru tahmin edebilmesi için verileri (data) ne yapması gerektiği soruluyor. Veriler toplanır, derlenir. Bu anlama gelen kelime 'compile'dır. Neglect (ihmal etmek), scatter (dağıtmak), dismiss (reddetmek/göz ardı etmek) ve forge (sahtesini yapmak) uymamaktadır."
+  },
+  {
+    "id": 7,
+    "type": "Çeviri (İng-Tr)",
+    "text": "Although photosynthesis is fundamentally a biological process, the underlying mechanisms are deeply rooted in quantum physics.",
+    "options": [
+      {"id": "A", "text": "Fotosentez temelde biyolojik bir süreç olsa da, altında yatan mekanizmaların kökleri kuantum fiziğine derinden bağlıdır."},
+      {"id": "B", "text": "Fotosentezin biyolojik bir süreç olmasına rağmen, kuantum fiziği mekanizmalarına dayanması şaşırtıcıdır."},
+      {"id": "C", "text": "Kuantum fiziğine dayanan mekanizmalar sayesinde fotosentez temelde biyolojik bir süreç olarak gerçekleşir."},
+      {"id": "D", "text": "Fotosentez biyolojik bir süreç olduğu için, temel mekanizmaları kuantum fiziği ile derinden ilişkilidir."},
+      {"id": "E", "text": "Fotosentez temelde biyolojik bir süreçtir ancak altında yatan tüm mekanizmalar kuantum fiziğine aittir."}
+    ],
+    "correctOption": "A",
+    "explanation": "'Although' bağlacı '-e rağmen / olsa da' anlamı katar. 'is fundamentally a biological process' (temelde biyolojik bir süreçtir) -> 'Fotosentez temelde biyolojik bir süreç olsa da'. 'the underlying mechanisms are deeply rooted in quantum physics' -> 'altında yatan mekanizmaların kökleri kuantum fiziğine derinden bağlıdır.' Birebir örtüşen şık A'dır."
+  },
+  {
+    "id": 8,
+    "type": "Çeviri (Tr-İng)",
+    "text": "Dünya'nın manyetik alanı sadece pusulalarımızın çalışmasını sağlamakla kalmaz, aynı zamanda gezegenimizi zararlı güneş radyasyonundan da korur.",
+    "options": [
+      {"id": "A", "text": "Earth's magnetic field makes our compasses work, and therefore it protects the planet from harmful solar radiation."},
+      {"id": "B", "text": "Not only does Earth's magnetic field allow our compasses to function, but it also shields our planet from harmful solar radiation."},
+      {"id": "C", "text": "Earth's magnetic field both operates our compasses and stops the harmful solar radiation reaching the planet."},
+      {"id": "D", "text": "Besides enabling compasses to work, Earth's magnetic field is the only protection against solar radiation."},
+      {"id": "E", "text": "If it weren't for Earth's magnetic field, our compasses wouldn't work and solar radiation would harm the planet."}
+    ],
+    "correctOption": "B",
+    "explanation": "'sadece ... kalmaz, aynı zamanda ... da' yapısı İngilizcede 'not only ... but also' kalıbı ile verilir. 'zararlı güneş radyasyonundan korur' kısmı 'shields/protects our planet from harmful solar radiation' şeklinde ifade edilebilir. En doğru yapısal çeviri B seçeneğidir."
+  },
+  {
+    "id": 9,
+    "type": "Cloze Test",
+    "context": "Dark matter is a hypothetical form of matter thought to account for approximately 85% of the matter in the universe. ---- it does not interact with the electromagnetic field, it cannot be seen directly. Telescopes observe normal matter like stars and galaxies, but dark matter remains invisible.",
+    "text": "Parçadaki boşluğa uygun düşen seçeneği bulunuz.",
+    "options": [
+      {"id": "A", "text": "Because"},
+      {"id": "B", "text": "Although"},
+      {"id": "C", "text": "Unless"},
+      {"id": "D", "text": "In case"},
+      {"id": "E", "text": "Until"}
+    ],
+    "correctOption": "A",
+    "explanation": "Karanlık maddenin elektromanyetik alanla etkileşime girmemesi, onun doğrudan görülememesinin sebebidir. Sebep-sonuç ilişkisi kurduğu için 'Because' (çünkü / -dığı için) bağlacı gelmelidir."
+  },
+  {
+    "id": 10,
+    "type": "Cloze Test",
+    "context": "Scientists infer the presence of dark matter ---- its gravitational effects on visible matter, radiation, and the large-scale structure of the universe.",
+    "text": "Parçadaki boşluğa uygun düşen seçeneği bulunuz.",
+    "options": [
+      {"id": "A", "text": "in spite of"},
+      {"id": "B", "text": "rather than"},
+      {"id": "C", "text": "due to"},
+      {"id": "D", "text": "regardless of"},
+      {"id": "E", "text": "instead of"}
+    ],
+    "correctOption": "C",
+    "explanation": "Bilim insanları onun varlığını, görünür madde üzerindeki yerçekimsel etkilerinden 'dolayı / sayesinde' çıkarım yaparlar. 'due to' (-den dolayı / sebebiyle) edatı bu anlamı tam olarak karşılar."
   }
 ]
