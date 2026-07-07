@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "type": "Paragraf Tamamlama",
+    "text": "Quantum computers have the potential to revolutionize how we solve certain complex problems, such as simulating molecular structures or factoring large numbers. Unlike classical computers that use bits representing either 0 or 1, quantum computers use quantum bits, or qubits. ----. This property allows quantum computers to process a vast number of possibilities simultaneously, leading to exponential speedups for specific algorithms.",
+    "options": [
+      {"id": "A", "text": "Quantum entanglement is another crucial feature that links qubits together across long distances."},
+      {"id": "B", "text": "These qubits can exist in a state of 0, 1, or both simultaneously, thanks to a phenomenon called superposition."},
+      {"id": "C", "text": "The first theoretical model of a quantum computer was proposed by Richard Feynman in the early 1980s."},
+      {"id": "D", "text": "Classical bits are much easier to stabilize and do not suffer from the same high error rates as qubits."},
+      {"id": "E", "text": "Therefore, the cooling systems required for quantum computers are massive and consume significant energy."}
+    ],
+    "correctOption": "B",
+    "explanation": "Boşluktan önceki cümlede klasik bilgisayarların 0 veya 1 kullandığı, kuantum bilgisayarların ise 'qubit' kullandığı belirtiliyor. Boşluktan sonraki cümlede ise 'This property' (Bu özellik) ifadesiyle kuantum bilgisayarların aynı anda birçok olasılığı işlemesine olanak sağlayan bir özellikten bahsediliyor. B seçeneğindeki 'Bu qubitler süperpozisyon adı verilen bir fenomen sayesinde aynı anda 0, 1 veya her ikisi durumunda bulunabilir.' cümlesi, 'This property' ifadesine doğrudan mantıksal bir köprü kurmaktadır."
+  },
+  {
+    "id": 2,
+    "type": "Paragraf Tamamlama",
+    "text": "Renewable energy sources like solar and wind power are critical for reducing greenhouse gas emissions. However, their intermittent nature presents a significant challenge for power grids. The sun doesn't always shine, and the wind doesn't always blow when electricity demand is highest. ----. By storing excess energy generated during peak production times and releasing it during low production periods, these systems can ensure a stable and reliable energy supply.",
+    "options": [
+      {"id": "A", "text": "Nuclear power plants, on the other hand, provide a consistent baseline of power but have their own safety concerns."},
+      {"id": "B", "text": "As a result, the cost of manufacturing solar panels has decreased dramatically over the last decade."},
+      {"id": "C", "text": "This is why advanced energy storage solutions, such as massive lithium-ion battery banks, are becoming essential."},
+      {"id": "D", "text": "Most traditional grids were designed for centralized power generation, typically from fossil fuels or coal."},
+      {"id": "E", "text": "Fossil fuels will eventually be depleted, making the transition to renewable sources not just an option, but a necessity."}
+    ],
+    "correctOption": "C",
+    "explanation": "Metin yenilenebilir enerji kaynaklarının tutarsız doğasından bahsediyor. Boşluktan sonra ise 'Pik üretim zamanlarında üretilen fazla enerjiyi depolayıp...' şeklinde bir çözüm sunuluyor. Enerjinin depolanması kavramını tanıtan seçenek C'dir: 'Bu yüzden devasa lityum-iyon batarya bankaları gibi gelişmiş enerji depolama çözümleri elzem hale gelmektedir.'"
+  },
+  {
+    "id": 3,
+    "type": "Anlamı Bozan Cümle",
+    "text": "(I) Graphene is a remarkable material consisting of a single layer of carbon atoms arranged in a two-dimensional honeycomb lattice. (II) It was first isolated in 2004 by researchers who used simple adhesive tape to peel flakes off a chunk of graphite. (III) Since its discovery, scientists have found that graphene is incredibly strong, lightweight, and an excellent conductor of heat and electricity. (IV) Graphite, which is commonly used in pencils, is made of millions of layers of graphene stacked together. (V) These unique properties make it a highly promising candidate for next-generation electronics, flexible displays, and advanced battery technologies.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "D",
+    "explanation": "Metnin bütününde 'Grafen' adı verilen malzemenin ne olduğu ve özellikleri anlatılmaktadır. Ancak IV numaralı cümle, Grafitin neyden yapıldığından bahsederek özneyi grafenden grafite kaydırır ve paragrafın akışını bozar. 'These unique properties' ifadesi içeren V numaralı cümle, doğrudan III numaralı cümleye bağlanmalıdır."
+  },
+  {
+    "id": 4,
+    "type": "Okuma Parçası",
+    "context": "Nanotechnology involves the manipulation of matter on an atomic, molecular, and supramolecular scale, typically between 1 and 100 nanometers. In the field of medicine, this technology has given rise to 'nanomedicine,' which promises to revolutionize drug delivery systems. Traditional chemotherapy for cancer, for instance, often damages healthy cells along with cancerous ones, leading to severe side effects. However, scientists are now engineering nanoparticles that can be loaded with therapeutic drugs and designed to specifically target tumor cells. These nanoparticles can recognize unique proteins on the surface of cancer cells, bind to them, and release their payload directly inside the tumor. This targeted approach not only maximizes the effectiveness of the treatment but also significantly minimizes the toxicity to the rest of the body. Despite the immense potential, the long-term toxicity and environmental impact of accumulating nanoparticles in the human body and ecosystems remain areas of active and critical research.",
+    "text": "According to the passage, the primary advantage of using nanoparticles in cancer treatment is that they ----.",
+    "options": [
+      {"id": "A", "text": "are much cheaper to produce than traditional chemotherapy drugs"},
+      {"id": "B", "text": "can be used to completely cure all forms of known cancers"},
+      {"id": "C", "text": "deliver drugs directly to cancer cells without harming healthy tissue"},
+      {"id": "D", "text": "have no long-term environmental or biological side effects"},
+      {"id": "E", "text": "work by altering the genetic code of the cancerous tumors"}
+    ],
+    "correctOption": "C",
+    "explanation": "Parçada geçen 'These nanoparticles can... release their payload directly inside the tumor. This targeted approach... minimizes the toxicity to the rest of the body.' ifadesinden, nanopartiküllerin en büyük avantajının ilacı doğrudan kanserli hücreye iletip sağlıklı hücrelere zarar vermemesi olduğu anlaşılmaktadır."
+  }
+]
