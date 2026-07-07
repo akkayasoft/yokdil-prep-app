@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import './index.css';
 
 function App() {
@@ -10,6 +10,14 @@ function App() {
   const [selectedOption, setSelectedOption] = useState(null);
   const [isAnswered, setIsAnswered] = useState(false);
   const [score, setScore] = useState({ correct: 0, wrong: 0 });
+  const [savedScores, setSavedScores] = useState({});
+
+  useEffect(() => {
+    const scores = localStorage.getItem('yokdil_scores');
+    if (scores) {
+      setSavedScores(JSON.parse(scores));
+    }
+  }, []);
 
   const loadTest = async (testNumber) => {
     setIsLoading(true);
@@ -37,16 +45,24 @@ function App() {
         <div className="card test-grid">
           <h2>Lütfen Bir Deneme Seçin</h2>
           <div className="grid">
-            {[1, 2, 3, 4, 5].map(num => (
-              <button 
-                key={num} 
-                className="test-btn"
-                onClick={() => loadTest(num)}
-                disabled={isLoading}
-              >
-                Deneme Sınavı {num} {isLoading ? '...' : ''}
-              </button>
-            ))}
+            {[1, 2, 3, 4, 5].map(num => {
+              const bestScore = savedScores[num];
+              return (
+                <button 
+                  key={num} 
+                  className="test-btn"
+                  onClick={() => loadTest(num)}
+                  disabled={isLoading}
+                >
+                  <span>Deneme Sınavı {num} {isLoading ? '...' : ''}</span>
+                  {bestScore && (
+                    <span className="best-score">
+                      En İyi: {bestScore.correct} Doğru
+                    </span>
+                  )}
+                </button>
+              );
+            })}
           </div>
         </div>
       </div>
@@ -70,6 +86,16 @@ function App() {
   };
 
   const handleNext = () => {
+    // Sınav bittiğinde skor kaydetme işlemi
+    if (currentIdx === questionsData.length - 1) {
+      const prevBest = savedScores[selectedTest];
+      // Eğer daha önce skor yoksa veya yeni skor eskisinden iyiyse kaydet
+      if (!prevBest || score.correct > prevBest.correct) {
+        const updatedScores = { ...savedScores, [selectedTest]: score };
+        setSavedScores(updatedScores);
+        localStorage.setItem('yokdil_scores', JSON.stringify(updatedScores));
+      }
+    }
     setCurrentIdx(prev => prev + 1);
     setSelectedOption(null);
     setIsAnswered(false);
