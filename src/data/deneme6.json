@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Unlike other traditional materials, graphene is ---- because it can withstand immense pressure without breaking while remaining incredibly light.",
+    "options": [
+      {"id": "A", "text": "resilient"},
+      {"id": "B", "text": "susceptible"},
+      {"id": "C", "text": "obsolete"},
+      {"id": "D", "text": "ambiguous"},
+      {"id": "E", "text": "mandatory"}
+    ],
+    "correctOption": "A",
+    "explanation": "Resilient means 'able to withstand or recover quickly from difficult conditions', which fits graphene's ability to withstand immense pressure without breaking. Susceptible means duyarlı; obsolete means modası geçmiş; ambiguous means belirsiz; mandatory means zorunlu."
+  },
+  {
+    "id": 2,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The recent advancements in quantum computing have ---- researchers to solve complex mathematical problems that were previously thought to be intractable.",
+    "options": [
+      {"id": "A", "text": "hindered"},
+      {"id": "B", "text": "compelled"},
+      {"id": "C", "text": "enabled"},
+      {"id": "D", "text": "deprived"},
+      {"id": "E", "text": "forbidden"}
+    ],
+    "correctOption": "C",
+    "explanation": "Enable means 'to give someone or something the authority or means to do something', making it possible for researchers to solve problems. Hindered means engelledi; compelled means zorladı; deprived means yoksun bıraktı; forbidden means yasakladı."
+  },
+  {
+    "id": 3,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The findings of the extensive geological survey were highly ----, as they contradicted the established theories about tectonic plate movements in the region.",
+    "options": [
+      {"id": "A", "text": "conclusive"},
+      {"id": "B", "text": "controversial"},
+      {"id": "C", "text": "transparent"},
+      {"id": "D", "text": "inevitable"},
+      {"id": "E", "text": "consecutive"}
+    ],
+    "correctOption": "B",
+    "explanation": "Controversial means 'giving rise or likely to give rise to public disagreement', fitting the context of contradicting established theories. Conclusive means kesin; transparent means şeffaf; inevitable means kaçınılmaz; consecutive means ardışık."
+  },
+  {
+    "id": 4,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Due to the rapid spread of the novel virus variant, scientists are striving to find a ---- to prevent a potential global pandemic.",
+    "options": [
+      {"id": "A", "text": "symptom"},
+      {"id": "B", "text": "legacy"},
+      {"id": "C", "text": "remedy"},
+      {"id": "D", "text": "shortage"},
+      {"id": "E", "text": "sequence"}
+    ],
+    "correctOption": "C",
+    "explanation": "Remedy means 'a medicine or treatment for a disease or injury'. Scientists would look for a remedy or cure to stop a pandemic. Symptom means belirti; legacy means miras; shortage means kıtlık; sequence means sıra."
+  },
+  {
+    "id": 5,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Many species of amphibians are highly ---- to changes in their environments, particularly water pollution and habitat destruction.",
+    "options": [
+      {"id": "A", "text": "resistant"},
+      {"id": "B", "text": "immune"},
+      {"id": "C", "text": "vulnerable"},
+      {"id": "D", "text": "indifferent"},
+      {"id": "E", "text": "accustomed"}
+    ],
+    "correctOption": "C",
+    "explanation": "Vulnerable means 'susceptible to physical or emotional attack or harm'. Amphibians are easily harmed by pollution. Resistant means dirençli; immune means bağışık; indifferent means kayıtsız; accustomed means alışkın."
+  },
+  {
+    "id": 6,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "To mitigate the adverse effects of climate change, it is imperative to ---- fossil fuels and transition towards renewable energy sources.",
+    "options": [
+      {"id": "A", "text": "embrace"},
+      {"id": "B", "text": "generate"},
+      {"id": "C", "text": "abandon"},
+      {"id": "D", "text": "subsidize"},
+      {"id": "E", "text": "accumulate"}
+    ],
+    "correctOption": "C",
+    "explanation": "Abandon means 'to cease to support or look after; desert'. To fight climate change, we must abandon fossil fuels. Embrace means benimsemek; generate means üretmek; subsidize means sübvanse etmek; accumulate means biriktirmek."
+  },
+  {
+    "id": 7,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The theory of relativity proposed by Albert Einstein profoundly ---- our understanding of space, time, and gravity.",
+    "options": [
+      {"id": "A", "text": "preserved"},
+      {"id": "B", "text": "altered"},
+      {"id": "C", "text": "concealed"},
+      {"id": "D", "text": "originated"},
+      {"id": "E", "text": "imitated"}
+    ],
+    "correctOption": "B",
+    "explanation": "Altered means 'changed or modified'. Einstein's theory completely changed our understanding. Preserved means korundu; concealed means gizledi; originated means ortaya çıktı; imitated means taklit etti."
+  },
+  {
+    "id": 8,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Despite the initial setbacks, the research team demonstrated remarkable ---- and eventually achieved a breakthrough in gene editing.",
+    "options": [
+      {"id": "A", "text": "reluctance"},
+      {"id": "B", "text": "negligence"},
+      {"id": "C", "text": "perseverance"},
+      {"id": "D", "text": "hesitation"},
+      {"id": "E", "text": "hostility"}
+    ],
+    "correctOption": "C",
+    "explanation": "Perseverance means 'persistence in doing something despite difficulty or delay in achieving success'. Reluctance means isteksizlik; negligence means ihmal; hesitation means tereddüt; hostility means düşmanlık."
+  },
+  {
+    "id": 9,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The successful deployment of the Mars rover is a ---- achievement for space exploration, marking a new era of planetary discovery.",
+    "options": [
+      {"id": "A", "text": "monumental"},
+      {"id": "B", "text": "trivial"},
+      {"id": "C", "text": "fragile"},
+      {"id": "D", "text": "vague"},
+      {"id": "E", "text": "scarce"}
+    ],
+    "correctOption": "A",
+    "explanation": "Monumental means 'great in importance, extent, or size'. Trivial means önemsiz; fragile means kırılgan; vague means belirsiz; scarce means kıt."
+  },
+  {
+    "id": 10,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "In particle physics, neutrinos are notoriously difficult to detect because they only ---- interact with normal matter.",
+    "options": [
+      {"id": "A", "text": "intensely"},
+      {"id": "B", "text": "mutually"},
+      {"id": "C", "text": "weakly"},
+      {"id": "D", "text": "permanently"},
+      {"id": "E", "text": "consciously"}
+    ],
+    "correctOption": "C",
+    "explanation": "Weakly refers to the weak nuclear force and meaning 'with little strength or intensity'. Intensely means yoğun bir şekilde; mutually means karşılıklı olarak; permanently means kalıcı olarak; consciously means bilinçli olarak."
+  },
+  {
+    "id": 11,
+    "type": "Okuduğunu Anlama",
+    "context": "CRISPR-Cas9 is a revolutionary gene-editing technology that allows scientists to modify organisms' DNA with unprecedented precision. Originally discovered as an adaptive immune system in bacteria, which use it to thwart viral attacks, CRISPR has been repurposed into a versatile tool for genetic engineering. By designing a 'guide RNA' to match a target DNA sequence, researchers can direct the Cas9 enzyme to cut the DNA at a specific location. Once the DNA is cut, the cell's natural repair mechanisms kick in, allowing scientists to either disrupt a gene's function or insert a new sequence. While the medical applications, such as curing genetic diseases and developing targeted cancer therapies, are highly promising, the technology also raises profound ethical concerns. The possibility of 'designer babies'—editing the human germline to enhance physical or cognitive traits—has sparked intense global debate, prompting calls for strict regulatory frameworks to govern its use.",
+    "text": "According to the passage, the CRISPR-Cas9 system was originally ____.",
+    "options": [
+      {"id": "A", "text": "developed by scientists to cure cancer"},
+      {"id": "B", "text": "a natural defense mechanism found in bacteria"},
+      {"id": "C", "text": "an ethical framework for genetic engineering"},
+      {"id": "D", "text": "a synthetic enzyme created in a laboratory"},
+      {"id": "E", "text": "a viral weapon used to attack bacteria"}
+    ],
+    "correctOption": "B",
+    "explanation": "The passage states that CRISPR was 'Originally discovered as an adaptive immune system in bacteria'."
+  },
+  {
+    "id": 12,
+    "type": "Okuduğunu Anlama",
+    "context": "CRISPR-Cas9 is a revolutionary gene-editing technology that allows scientists to modify organisms' DNA with unprecedented precision. Originally discovered as an adaptive immune system in bacteria, which use it to thwart viral attacks, CRISPR has been repurposed into a versatile tool for genetic engineering. By designing a 'guide RNA' to match a target DNA sequence, researchers can direct the Cas9 enzyme to cut the DNA at a specific location. Once the DNA is cut, the cell's natural repair mechanisms kick in, allowing scientists to either disrupt a gene's function or insert a new sequence. While the medical applications, such as curing genetic diseases and developing targeted cancer therapies, are highly promising, the technology also raises profound ethical concerns. The possibility of 'designer babies'—editing the human germline to enhance physical or cognitive traits—has sparked intense global debate, prompting calls for strict regulatory frameworks to govern its use.",
+    "text": "It can be inferred from the text that the Cas9 enzyme functions as ____.",
+    "options": [
+      {"id": "A", "text": "a guide that locates the target DNA"},
+      {"id": "B", "text": "a natural repair mechanism within human cells"},
+      {"id": "C", "text": "a molecular scissors that cuts DNA at precise locations"},
+      {"id": "D", "text": "a virus that introduces new genes into a cell"},
+      {"id": "E", "text": "a protective shield against genetic mutations"}
+    ],
+    "correctOption": "C",
+    "explanation": "The passage states that researchers 'direct the Cas9 enzyme to cut the DNA at a specific location', which is the function of molecular scissors."
+  },
+  {
+    "id": 13,
+    "type": "Okuduğunu Anlama",
+    "context": "CRISPR-Cas9 is a revolutionary gene-editing technology that allows scientists to modify organisms' DNA with unprecedented precision. Originally discovered as an adaptive immune system in bacteria, which use it to thwart viral attacks, CRISPR has been repurposed into a versatile tool for genetic engineering. By designing a 'guide RNA' to match a target DNA sequence, researchers can direct the Cas9 enzyme to cut the DNA at a specific location. Once the DNA is cut, the cell's natural repair mechanisms kick in, allowing scientists to either disrupt a gene's function or insert a new sequence. While the medical applications, such as curing genetic diseases and developing targeted cancer therapies, are highly promising, the technology also raises profound ethical concerns. The possibility of 'designer babies'—editing the human germline to enhance physical or cognitive traits—has sparked intense global debate, prompting calls for strict regulatory frameworks to govern its use.",
+    "text": "What happens immediately after the Cas9 enzyme cuts the target DNA?",
+    "options": [
+      {"id": "A", "text": "The organism develops an adaptive immune response."},
+      {"id": "B", "text": "The 'guide RNA' is destroyed by the cell."},
+      {"id": "C", "text": "The cell initiates its natural repair processes."},
+      {"id": "D", "text": "The ethical debate over designer babies begins."},
+      {"id": "E", "text": "The bacteria are protected from viral attacks."}
+    ],
+    "correctOption": "C",
+    "explanation": "The passage notes, 'Once the DNA is cut, the cell's natural repair mechanisms kick in'."
+  },
+  {
+    "id": 14,
+    "type": "Okuduğunu Anlama",
+    "context": "CRISPR-Cas9 is a revolutionary gene-editing technology that allows scientists to modify organisms' DNA with unprecedented precision. Originally discovered as an adaptive immune system in bacteria, which use it to thwart viral attacks, CRISPR has been repurposed into a versatile tool for genetic engineering. By designing a 'guide RNA' to match a target DNA sequence, researchers can direct the Cas9 enzyme to cut the DNA at a specific location. Once the DNA is cut, the cell's natural repair mechanisms kick in, allowing scientists to either disrupt a gene's function or insert a new sequence. While the medical applications, such as curing genetic diseases and developing targeted cancer therapies, are highly promising, the technology also raises profound ethical concerns. The possibility of 'designer babies'—editing the human germline to enhance physical or cognitive traits—has sparked intense global debate, prompting calls for strict regulatory frameworks to govern its use.",
+    "text": "The term 'thwart' in the passage is closest in meaning to ____.",
+    "options": [
+      {"id": "A", "text": "facilitate"},
+      {"id": "B", "text": "mimic"},
+      {"id": "C", "text": "accelerate"},
+      {"id": "D", "text": "prevent"},
+      {"id": "E", "text": "observe"}
+    ],
+    "correctOption": "D",
+    "explanation": "'Thwart' means to prevent someone from accomplishing something or to stop something from happening, which fits the context of stopping viral attacks."
+  },
+  {
+    "id": 15,
+    "type": "Okuduğunu Anlama",
+    "context": "CRISPR-Cas9 is a revolutionary gene-editing technology that allows scientists to modify organisms' DNA with unprecedented precision. Originally discovered as an adaptive immune system in bacteria, which use it to thwart viral attacks, CRISPR has been repurposed into a versatile tool for genetic engineering. By designing a 'guide RNA' to match a target DNA sequence, researchers can direct the Cas9 enzyme to cut the DNA at a specific location. Once the DNA is cut, the cell's natural repair mechanisms kick in, allowing scientists to either disrupt a gene's function or insert a new sequence. While the medical applications, such as curing genetic diseases and developing targeted cancer therapies, are highly promising, the technology also raises profound ethical concerns. The possibility of 'designer babies'—editing the human germline to enhance physical or cognitive traits—has sparked intense global debate, prompting calls for strict regulatory frameworks to govern its use.",
+    "text": "What is the main reason why CRISPR technology has sparked intense global debate?",
+    "options": [
+      {"id": "A", "text": "Its inability to precisely cut DNA sequences."},
+      {"id": "B", "text": "The high cost of developing targeted cancer therapies."},
+      {"id": "C", "text": "Its original discovery in bacterial immune systems."},
+      {"id": "D", "text": "The potential for editing human germlines to create designer babies."},
+      {"id": "E", "text": "The failure of the cell's natural repair mechanisms to fix DNA cuts."}
+    ],
+    "correctOption": "D",
+    "explanation": "The passage states, 'The possibility of designer babies—editing the human germline to enhance physical or cognitive traits—has sparked intense global debate'."
+  },
+  {
+    "id": 16,
+    "type": "Okuduğunu Anlama",
+    "context": "Dark matter remains one of the most profound mysteries in modern astrophysics. Unlike ordinary matter, which makes up stars, planets, and everything we can see, dark matter does not emit, absorb, or reflect light, rendering it completely invisible to current electromagnetic observational instruments. Its existence is inferred solely from its gravitational effects on visible matter, radiation, and the large-scale structure of the universe. For instance, observations of galaxy rotation curves reveal that stars at the edges of galaxies orbit much faster than they should if only visible mass were present, suggesting a massive, unseen 'halo' of dark matter. Current cosmological models estimate that dark matter constitutes roughly 27% of the universe's total mass-energy density, compared to just 5% for ordinary matter. Despite extensive searches using underground detectors and particle accelerators, the exact nature of the dark matter particle—often hypothesized as a Weakly Interacting Massive Particle (WIMP)—remains elusive, challenging physicists to refine their theories and develop more sensitive detection methods.",
+    "text": "The primary characteristic that distinguishes dark matter from ordinary matter is that dark matter ____.",
+    "options": [
+      {"id": "A", "text": "makes up the majority of stars and planets"},
+      {"id": "B", "text": "can be easily detected by current telescopes"},
+      {"id": "C", "text": "reflects light rather than absorbing it"},
+      {"id": "D", "text": "does not interact with electromagnetic radiation"},
+      {"id": "E", "text": "is composed entirely of WIMPs"}
+    ],
+    "correctOption": "D",
+    "explanation": "The passage explains that dark matter 'does not emit, absorb, or reflect light, rendering it completely invisible to current electromagnetic observational instruments'."
+  },
+  {
+    "id": 17,
+    "type": "Okuduğunu Anlama",
+    "context": "Dark matter remains one of the most profound mysteries in modern astrophysics. Unlike ordinary matter, which makes up stars, planets, and everything we can see, dark matter does not emit, absorb, or reflect light, rendering it completely invisible to current electromagnetic observational instruments. Its existence is inferred solely from its gravitational effects on visible matter, radiation, and the large-scale structure of the universe. For instance, observations of galaxy rotation curves reveal that stars at the edges of galaxies orbit much faster than they should if only visible mass were present, suggesting a massive, unseen 'halo' of dark matter. Current cosmological models estimate that dark matter constitutes roughly 27% of the universe's total mass-energy density, compared to just 5% for ordinary matter. Despite extensive searches using underground detectors and particle accelerators, the exact nature of the dark matter particle—often hypothesized as a Weakly Interacting Massive Particle (WIMP)—remains elusive, challenging physicists to refine their theories and develop more sensitive detection methods.",
+    "text": "How do scientists know that dark matter exists?",
+    "options": [
+      {"id": "A", "text": "By observing its direct emission of light in deep space."},
+      {"id": "B", "text": "Through its gravitational influence on visible matter."},
+      {"id": "C", "text": "By capturing WIMPs in underground detectors."},
+      {"id": "D", "text": "Because it makes up 5% of the universe's mass-energy density."},
+      {"id": "E", "text": "By analyzing the chemical composition of galaxy edges."}
+    ],
+    "correctOption": "B",
+    "explanation": "The text states that 'Its existence is inferred solely from its gravitational effects on visible matter, radiation, and the large-scale structure of the universe.'"
+  },
+  {
+    "id": 18,
+    "type": "Okuduğunu Anlama",
+    "context": "Dark matter remains one of the most profound mysteries in modern astrophysics. Unlike ordinary matter, which makes up stars, planets, and everything we can see, dark matter does not emit, absorb, or reflect light, rendering it completely invisible to current electromagnetic observational instruments. Its existence is inferred solely from its gravitational effects on visible matter, radiation, and the large-scale structure of the universe. For instance, observations of galaxy rotation curves reveal that stars at the edges of galaxies orbit much faster than they should if only visible mass were present, suggesting a massive, unseen 'halo' of dark matter. Current cosmological models estimate that dark matter constitutes roughly 27% of the universe's total mass-energy density, compared to just 5% for ordinary matter. Despite extensive searches using underground detectors and particle accelerators, the exact nature of the dark matter particle—often hypothesized as a Weakly Interacting Massive Particle (WIMP)—remains elusive, challenging physicists to refine their theories and develop more sensitive detection methods.",
+    "text": "What anomaly led astronomers to propose the existence of dark matter halos?",
+    "options": [
+      {"id": "A", "text": "Stars at the center of galaxies orbit too slowly."},
+      {"id": "B", "text": "The universe is expanding at an accelerating rate."},
+      {"id": "C", "text": "Underground detectors registered unexpected particle interactions."},
+      {"id": "D", "text": "Stars at the outer edges of galaxies orbit faster than expected."},
+      {"id": "E", "text": "Ordinary matter emits more light than theoretically predicted."}
+    ],
+    "correctOption": "D",
+    "explanation": "The passage mentions that 'observations of galaxy rotation curves reveal that stars at the edges of galaxies orbit much faster than they should if only visible mass were present'."
+  },
+  {
+    "id": 19,
+    "type": "Okuduğunu Anlama",
+    "context": "Dark matter remains one of the most profound mysteries in modern astrophysics. Unlike ordinary matter, which makes up stars, planets, and everything we can see, dark matter does not emit, absorb, or reflect light, rendering it completely invisible to current electromagnetic observational instruments. Its existence is inferred solely from its gravitational effects on visible matter, radiation, and the large-scale structure of the universe. For instance, observations of galaxy rotation curves reveal that stars at the edges of galaxies orbit much faster than they should if only visible mass were present, suggesting a massive, unseen 'halo' of dark matter. Current cosmological models estimate that dark matter constitutes roughly 27% of the universe's total mass-energy density, compared to just 5% for ordinary matter. Despite extensive searches using underground detectors and particle accelerators, the exact nature of the dark matter particle—often hypothesized as a Weakly Interacting Massive Particle (WIMP)—remains elusive, challenging physicists to refine their theories and develop more sensitive detection methods.",
+    "text": "The word 'elusive' in the passage could best be replaced by ____.",
+    "options": [
+      {"id": "A", "text": "well-understood"},
+      {"id": "B", "text": "predictable"},
+      {"id": "C", "text": "hard to find"},
+      {"id": "D", "text": "abundant"},
+      {"id": "E", "text": "transparent"}
+    ],
+    "correctOption": "C",
+    "explanation": "'Elusive' means difficult to find, catch, or achieve. In this context, the exact nature of the dark matter particle is difficult to find or understand."
+  },
+  {
+    "id": 20,
+    "type": "Okuduğunu Anlama",
+    "context": "Dark matter remains one of the most profound mysteries in modern astrophysics. Unlike ordinary matter, which makes up stars, planets, and everything we can see, dark matter does not emit, absorb, or reflect light, rendering it completely invisible to current electromagnetic observational instruments. Its existence is inferred solely from its gravitational effects on visible matter, radiation, and the large-scale structure of the universe. For instance, observations of galaxy rotation curves reveal that stars at the edges of galaxies orbit much faster than they should if only visible mass were present, suggesting a massive, unseen 'halo' of dark matter. Current cosmological models estimate that dark matter constitutes roughly 27% of the universe's total mass-energy density, compared to just 5% for ordinary matter. Despite extensive searches using underground detectors and particle accelerators, the exact nature of the dark matter particle—often hypothesized as a Weakly Interacting Massive Particle (WIMP)—remains elusive, challenging physicists to refine their theories and develop more sensitive detection methods.",
+    "text": "According to the current cosmological models mentioned in the passage, what portion of the universe is made of ordinary matter?",
+    "options": [
+      {"id": "A", "text": "About 27%"},
+      {"id": "B", "text": "A majority of the universe's mass"},
+      {"id": "C", "text": "Exactly 100%"},
+      {"id": "D", "text": "Only 5%"},
+      {"id": "E", "text": "Less than 1%"}
+    ],
+    "correctOption": "D",
+    "explanation": "The passage states that dark matter constitutes roughly 27%, 'compared to just 5% for ordinary matter.'"
+  }
+]

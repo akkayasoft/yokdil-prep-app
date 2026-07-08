@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "The origins of life on Earth ____ a mystery, but recent discoveries in hydrothermal vents ____ new light on the conditions that might have fostered early biological processes.",
+    "options": [
+      {"id": "A", "text": "have remained / shed"},
+      {"id": "B", "text": "remain / are shedding"},
+      {"id": "C", "text": "remained / had shed"},
+      {"id": "D", "text": "had remained / have shed"},
+      {"id": "E", "text": "will remain / were shedding"}
+    ],
+    "correctOption": "B",
+    "explanation": "Cümlenin ilk kısmında genel ve hala devam eden bir durumdan bahsedildiği için 'remain' (Geniş Zaman), ikinci kısmında ise 'recent discoveries' (son keşifler) ile şu an devam eden veya etkisini gösteren bir durum anlatıldığı için 'are shedding' (Şimdiki Zaman) kullanılması uygundur."
+  },
+  {
+    "id": 2,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "____ by a team of international researchers, the novel material exhibits properties ____ entirely new avenues in quantum computing.",
+    "options": [
+      {"id": "A", "text": "Discovered / opening"},
+      {"id": "B", "text": "To be discovered / to open"},
+      {"id": "C", "text": "Having been discovered / to have opened"},
+      {"id": "D", "text": "Discovering / opened"},
+      {"id": "E", "text": "Discovered / having opened"}
+    ],
+    "correctOption": "A",
+    "explanation": "İlk boşlukta pasif bir kısaltma (Discovered - keşfedilen) gereklidir, çünkü malzeme araştırmacılar tarafından keşfedilmiştir. İkinci boşlukta ise malzemenin özelliklerinin yeni ufuklar açtığı aktif bir eylem olarak (opening - açan) ifade edilmelidir."
+  },
+  {
+    "id": 3,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "____ the immense pressure and complete absence of sunlight at the bottom of the Mariana Trench, an astonishing variety of life forms thrives there, ____ specialized adaptations.",
+    "options": [
+      {"id": "A", "text": "Because of / relying on"},
+      {"id": "B", "text": "Despite / due to"},
+      {"id": "C", "text": "In spite of / owing to"},
+      {"id": "D", "text": "Due to / thanks to"},
+      {"id": "E", "text": "Although / as a result of"}
+    ],
+    "correctOption": "C",
+    "explanation": "İlk boşlukta 'aşırı basınca rağmen' anlamını verecek bir zıtlık bağlacı (In spite of / Despite) gerekir. İkinci boşlukta ise 'özelleşmiş adaptasyonlar sayesinde/yüzünden' anlamında bir sebep bildiren edat (owing to / due to) gelmelidir. En uygun eşleşme C seçeneğidir."
+  },
+  {
+    "id": 4,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "Scientists theorize that Mars ____ a substantial atmosphere in the past, which ____ it to support liquid water on its surface.",
+    "options": [
+      {"id": "A", "text": "must have possessed / would have allowed"},
+      {"id": "B", "text": "should possess / might allow"},
+      {"id": "C", "text": "could have possessed / must have allowed"},
+      {"id": "D", "text": "had to possess / had allowed"},
+      {"id": "E", "text": "might possess / should have allowed"}
+    ],
+    "correctOption": "A",
+    "explanation": "Geçmişe yönelik güçlü bir tahmin ('must have V3') ve bu durumun geçmişteki varsayımsal bir sonucu ('would have V3') ifade edilmektedir. Mars'ın geçmişte kalın bir atmosfere sahip olmuş olması gerektiği ve bunun sıvı suya izin vermiş olacağı anlatılmaktadır."
+  },
+  {
+    "id": 5,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "The accumulation ____ greenhouse gases in the atmosphere is primarily responsible ____ the gradual increase in global average temperatures.",
+    "options": [
+      {"id": "A", "text": "with / to"},
+      {"id": "B", "text": "from / over"},
+      {"id": "C", "text": "of / for"},
+      {"id": "D", "text": "for / about"},
+      {"id": "E", "text": "over / with"}
+    ],
+    "correctOption": "C",
+    "explanation": "'Accumulation of' (birikimi) ve 'responsible for' (-den sorumlu) İngilizcede sık kullanılan edat kombinasyonlarıdır."
+  },
+  {
+    "id": 6,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "____ the researchers anticipated the rapid mutation rate of the virus, they ____ the vaccine to target more conserved regions of its genome.",
+    "options": [
+      {"id": "A", "text": "If / might design"},
+      {"id": "B", "text": "Had / would have designed"},
+      {"id": "C", "text": "Should / will design"},
+      {"id": "D", "text": "Were / would design"},
+      {"id": "E", "text": "Unless / had designed"}
+    ],
+    "correctOption": "B",
+    "explanation": "Bu cümle devrik bir Tip 3 (Type 3) koşul cümlesidir. 'Had the researchers anticipated...' ifadesi 'If the researchers had anticipated...' anlamına gelir. Ana cümlecikte ise 'would have V3' yapısı kullanılır."
+  },
+  {
+    "id": 7,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "It is widely accepted among astrophysicists ____ the universe is expanding at an accelerating rate, ____ was initially a highly controversial hypothesis.",
+    "options": [
+      {"id": "A", "text": "why / that"},
+      {"id": "B", "text": "whether / what"},
+      {"id": "C", "text": "that / which"},
+      {"id": "D", "text": "how / it"},
+      {"id": "E", "text": "if / this"}
+    ],
+    "correctOption": "C",
+    "explanation": "İlk boşluk bir isim cümleciği (noun clause) bağlacı olan 'that' gerektirir. İkinci boşluk ise virgülle ayrılmış ve tüm önceki cümleyi niteleyen bir ilgi cümleciği (relative clause) zamiri olan 'which' gerektirir."
+  },
+  {
+    "id": 8,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "By the time the James Webb Space Telescope ____ fully operational, astronomers ____ decades anticipating the unprecedented data it would provide.",
+    "options": [
+      {"id": "A", "text": "had become / spent"},
+      {"id": "B", "text": "became / had spent"},
+      {"id": "C", "text": "becomes / will spend"},
+      {"id": "D", "text": "has become / have spent"},
+      {"id": "E", "text": "would become / were spending"}
+    ],
+    "correctOption": "B",
+    "explanation": "Geçmişte bir noktaya kadar devam eden süreçleri anlatırken 'By the time + Simple Past, Past Perfect' yapısı kullanılır. Teleskop tam olarak operasyonel hale geldiğinde, astronomlar çoktan on yıllar harcamıştı."
+  },
+  {
+    "id": 9,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "The environmental agency strictly prohibits ____ untreated industrial waste into the river to prevent ____ irreversible damage to the local ecosystem.",
+    "options": [
+      {"id": "A", "text": "to discharge / to cause"},
+      {"id": "B", "text": "discharging / causing"},
+      {"id": "C", "text": "being discharged / to be caused"},
+      {"id": "D", "text": "discharging / to cause"},
+      {"id": "E", "text": "to discharge / causing"}
+    ],
+    "correctOption": "B",
+    "explanation": "'Prohibit' ve 'prevent' fiillerinin her ikisi de doğrudan bir eylem nesnesi aldıklarında V-ing (gerund) yapısı ile kullanılır."
+  },
+  {
+    "id": 10,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "____ the implementation of renewable energy sources has accelerated globally, the reliance on fossil fuels remains a significant hurdle ____ global warming is to be kept under 1.5°C.",
+    "options": [
+      {"id": "A", "text": "Since / unless"},
+      {"id": "B", "text": "While / if"},
+      {"id": "C", "text": "Even though / in case"},
+      {"id": "D", "text": "Because / provided that"},
+      {"id": "E", "text": "As long as / so that"}
+    ],
+    "correctOption": "B",
+    "explanation": "İlk boşlukta 'yenilenebilir enerji artmasına rağmen/iken' anlamı katan zıtlık bağlacı 'While', ikinci boşlukta ise 'küresel ısınma 1.5 derecenin altında tutulacaksa' koşulunu belirten 'if' bağlacı en uygundur."
+  },
+  {
+    "id": 11,
+    "type": "Çeviri",
+    "context": null,
+    "text": "The discovery of CRISPR-Cas9 has revolutionized genetic engineering by enabling scientists to make precise, targeted changes to the DNA of living organisms.",
+    "options": [
+      {"id": "A", "text": "CRISPR-Cas9'un keşfi, bilim insanlarının canlı organizmaların DNA'sında kesin ve hedefe yönelik değişiklikler yapmasına olanak tanıyarak genetik mühendisliğinde devrim yaratmıştır."},
+      {"id": "B", "text": "Canlı organizmaların DNA'sında kesin değişiklikler yapmayı sağlayan CRISPR-Cas9'un keşfi sayesinde genetik mühendisliğinde büyük bir devrim gerçekleşmiştir."},
+      {"id": "C", "text": "Bilim insanları, CRISPR-Cas9'u keşfederek canlıların DNA'sında hedefe yönelik değişiklikler yapmış ve genetik mühendisliğinde devrim yaratmışlardır."},
+      {"id": "D", "text": "Genetik mühendisliğinde devrim yaratan CRISPR-Cas9'un keşfi, bilim insanlarına canlı organizmaların DNA'sını kesin bir şekilde değiştirme olanağı sunmuştur."},
+      {"id": "E", "text": "CRISPR-Cas9'un keşfedilmesiyle birlikte bilim insanları canlı organizmaların DNA'sında kesin değişiklikler yapabilmiş ve genetik mühendisliği devrim niteliğinde ilerlemiştir."}
+    ],
+    "correctOption": "A",
+    "explanation": "Özne 'The discovery of CRISPR-Cas9', fiil 'has revolutionized' (devrim yaratmıştır). Zarf tümleci 'by enabling...' (...olanak tanıyarak) şeklindedir. A seçeneği İngilizce cümlenin dilbilgisel yapısına ve anlamına birebir uymaktadır."
+  },
+  {
+    "id": 12,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Küresel ısınmanın etkilerini hafifletmek için karbon emisyonlarının acilen azaltılması gerektiği konusunda bilim insanları arasında geniş bir fikir birliği vardır.",
+    "options": [
+      {"id": "A", "text": "Scientists widely agree that global warming's effects can be mitigated only if carbon emissions are reduced urgently."},
+      {"id": "B", "text": "There is a broad consensus among scientists that carbon emissions must be reduced urgently to mitigate the effects of global warming."},
+      {"id": "C", "text": "The broad consensus among scientists is that mitigating the effects of global warming urgently requires reducing carbon emissions."},
+      {"id": "D", "text": "It is widely agreed by scientists that to mitigate the effects of global warming, carbon emissions should be urgently reduced."},
+      {"id": "E", "text": "Scientists have reached a broad consensus that we must urgently reduce carbon emissions to mitigate the effects of global warming."}
+    ],
+    "correctOption": "B",
+    "explanation": "'...geniş bir fikir birliği vardır' ifadesinin tam karşılığı 'There is a broad consensus...' yapısıdır. Diğer seçeneklerdeki özneler ve fiiller Türkçe cümleden ufak sapmalar göstermektedir."
+  },
+  {
+    "id": 13,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Although artificial intelligence has made remarkable progress in recent years, it still lacks the general cognitive abilities that characterize human intelligence.",
+    "options": [
+      {"id": "A", "text": "Yapay zeka son yıllarda dikkat çekici bir ilerleme kaydetmiş olmasına rağmen, insan zekasını karakterize eden genel bilişsel yeteneklerden hala yoksundur."},
+      {"id": "B", "text": "Son yıllarda dikkate değer bir ilerleme kaydeden yapay zeka, insan zekasının en temel özelliği olan genel bilişsel yeteneklere henüz sahip değildir."},
+      {"id": "C", "text": "Yapay zekanın son yıllardaki dikkate değer ilerlemesine karşın, insan zekasını karakterize eden genel bilişsel yetenekleri hala eksiktir."},
+      {"id": "D", "text": "Her ne kadar yapay zeka son yıllarda büyük bir ilerleme kaydetse de, insan zekasına özgü genel bilişsel yetenekleri tam olarak geliştirememiştir."},
+      {"id": "E", "text": "Yapay zeka son yıllarda çok ilerlemiş olsa da, insan zekasını belirleyen genel bilişsel yeteneklerden büyük ölçüde yoksundur."}
+    ],
+    "correctOption": "A",
+    "explanation": "'Although' bağlacı '-mesine rağmen' anlamı verir. 'lack' fiili 'yoksun olmak', 'remarkable progress' ise 'dikkat çekici/dikkate değer ilerleme' olarak çevrilir. En doğru ve eksiksiz çeviri A şıkkıdır."
+  },
+  {
+    "id": 14,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Yenilenebilir enerji kaynaklarına yapılan yatırımların artması, fosil yakıtlara olan bağımlılığımızı azaltmanın yanı sıra yeni iş olanakları da yaratacaktır.",
+    "options": [
+      {"id": "A", "text": "Increased investments in renewable energy sources will not only reduce our dependence on fossil fuels but also create new job opportunities."},
+      {"id": "B", "text": "By increasing investments in renewable energy sources, we will both reduce our dependence on fossil fuels and create new job opportunities."},
+      {"id": "C", "text": "The increase in investments in renewable energy sources is expected to reduce our dependence on fossil fuels while creating new job opportunities."},
+      {"id": "D", "text": "Investing more in renewable energy sources will lead to a reduction in our dependence on fossil fuels and the creation of new job opportunities."},
+      {"id": "E", "text": "Not only will increased investments in renewable energy sources reduce our dependence on fossil fuels, but they will also create new jobs."}
+    ],
+    "correctOption": "A",
+    "explanation": "Türkçe cümlede özne 'Yenilenebilir enerji kaynaklarına yapılan yatırımların artması' (Increased investments...) şeklindedir. '...yanı sıra ... da yapacaktır' yapısı İngilizcede 'not only... but also' kalıbı ile çok net bir şekilde karşılanır."
+  },
+  {
+    "id": 15,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Quantum computers have the potential to solve complex mathematical problems that would take classical computers millions of years to compute.",
+    "options": [
+      {"id": "A", "text": "Kuantum bilgisayarlar, klasik bilgisayarların çözmesi milyonlarca yıl alacak karmaşık matematiksel problemleri çözme potansiyeline sahiptir."},
+      {"id": "B", "text": "Klasik bilgisayarların milyonlarca yılda çözebileceği karmaşık matematiksel problemler, kuantum bilgisayarların potansiyeli sayesinde çözülebilir."},
+      {"id": "C", "text": "Karmaşık matematiksel problemleri çözme potansiyeline sahip olan kuantum bilgisayarlar, klasik bilgisayarların milyonlarca yılını alacak işlemleri yapabilir."},
+      {"id": "D", "text": "Kuantum bilgisayarları, klasik bilgisayarların milyonlarca yıl sürecek hesaplamalarını gerektiren karmaşık matematiksel problemleri kolayca çözebilir."},
+      {"id": "E", "text": "Klasik bilgisayarların çözmesinin milyonlarca yıl alacağı karmaşık matematiksel problemler, kuantum bilgisayarlar tarafından çözülme potansiyeline sahiptir."}
+    ],
+    "correctOption": "A",
+    "explanation": "Özne 'Quantum computers' (Kuantum bilgisayarlar), ana fiil 'have the potential' (potansiyeline sahiptir). Hangi problemleri çözeceği ilgi cümleciği (that would take classical computers millions of years to compute) ile belirtilmiştir. Tam çeviri A seçeneğidir."
+  },
+  {
+    "id": 16,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Dünya'nın manyetik alanı, gezegenimizi Güneş'ten gelen zararlı radyasyondan koruyan görünmez bir kalkan görevi görür.",
+    "options": [
+      {"id": "A", "text": "The Earth's magnetic field acts as an invisible shield that protects our planet from harmful radiation coming from the Sun."},
+      {"id": "B", "text": "Acting as an invisible shield, the Earth's magnetic field protects our planet from the harmful radiation from the Sun."},
+      {"id": "C", "text": "The invisible shield that protects our planet from harmful radiation coming from the Sun is the Earth's magnetic field."},
+      {"id": "D", "text": "The magnetic field of the Earth is an invisible shield, protecting our planet from the harmful radiation of the Sun."},
+      {"id": "E", "text": "Our planet is protected from harmful radiation coming from the Sun by the Earth's magnetic field, which acts as an invisible shield."}
+    ],
+    "correctOption": "A",
+    "explanation": "'görevi görür' fiili 'acts as' olarak çevrilir. Kalkanı niteleyen sıfat cümleciği 'that protects our planet...' ile verilmiştir. Diğer seçenekler cümlenin temel odak noktasını ve sıralamasını değiştirmektedir."
+  },
+  {
+    "id": 17,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "Because the newly synthesized compound was highly unstable, it ____ almost immediately upon exposure to oxygen, making it difficult to study.",
+    "options": [
+      {"id": "A", "text": "broke down"},
+      {"id": "B", "text": "brought about"},
+      {"id": "C", "text": "pulled through"},
+      {"id": "D", "text": "set up"},
+      {"id": "E", "text": "turned out"}
+    ],
+    "correctOption": "A",
+    "explanation": "Kimyasal bir bileşiğin oksijene maruz kaldığında parçalanması veya bozulması 'break down' phrasal verb'ü ile ifade edilir. 'Brought about' sebep olmak, 'pulled through' iyileşmek/atlatmak, 'set up' kurmak, 'turned out' ise ortaya çıkmak anlamındadır."
+  },
+  {
+    "id": 18,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "____ the exact mechanisms of memory formation remain partially elusive, neuroscientists have identified the hippocampus as a crucial brain region for this process.",
+    "options": [
+      {"id": "A", "text": "Given that"},
+      {"id": "B", "text": "Even if"},
+      {"id": "C", "text": "As though"},
+      {"id": "D", "text": "While"},
+      {"id": "E", "text": "Once"}
+    ],
+    "correctOption": "D",
+    "explanation": "Cümlede zıtlık ilişkisi vardır: Mekanizmaların tam olarak anlaşılamamış olması ile bir beyin bölgesinin tanımlanmış olması. 'While' burada '-e rağmen / iken' anlamıyla bu zıtlığı en iyi şekilde kurar."
+  },
+  {
+    "id": 19,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Nanotechnology involves the manipulation of matter on an atomic and molecular scale to create materials with novel properties.",
+    "options": [
+      {"id": "A", "text": "Nanoteknoloji, yeni özelliklere sahip materyaller yaratmak için maddenin atomik ve moleküler ölçekte manipülasyonunu içerir."},
+      {"id": "B", "text": "Yeni özelliklere sahip materyaller yaratmak, nanoteknolojinin maddenin atomik ve moleküler düzeyde manipüle edilmesini gerektirir."},
+      {"id": "C", "text": "Maddenin atomik ve moleküler düzeyde manipüle edilmesiyle yeni özelliklere sahip materyaller yaratmak nanoteknolojinin konusudur."},
+      {"id": "D", "text": "Nanoteknoloji sayesinde maddenin atomik ve moleküler ölçekte manipüle edilmesi, yeni özelliklere sahip materyaller yaratılmasını sağlar."},
+      {"id": "E", "text": "Yeni özellikleri olan materyallerin üretilmesi, nanoteknolojide maddenin atomik ve moleküler ölçekte manipülasyonunu kapsar."}
+    ],
+    "correctOption": "A",
+    "explanation": "Özne 'Nanotechnology', ana fiil 'involves' (içerir). Ne içerdiği: 'the manipulation of matter...' (maddenin ... manipülasyonunu). Amacı: 'to create...' (yaratmak için). Tam karşılık A seçeneğidir."
+  },
+  {
+    "id": 20,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Okyanus asitlenmesi, deniz yaşamı üzerinde yıkıcı etkilere sahip olabilecek olan, atmosferdeki artan karbondioksit seviyelerinin doğrudan bir sonucudur.",
+    "options": [
+      {"id": "A", "text": "Ocean acidification is a direct consequence of increasing carbon dioxide levels in the atmosphere, which can have devastating effects on marine life."},
+      {"id": "B", "text": "The direct consequence of increasing carbon dioxide levels in the atmosphere is ocean acidification, which will have devastating effects on marine life."},
+      {"id": "C", "text": "Ocean acidification, which has devastating effects on marine life, is caused directly by the increasing carbon dioxide levels in the atmosphere."},
+      {"id": "D", "text": "Increasing carbon dioxide levels in the atmosphere lead directly to ocean acidification, which can have devastating effects on marine life."},
+      {"id": "E", "text": "Ocean acidification is the direct result of increasing carbon dioxide levels in the atmosphere and it has devastating effects on marine life."}
+    ],
+    "correctOption": "A",
+    "explanation": "Cümlenin ana gövdesi 'Okyanus asitlenmesi ... doğrudan bir sonucudur.' (Ocean acidification is a direct consequence of...). Yan cümlecik olan virgülle ayrılmış sıfat yancümlesi (which can have...) asitlenmeyi ve artan seviyeleri nitelemektedir. A seçeneği yapıya tamamen sadıktır."
+  }
+]

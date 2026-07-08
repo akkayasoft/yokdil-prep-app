@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "Cloze Test",
+    "context": "The discovery of penicillin by Alexander Fleming in 1928 marked a turning point in human history, as it (1) _____ the era of antibiotics. Before its widespread availability, infections that are now considered trivial (2) _____ fatal. The initial challenge, however, lay not in its discovery, but in the mass production of the drug. It wasn't until the exigencies of World War II that scientists Florey and Chain managed to (3) _____ a method for large-scale extraction. Despite its life-saving capabilities, the overuse of penicillin has (4) _____ to the emergence of resistant bacterial strains, posing a significant threat to global health. Consequently, the medical community is now heavily invested in (5) _____ novel antimicrobial agents to combat these superbugs.",
+    "text": "The discovery of penicillin by Alexander Fleming in 1928 marked a turning point in human history, as it (1) _____ the era of antibiotics.",
+    "options": [
+      { "id": "A", "text": "eradicated" },
+      { "id": "B", "text": "ushered in" },
+      { "id": "C", "text": "suppressed" },
+      { "id": "D", "text": "postponed" },
+      { "id": "E", "text": "diminished" }
+    ],
+    "correctOption": "B",
+    "explanation": "The phrasal verb 'usher in' means to mark the beginning of a new period or era, which fits perfectly with the introduction of antibiotics."
+  },
+  {
+    "id": 2,
+    "type": "Cloze Test",
+    "context": "The discovery of penicillin by Alexander Fleming in 1928 marked a turning point in human history, as it (1) _____ the era of antibiotics. Before its widespread availability, infections that are now considered trivial (2) _____ fatal. The initial challenge, however, lay not in its discovery, but in the mass production of the drug. It wasn't until the exigencies of World War II that scientists Florey and Chain managed to (3) _____ a method for large-scale extraction. Despite its life-saving capabilities, the overuse of penicillin has (4) _____ to the emergence of resistant bacterial strains, posing a significant threat to global health. Consequently, the medical community is now heavily invested in (5) _____ novel antimicrobial agents to combat these superbugs.",
+    "text": "Before its widespread availability, infections that are now considered trivial (2) _____ fatal.",
+    "options": [
+      { "id": "A", "text": "could frequently prove" },
+      { "id": "B", "text": "must have proven" },
+      { "id": "C", "text": "ought to prove" },
+      { "id": "D", "text": "had better prove" },
+      { "id": "E", "text": "are to prove" }
+    ],
+    "correctOption": "A",
+    "explanation": "The context requires a modal that expresses a past tendency or capability. 'Could frequently prove' accurately describes how trivial infections often turned out to be fatal in the past."
+  },
+  {
+    "id": 3,
+    "type": "Cloze Test",
+    "context": "The discovery of penicillin by Alexander Fleming in 1928 marked a turning point in human history, as it (1) _____ the era of antibiotics. Before its widespread availability, infections that are now considered trivial (2) _____ fatal. The initial challenge, however, lay not in its discovery, but in the mass production of the drug. It wasn't until the exigencies of World War II that scientists Florey and Chain managed to (3) _____ a method for large-scale extraction. Despite its life-saving capabilities, the overuse of penicillin has (4) _____ to the emergence of resistant bacterial strains, posing a significant threat to global health. Consequently, the medical community is now heavily invested in (5) _____ novel antimicrobial agents to combat these superbugs.",
+    "text": "It wasn't until the exigencies of World War II that scientists Florey and Chain managed to (3) _____ a method for large-scale extraction.",
+    "options": [
+      { "id": "A", "text": "discard" },
+      { "id": "B", "text": "devise" },
+      { "id": "C", "text": "dismantle" },
+      { "id": "D", "text": "disguise" },
+      { "id": "E", "text": "disrupt" }
+    ],
+    "correctOption": "B",
+    "explanation": "The verb 'devise' means to invent or plan something carefully. Scientists needed to invent a method for large-scale extraction, making 'devise' the correct choice."
+  },
+  {
+    "id": 4,
+    "type": "Cloze Test",
+    "context": "The discovery of penicillin by Alexander Fleming in 1928 marked a turning point in human history, as it (1) _____ the era of antibiotics. Before its widespread availability, infections that are now considered trivial (2) _____ fatal. The initial challenge, however, lay not in its discovery, but in the mass production of the drug. It wasn't until the exigencies of World War II that scientists Florey and Chain managed to (3) _____ a method for large-scale extraction. Despite its life-saving capabilities, the overuse of penicillin has (4) _____ to the emergence of resistant bacterial strains, posing a significant threat to global health. Consequently, the medical community is now heavily invested in (5) _____ novel antimicrobial agents to combat these superbugs.",
+    "text": "Despite its life-saving capabilities, the overuse of penicillin has (4) _____ to the emergence of resistant bacterial strains...",
+    "options": [
+      { "id": "A", "text": "given rise" },
+      { "id": "B", "text": "led" },
+      { "id": "C", "text": "attributed" },
+      { "id": "D", "text": "brought about" },
+      { "id": "E", "text": "resulted" }
+    ],
+    "correctOption": "B",
+    "explanation": "The preposition 'to' directly follows the blank. The verb 'lead' (past participle 'led') correctly pairs with 'to' to indicate causation. 'Resulted' would pair with 'in', while 'brought about' takes no preposition here."
+  },
+  {
+    "id": 5,
+    "type": "Cloze Test",
+    "context": "The discovery of penicillin by Alexander Fleming in 1928 marked a turning point in human history, as it (1) _____ the era of antibiotics. Before its widespread availability, infections that are now considered trivial (2) _____ fatal. The initial challenge, however, lay not in its discovery, but in the mass production of the drug. It wasn't until the exigencies of World War II that scientists Florey and Chain managed to (3) _____ a method for large-scale extraction. Despite its life-saving capabilities, the overuse of penicillin has (4) _____ to the emergence of resistant bacterial strains, posing a significant threat to global health. Consequently, the medical community is now heavily invested in (5) _____ novel antimicrobial agents to combat these superbugs.",
+    "text": "Consequently, the medical community is now heavily invested in (5) _____ novel antimicrobial agents to combat these superbugs.",
+    "options": [
+      { "id": "A", "text": "to synthesize" },
+      { "id": "B", "text": "synthesize" },
+      { "id": "C", "text": "synthesizing" },
+      { "id": "D", "text": "synthesized" },
+      { "id": "E", "text": "having synthesized" }
+    ],
+    "correctOption": "C",
+    "explanation": "The preposition 'in' must be followed by a gerund form (V-ing). Therefore, 'synthesizing' is the grammatically correct option."
+  },
+  {
+    "id": 6,
+    "type": "Cloze Test",
+    "context": "Dark matter is one of the most enigmatic components of the universe, constituting approximately 27% of its total mass-energy density. Although it does not emit, absorb, or reflect light, its presence is (6) _____ from the gravitational effects it exerts on visible matter, such as galaxies and galaxy clusters. For decades, physicists have proposed various theoretical candidates for dark matter, with Weakly Interacting Massive Particles (WIMPs) being the most (7) _____. However, numerous elaborate experiments conducted deep underground have thus far failed to (8) _____ any direct evidence of these particles. This continuous lack of empirical confirmation has prompted some researchers to (9) _____ alternative theories, such as Modified Newtonian Dynamics (MOND), which attempts to explain the observed phenomena without (10) _____ unseen matter.",
+    "text": "Although it does not emit, absorb, or reflect light, its presence is (6) _____ from the gravitational effects it exerts on visible matter...",
+    "options": [
+      { "id": "A", "text": "inferred" },
+      { "id": "B", "text": "secluded" },
+      { "id": "C", "text": "exempt" },
+      { "id": "D", "text": "alienated" },
+      { "id": "E", "text": "derived" }
+    ],
+    "correctOption": "A",
+    "explanation": "To 'infer' means to deduce or conclude something from evidence and reasoning. Scientists infer the presence of dark matter from its gravitational effects."
+  },
+  {
+    "id": 7,
+    "type": "Cloze Test",
+    "context": "Dark matter is one of the most enigmatic components of the universe, constituting approximately 27% of its total mass-energy density. Although it does not emit, absorb, or reflect light, its presence is (6) _____ from the gravitational effects it exerts on visible matter, such as galaxies and galaxy clusters. For decades, physicists have proposed various theoretical candidates for dark matter, with Weakly Interacting Massive Particles (WIMPs) being the most (7) _____. However, numerous elaborate experiments conducted deep underground have thus far failed to (8) _____ any direct evidence of these particles. This continuous lack of empirical confirmation has prompted some researchers to (9) _____ alternative theories, such as Modified Newtonian Dynamics (MOND), which attempts to explain the observed phenomena without (10) _____ unseen matter.",
+    "text": "For decades, physicists have proposed various theoretical candidates for dark matter, with Weakly Interacting Massive Particles (WIMPs) being the most (7) _____.",
+    "options": [
+      { "id": "A", "text": "obsolete" },
+      { "id": "B", "text": "vulnerable" },
+      { "id": "C", "text": "prominent" },
+      { "id": "D", "text": "redundant" },
+      { "id": "E", "text": "susceptible" }
+    ],
+    "correctOption": "C",
+    "explanation": "The term 'prominent' means important or well-known. WIMPs are the most widely recognized and theoretically supported candidates for dark matter."
+  },
+  {
+    "id": 8,
+    "type": "Cloze Test",
+    "context": "Dark matter is one of the most enigmatic components of the universe, constituting approximately 27% of its total mass-energy density. Although it does not emit, absorb, or reflect light, its presence is (6) _____ from the gravitational effects it exerts on visible matter, such as galaxies and galaxy clusters. For decades, physicists have proposed various theoretical candidates for dark matter, with Weakly Interacting Massive Particles (WIMPs) being the most (7) _____. However, numerous elaborate experiments conducted deep underground have thus far failed to (8) _____ any direct evidence of these particles. This continuous lack of empirical confirmation has prompted some researchers to (9) _____ alternative theories, such as Modified Newtonian Dynamics (MOND), which attempts to explain the observed phenomena without (10) _____ unseen matter.",
+    "text": "However, numerous elaborate experiments conducted deep underground have thus far failed to (8) _____ any direct evidence of these particles.",
+    "options": [
+      { "id": "A", "text": "yield" },
+      { "id": "B", "text": "forsake" },
+      { "id": "C", "text": "hinder" },
+      { "id": "D", "text": "conceal" },
+      { "id": "E", "text": "retrieve" }
+    ],
+    "correctOption": "A",
+    "explanation": "'Yield' in a scientific context means to produce or generate (results or evidence). The experiments have failed to produce/yield direct evidence."
+  },
+  {
+    "id": 9,
+    "type": "Cloze Test",
+    "context": "Dark matter is one of the most enigmatic components of the universe, constituting approximately 27% of its total mass-energy density. Although it does not emit, absorb, or reflect light, its presence is (6) _____ from the gravitational effects it exerts on visible matter, such as galaxies and galaxy clusters. For decades, physicists have proposed various theoretical candidates for dark matter, with Weakly Interacting Massive Particles (WIMPs) being the most (7) _____. However, numerous elaborate experiments conducted deep underground have thus far failed to (8) _____ any direct evidence of these particles. This continuous lack of empirical confirmation has prompted some researchers to (9) _____ alternative theories, such as Modified Newtonian Dynamics (MOND), which attempts to explain the observed phenomena without (10) _____ unseen matter.",
+    "text": "This continuous lack of empirical confirmation has prompted some researchers to (9) _____ alternative theories...",
+    "options": [
+      { "id": "A", "text": "rule out" },
+      { "id": "B", "text": "look into" },
+      { "id": "C", "text": "back up" },
+      { "id": "D", "text": "call off" },
+      { "id": "E", "text": "give away" }
+    ],
+    "correctOption": "B",
+    "explanation": "The phrasal verb 'look into' means to investigate or explore. Facing a lack of evidence for WIMPs, researchers are exploring alternative theories."
+  },
+  {
+    "id": 10,
+    "type": "Cloze Test",
+    "context": "Dark matter is one of the most enigmatic components of the universe, constituting approximately 27% of its total mass-energy density. Although it does not emit, absorb, or reflect light, its presence is (6) _____ from the gravitational effects it exerts on visible matter, such as galaxies and galaxy clusters. For decades, physicists have proposed various theoretical candidates for dark matter, with Weakly Interacting Massive Particles (WIMPs) being the most (7) _____. However, numerous elaborate experiments conducted deep underground have thus far failed to (8) _____ any direct evidence of these particles. This continuous lack of empirical confirmation has prompted some researchers to (9) _____ alternative theories, such as Modified Newtonian Dynamics (MOND), which attempts to explain the observed phenomena without (10) _____ unseen matter.",
+    "text": "...which attempts to explain the observed phenomena without (10) _____ unseen matter.",
+    "options": [
+      { "id": "A", "text": "to postulate" },
+      { "id": "B", "text": "postulating" },
+      { "id": "C", "text": "postulate" },
+      { "id": "D", "text": "having postulated" },
+      { "id": "E", "text": "being postulated" }
+    ],
+    "correctOption": "B",
+    "explanation": "The preposition 'without' must be followed by a gerund (V-ing). 'Postulating' correctly completes the sentence mechanically and grammatically."
+  },
+  {
+    "id": 11,
+    "type": "Paragraph Completion",
+    "context": "Stem cells are unique in their ability to differentiate into various specialized cell types, making them invaluable for regenerative medicine. Induced pluripotent stem cells (iPSCs), in particular, have revolutionized the field by allowing scientists to reprogram adult cells back into an embryonic-like state. ____________________. This eliminates the ethical concerns historically associated with the use of embryonic stem cells while offering personalized treatment options.",
+    "text": "Stem cells are unique in their ability to differentiate into various specialized cell types, making them invaluable for regenerative medicine. Induced pluripotent stem cells (iPSCs), in particular, have revolutionized the field by allowing scientists to reprogram adult cells back into an embryonic-like state. ____________________. This eliminates the ethical concerns historically associated with the use of embryonic stem cells while offering personalized treatment options.",
+    "options": [
+      { "id": "A", "text": "Consequently, the differentiation process is often irreversible and difficult to control in laboratory settings." },
+      { "id": "B", "text": "Thus, patient-specific tissues can be generated for transplantation, minimizing the risk of immune rejection." },
+      { "id": "C", "text": "Furthermore, stem cell research has faced significant funding cuts in many developing nations." },
+      { "id": "D", "text": "However, the reprogramming process is inherently flawless and guarantees immediate clinical application." },
+      { "id": "E", "text": "In addition, adult stem cells are found in small numbers in most tissues and organs." }
+    ],
+    "correctOption": "B",
+    "explanation": "The sentence following the blank mentions 'personalized treatment options' and the elimination of 'ethical concerns'. Option B logically bridges the gap by explaining how iPSCs allow for generating patient-specific tissues without immune rejection, linking perfectly to the concept of personalized medicine."
+  },
+  {
+    "id": 12,
+    "type": "Paragraph Completion",
+    "context": "Quantum entanglement is a phenomenon wherein two or more particles become interconnected such that the quantum state of one particle cannot be described independently of the state of the others. This occurs even when the particles are separated by vast cosmic distances. ____________________. This implies that information between the entangled particles is transmitted instantaneously, a concept that Einstein famously referred to as 'spooky action at a distance'.",
+    "text": "Quantum entanglement is a phenomenon wherein two or more particles become interconnected such that the quantum state of one particle cannot be described independently of the state of the others. This occurs even when the particles are separated by vast cosmic distances. ____________________. This implies that information between the entangled particles is transmitted instantaneously, a concept that Einstein famously referred to as 'spooky action at a distance'.",
+    "options": [
+      { "id": "A", "text": "Entanglement is primarily used in classical computing to increase processing speeds significantly." },
+      { "id": "B", "text": "Therefore, changing the spin of one entangled electron will have absolutely no effect on its partner." },
+      { "id": "C", "text": "As a result, measuring the properties of one particle immediately determines the properties of the other." },
+      { "id": "D", "text": "Many physicists believe that quantum mechanics is an incomplete theory that will eventually be replaced." },
+      { "id": "E", "text": "Consequently, the particles must remain in close physical proximity to maintain their quantum link." }
+    ],
+    "correctOption": "C",
+    "explanation": "The text discusses how entangled particles' states are interconnected over vast distances. Option C explains that measuring one particle instantly determines the other, logically preceding the following sentence which describes this as 'instantaneous transmission' and Einstein's 'spooky action at a distance'."
+  },
+  {
+    "id": 13,
+    "type": "Paragraph Completion",
+    "context": "The acidification of the world's oceans is primarily driven by the increasing absorption of atmospheric carbon dioxide. As CO2 dissolves in seawater, it forms carbonic acid, thereby lowering the ocean's pH. ____________________. Such organisms include corals, oysters, and various species of plankton, which are foundational to marine food webs.",
+    "text": "The acidification of the world's oceans is primarily driven by the increasing absorption of atmospheric carbon dioxide. As CO2 dissolves in seawater, it forms carbonic acid, thereby lowering the ocean's pH. ____________________. Such organisms include corals, oysters, and various species of plankton, which are foundational to marine food webs.",
+    "options": [
+      { "id": "A", "text": "This phenomenon significantly enhances the growth rate of most marine plants and algae." },
+      { "id": "B", "text": "This chemical alteration poses a severe threat to calcifying marine organisms that rely on calcium carbonate to build their shells and skeletons." },
+      { "id": "C", "text": "Consequently, the oceans are becoming increasingly alkaline, benefiting deep-sea ecosystems." },
+      { "id": "D", "text": "The reduction in pH has been shown to increase the reproductive success of calcifying species." },
+      { "id": "E", "text": "In contrast, freshwater ecosystems are largely unaffected by atmospheric carbon dioxide levels." }
+    ],
+    "correctOption": "B",
+    "explanation": "The following sentence starts with 'Such organisms include corals, oysters...', meaning the blank must introduce these specific organisms. Option B correctly introduces 'calcifying marine organisms' and explains the threat posed by acidification, seamlessly connecting to the subsequent examples."
+  },
+  {
+    "id": 14,
+    "type": "Paragraph Completion",
+    "context": "Catalysts are substances that accelerate chemical reactions without being consumed in the process. They achieve this by providing an alternative reaction pathway with a lower activation energy. ____________________. For instance, the Haber-Bosch process, which synthesizes ammonia for fertilizers, relies heavily on an iron-based catalyst to proceed efficiently at industrial scales.",
+    "text": "Catalysts are substances that accelerate chemical reactions without being consumed in the process. They achieve this by providing an alternative reaction pathway with a lower activation energy. ____________________. For instance, the Haber-Bosch process, which synthesizes ammonia for fertilizers, relies heavily on an iron-based catalyst to proceed efficiently at industrial scales.",
+    "options": [
+      { "id": "A", "text": "As a result, they are completely depleted by the time the chemical reaction reaches equilibrium." },
+      { "id": "B", "text": "This means that reactions that would normally take years can occur in a matter of seconds or minutes." },
+      { "id": "C", "text": "Therefore, catalysts invariably increase the activation energy required for a reaction to commence." },
+      { "id": "D", "text": "In biological systems, enzymes act as natural catalysts, though they are rarely used in industrial applications." },
+      { "id": "E", "text": "However, the presence of a catalyst significantly alters the final equilibrium state of the reaction products." }
+    ],
+    "correctOption": "B",
+    "explanation": "The paragraph explains that catalysts accelerate reactions. Option B directly expands on this by describing the dramatic time-saving effect, leading perfectly into the example of the Haber-Bosch process, which requires efficient, rapid synthesis at scale."
+  },
+  {
+    "id": 15,
+    "type": "Paragraph Completion",
+    "context": "Plate tectonics is the scientific theory explaining the movement of the Earth's lithosphere, which is divided into several distinct plates. These plates glide over the semi-fluid asthenosphere, interacting at their boundaries. ____________________. Subduction zones, for example, are regions where one plate is forced under another, often leading to intense volcanic activity and powerful earthquakes.",
+    "text": "Plate tectonics is the scientific theory explaining the movement of the Earth's lithosphere, which is divided into several distinct plates. These plates glide over the semi-fluid asthenosphere, interacting at their boundaries. ____________________. Subduction zones, for example, are regions where one plate is forced under another, often leading to intense volcanic activity and powerful earthquakes.",
+    "options": [
+      { "id": "A", "text": "The majority of tectonic activity, including volcanism and seismic events, occurs at these very boundaries." },
+      { "id": "B", "text": "Consequently, the Earth's continents have remained completely stationary throughout geological history." },
+      { "id": "C", "text": "The asthenosphere is composed entirely of solid rock, which prevents any substantial plate movement." },
+      { "id": "D", "text": "Thus, tectonic plates are primarily driven by the gravitational pull of the moon and the sun." },
+      { "id": "E", "text": "Earthquakes are rarely associated with the movement or collision of tectonic plates." }
+    ],
+    "correctOption": "A",
+    "explanation": "The text introduces the interaction of plates at their boundaries. Option A highlights that major geological events happen at these boundaries, providing the perfect transition to the specific example of subduction zones and their resulting volcanic and seismic activity."
+  },
+  {
+    "id": 16,
+    "type": "Paragraph Completion",
+    "context": "CRISPR-Cas9 has emerged as a groundbreaking tool in genetic engineering, allowing for precise edits to the DNA of living organisms. It utilizes a guide RNA to direct the Cas9 enzyme to a specific genomic location, where it introduces a double-strand break. ____________________. By harnessing this repair process, scientists can effectively delete harmful mutations or insert beneficial genes into the genome.",
+    "text": "CRISPR-Cas9 has emerged as a groundbreaking tool in genetic engineering, allowing for precise edits to the DNA of living organisms. It utilizes a guide RNA to direct the Cas9 enzyme to a specific genomic location, where it introduces a double-strand break. ____________________. By harnessing this repair process, scientists can effectively delete harmful mutations or insert beneficial genes into the genome.",
+    "options": [
+      { "id": "A", "text": "The cell's natural repair mechanisms then step in to fix this break, either by joining the ends or using a template." },
+      { "id": "B", "text": "Unfortunately, this break inevitably leads to the immediate death of the target cell in all circumstances." },
+      { "id": "C", "text": "This enzyme is unique because it only targets random sections of DNA, making it highly unpredictable." },
+      { "id": "D", "text": "Therefore, CRISPR technology cannot be used to modify the genomes of complex multicellular organisms." },
+      { "id": "E", "text": "The double-strand break cannot be repaired by the cell, resulting in permanent chromosomal damage." }
+    ],
+    "correctOption": "A",
+    "explanation": "The subsequent sentence refers to 'harnessing this repair process'. Therefore, the missing sentence must introduce the concept of a biological repair process. Option A logically explains how the cell's natural repair mechanisms fix the break induced by Cas9."
+  },
+  {
+    "id": 17,
+    "type": "Paragraph Completion",
+    "context": "The mass extinction event at the end of the Cretaceous period, approximately 66 million years ago, wiped out roughly 75% of all species on Earth, including the non-avian dinosaurs. The most widely accepted cause is the impact of a massive asteroid in what is now the Yucatán Peninsula. ____________________. This abrupt and drastic change in the global climate would have collapsed food chains and decimated photosynthetic life.",
+    "text": "The mass extinction event at the end of the Cretaceous period, approximately 66 million years ago, wiped out roughly 75% of all species on Earth, including the non-avian dinosaurs. The most widely accepted cause is the impact of a massive asteroid in what is now the Yucatán Peninsula. ____________________. This abrupt and drastic change in the global climate would have collapsed food chains and decimated photosynthetic life.",
+    "options": [
+      { "id": "A", "text": "It is believed that the impact created a prolonged period of intense global warming lasting millions of years." },
+      { "id": "B", "text": "The resulting debris and aerosols injected into the atmosphere severely restricted sunlight, causing a global 'impact winter'." },
+      { "id": "C", "text": "However, this event was exclusively localized, affecting only the species living in the immediate vicinity of the impact." },
+      { "id": "D", "text": "This theory has been largely debunked by recent evidence suggesting the extinction was entirely due to a viral pandemic." },
+      { "id": "E", "text": "Consequently, the asteroid impact led to an immediate increase in biodiversity across all marine ecosystems." }
+    ],
+    "correctOption": "B",
+    "explanation": "The following sentence discusses an 'abrupt and drastic change' that 'decimated photosynthetic life'. Option B logically explains the mechanism: debris blocked sunlight and caused an impact winter, directly causing the death of photosynthetic organisms."
+  },
+  {
+    "id": 18,
+    "type": "Paragraph Completion",
+    "context": "Neuroplasticity refers to the brain's remarkable ability to reorganize itself by forming new neural connections throughout life. This phenomenon allows the neurons in the brain to compensate for injury and disease and to adjust their activities in response to new situations or to changes in their environment. ____________________. For example, individuals who have suffered a stroke may regain lost motor functions as healthy brain areas take over the roles of the damaged regions.",
+    "text": "Neuroplasticity refers to the brain's remarkable ability to reorganize itself by forming new neural connections throughout life. This phenomenon allows the neurons in the brain to compensate for injury and disease and to adjust their activities in response to new situations or to changes in their environment. ____________________. For example, individuals who have suffered a stroke may regain lost motor functions as healthy brain areas take over the roles of the damaged regions.",
+    "options": [
+      { "id": "A", "text": "However, this ability is strictly limited to the first few years of childhood and ceases in adulthood." },
+      { "id": "B", "text": "Consequently, once a specific brain region is damaged, its associated functions are permanently lost." },
+      { "id": "C", "text": "Such structural and functional adaptations are crucial for learning, memory, and recovery from brain trauma." },
+      { "id": "D", "text": "Therefore, neuroplasticity primarily involves the generation of entirely new neurons rather than new connections." },
+      { "id": "E", "text": "Despite this flexibility, the brain's overall structure remains entirely rigid and unchanging after adolescence." }
+    ],
+    "correctOption": "C",
+    "explanation": "The paragraph focuses on the positive aspects of neuroplasticity (compensation for injury/disease). Option C summarizes these benefits (recovery from trauma) and seamlessly introduces the upcoming specific example regarding stroke recovery."
+  },
+  {
+    "id": 19,
+    "type": "Paragraph Completion",
+    "context": "El Niño is a climate pattern characterized by the warming of surface waters in the eastern tropical Pacific Ocean. This periodic warming significantly alters atmospheric circulation, affecting weather patterns across the globe. ____________________. In contrast, other areas, such as parts of Australia and Southeast Asia, often experience severe droughts and an increased risk of wildfires.",
+    "text": "El Niño is a climate pattern characterized by the warming of surface waters in the eastern tropical Pacific Ocean. This periodic warming significantly alters atmospheric circulation, affecting weather patterns across the globe. ____________________. In contrast, other areas, such as parts of Australia and Southeast Asia, often experience severe droughts and an increased risk of wildfires.",
+    "options": [
+      { "id": "A", "text": "As a result, the global average temperature typically drops during an El Niño event." },
+      { "id": "B", "text": "The phenomenon is completely unpredictable and has never been successfully modeled by climatologists." },
+      { "id": "C", "text": "For instance, it frequently leads to increased rainfall and devastating floods in the southern United States and Peru." },
+      { "id": "D", "text": "Therefore, El Niño events have a stabilizing effect on the global climate, reducing extreme weather occurrences." },
+      { "id": "E", "text": "La Niña, the opposing phase, produces identical weather impacts to those caused by El Niño." }
+    ],
+    "correctOption": "C",
+    "explanation": "The sentence following the blank begins with 'In contrast, other areas... experience severe droughts', implying that the blank must describe regions experiencing the opposite effect (i.e., excess water or floods). Option C provides exactly this contrast."
+  },
+  {
+    "id": 20,
+    "type": "Paragraph Completion",
+    "context": "Graphene, a single layer of carbon atoms arranged in a two-dimensional honeycomb lattice, has attracted immense scientific interest due to its extraordinary properties. It is remarkably strong, lightweight, and an excellent conductor of both heat and electricity. ____________________. Such versatility suggests it could be used in everything from advanced battery technologies and flexible electronics to highly efficient water filtration systems.",
+    "text": "Graphene, a single layer of carbon atoms arranged in a two-dimensional honeycomb lattice, has attracted immense scientific interest due to its extraordinary properties. It is remarkably strong, lightweight, and an excellent conductor of both heat and electricity. ____________________. Such versatility suggests it could be used in everything from advanced battery technologies and flexible electronics to highly efficient water filtration systems.",
+    "options": [
+      { "id": "A", "text": "Despite these characteristics, its extremely high manufacturing cost makes it useless for any practical applications." },
+      { "id": "B", "text": "Because of its unique structural features, researchers envision a vast array of potential applications across multiple industries." },
+      { "id": "C", "text": "However, its inability to conduct electricity at room temperature limits its integration into modern electronics." },
+      { "id": "D", "text": "Graphene is therefore inferior to traditional materials like silicon and copper in almost all engineering contexts." },
+      { "id": "E", "text": "Consequently, it is primarily utilized as a structural reinforcement in heavy industrial construction projects." }
+    ],
+    "correctOption": "B",
+    "explanation": "The following sentence highlights 'Such versatility' and lists diverse futuristic applications. Option B perfectly connects the material's properties to this idea by stating that researchers envision a vast array of potential applications."
+  }
+]

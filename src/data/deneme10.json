@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The discovery of the cosmic microwave background radiation was ____ evidence for the Big Bang theory, fundamentally altering our understanding of the universe's origins.",
+    "options": [
+      {"id": "A", "text": "ambiguous"},
+      {"id": "B", "text": "compelling"},
+      {"id": "C", "text": "redundant"},
+      {"id": "D", "text": "fragile"},
+      {"id": "E", "text": "obsolete"}
+    ],
+    "correctOption": "B",
+    "explanation": "Boşluktan sonra gelen 'evidence' (kanıt) kelimesi ile uyumlu bir sıfat gerekmektedir. Cümlenin devamındaki 'fundamentally altering' (temelinden değiştirerek) ifadesi kanıtın güçlü olduğunu gösterir. Bu nedenle 'compelling' (ikna edici, güçlü) doğru cevaptır. Diğer seçenekler: ambiguous (belirsiz), redundant (gereksiz), fragile (kırılgan), obsolete (modası geçmiş)."
+  },
+  {
+    "id": 2,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "Researchers have found that certain extremophiles can survive in highly acidic environments by ____ mechanisms that rapidly repair damaged DNA.",
+    "options": [
+      {"id": "A", "text": "deploying"},
+      {"id": "B", "text": "hindering"},
+      {"id": "C", "text": "eradicating"},
+      {"id": "D", "text": "surrendering"},
+      {"id": "E", "text": "fabricating"}
+    ],
+    "correctOption": "A",
+    "explanation": "Cümlede, organizmaların hasarlı DNA'yı onaran mekanizmaları 'kullanarak/devreye sokarak' hayatta kaldıkları anlatılmaktadır. Bu anlama en uygun kelime 'deploying' (kullanmak, devreye sokmak) kelimesidir. Diğer seçenekler: hindering (engelleyerek), eradicating (yok ederek), surrendering (teslim olarak), fabricating (uydurarak)."
+  },
+  {
+    "id": 3,
+    "type": "Kelime Bilgisi",
+    "context": null,
+    "text": "The integration of artificial intelligence into diagnostic imaging has the potential to reduce human error, though it is not completely ____ to biases present in the training data.",
+    "options": [
+      {"id": "A", "text": "susceptible"},
+      {"id": "B", "text": "vulnerable"},
+      {"id": "C", "text": "immune"},
+      {"id": "D", "text": "prone"},
+      {"id": "E", "text": "indispensable"}
+    ],
+    "correctOption": "C",
+    "explanation": "Cümlede yapay zekanın insan hatasını azaltma potansiyeli olduğu 'ancak (though)' eğitim verilerindeki önyargılardan tamamen 'muaf/etkilenmez' olmadığı ifade edilmektedir. 'immune to' (bağışık, muaf) doğru kullanımdır. Susceptible, vulnerable ve prone kelimeleri 'yatkın/savunmasız' anlamına gelir ve 'not' ile kullanıldıklarında zıt bir anlam oluştururlar."
+  },
+  {
+    "id": 4,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "If the researchers ____ the potential long-term effects of the pesticide, they ____ its use in agricultural areas with high biodiversity.",
+    "options": [
+      {"id": "A", "text": "had anticipated / would have restricted"},
+      {"id": "B", "text": "anticipated / will restrict"},
+      {"id": "C", "text": "have anticipated / would restrict"},
+      {"id": "D", "text": "anticipate / had restricted"},
+      {"id": "E", "text": "would anticipate / restrict"}
+    ],
+    "correctOption": "A",
+    "explanation": "Cümle, geçmişte gerçekleşmemiş bir duruma dair koşul (Type 3 Conditional) içermektedir: 'Araştırmacılar öngörseydi, kısıtlarlardı'. Bu nedenle 'If + past perfect, would have + V3' yapısı olan 'had anticipated / would have restricted' doğru cevaptır."
+  },
+  {
+    "id": 5,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "The rapid melting of the polar ice caps is a phenomenon ____ scientists have been warning the public ____ several decades.",
+    "options": [
+      {"id": "A", "text": "of which / in"},
+      {"id": "B", "text": "about which / for"},
+      {"id": "C", "text": "that / since"},
+      {"id": "D", "text": "whose / during"},
+      {"id": "E", "text": "where / over"}
+    ],
+    "correctOption": "B",
+    "explanation": "İlk boşlukta 'warn somebody about something' yapısından dolayı 'about which' kullanımı gereklidir. İkinci boşlukta ise 'several decades' gibi bir süreç belirtildiği için 'for' edatı uygundur."
+  },
+  {
+    "id": 6,
+    "type": "Dilbilgisi",
+    "context": null,
+    "text": "Nanotechnology is expected to revolutionize medicine ____ enabling targeted drug delivery systems that can destroy cancer cells without harming healthy tissue.",
+    "options": [
+      {"id": "A", "text": "in spite of"},
+      {"id": "B", "text": "due to"},
+      {"id": "C", "text": "by"},
+      {"id": "D", "text": "rather than"},
+      {"id": "E", "text": "similar to"}
+    ],
+    "correctOption": "C",
+    "explanation": "Cümlede nanoteknolojinin tıpta devrim yaratmasının 'yöntemi/aracı' anlatılmaktadır. '-arak, -erek' veya 'vasıtasıyla' anlamı katan 'by' (by enabling - olanak tanıyarak) doğru edattır."
+  },
+  {
+    "id": 7,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "While quantum computing offers unprecedented processing power, ____.",
+    "options": [
+      {"id": "A", "text": "it relies on classical bits to perform everyday computational tasks efficiently"},
+      {"id": "B", "text": "the technology remains highly sensitive to environmental disturbances such as temperature fluctuations"},
+      {"id": "C", "text": "its potential to revolutionize cryptography was completely dismissed by early theoretical physicists"},
+      {"id": "D", "text": "scientists have already perfected the hardware required for commercial availability"},
+      {"id": "E", "text": "most classical computers can outpace quantum processors in solving complex optimization problems"}
+    ],
+    "correctOption": "B",
+    "explanation": "'While' bağlacı zıtlık bildirir. Kuantum hesaplamanın eşi görülmemiş bir işlem gücü sunmasına rağmen (olumlu), bazı zorlukları veya dezavantajları (olumsuz) belirtilmelidir. B seçeneğindeki 'teknolojinin çevresel bozulmalara karşı oldukça hassas kalması' ifadesi uygun zıtlığı sağlar."
+  },
+  {
+    "id": 8,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "____, understanding the genetic basis of complex traits like drought tolerance is crucial for ensuring food security.",
+    "options": [
+      {"id": "A", "text": "Since global climate change poses a significant threat to crop yields"},
+      {"id": "B", "text": "Although the reliance on traditional farming methods is increasing"},
+      {"id": "C", "text": "Unless new genetic editing tools like CRISPR are completely banned"},
+      {"id": "D", "text": "As long as the soil quality remains constant across different regions"},
+      {"id": "E", "text": "Even if agricultural subsidies are reduced in developing nations"}
+    ],
+    "correctOption": "A",
+    "explanation": "Ana cümlede 'kuraklık toleransı gibi karmaşık özelliklerin genetik temelini anlamanın gıda güvenliği için çok önemli olduğu' belirtilmiştir. Bunun nedenini açıklayan bir ifade gereklidir. A seçeneğinde 'Küresel iklim değişikliği mahsul verimini önemli ölçüde tehdit ettiği için' ifadesi mantıksal bir sebep-sonuç ilişkisi kurar."
+  },
+  {
+    "id": 9,
+    "type": "Cümle Tamamlama",
+    "context": null,
+    "text": "Dark matter does not interact with electromagnetic radiation, ____.",
+    "options": [
+      {"id": "A", "text": "so it can be easily observed using traditional optical telescopes"},
+      {"id": "B", "text": "because it makes up a negligible fraction of the universe's total mass"},
+      {"id": "C", "text": "meaning its existence is inferred solely from its gravitational effects on visible matter"},
+      {"id": "D", "text": "yet it completely absorbs all light that passes through distant galaxies"},
+      {"id": "E", "text": "unless it frequently collides with planets in our solar system"}
+    ],
+    "correctOption": "C",
+    "explanation": "Karanlık maddenin elektromanyetik radyasyonla etkileşime girmemesi (yani ışığı yaymaması veya yansıtmaması) onun doğrudan gözlemlenememesi anlamına gelir. C seçeneği, 'bu durumun onun varlığının yalnızca görünür madde üzerindeki kütleçekimsel etkilerinden çıkarıldığı anlamına geldiğini' belirterek cümleyi doğru şekilde tamamlar."
+  },
+  {
+    "id": 10,
+    "type": "Çeviri",
+    "context": null,
+    "text": "The discovery of antibiotics in the 20th century transformed modern medicine by drastically reducing mortality rates from infectious diseases.",
+    "options": [
+      {"id": "A", "text": "20. yüzyılda antibiyotiklerin keşfedilmesi, bulaşıcı hastalıklardan kaynaklanan ölüm oranlarını önemli ölçüde azaltmış ve modern tıpta devrim yaratmıştır."},
+      {"id": "B", "text": "Modern tıbbı dönüştüren antibiyotiklerin 20. yüzyıldaki keşfi, bulaşıcı hastalıklara bağlı ölüm oranlarını hızla düşürmüştür."},
+      {"id": "C", "text": "Antibiyotiklerin 20. yüzyıldaki keşfi, bulaşıcı hastalıklardan kaynaklanan ölüm oranlarını ciddi şekilde azaltarak modern tıbbı dönüştürmüştür."},
+      {"id": "D", "text": "Bulaşıcı hastalıklardan kaynaklanan ölüm oranlarını ciddi şekilde azaltan antibiyotiklerin keşfi, modern tıbbı 20. yüzyılda dönüştürmüştür."},
+      {"id": "E", "text": "20. yüzyılda antibiyotiklerin bulunmasıyla birlikte, bulaşıcı hastalıkların ölüm oranları azalmış ve modern tıp dönüşüme uğramıştır."}
+    ],
+    "correctOption": "C",
+    "explanation": "İngilizce cümlenin öznesi 'The discovery of antibiotics in the 20th century' (Antibiyotiklerin 20. yüzyıldaki keşfi), yüklemi 'transformed' (dönüştürmüştür) ve nesnesi 'modern medicine' (modern tıbbı). 'by drastically reducing...' kısmı ise 'ciddi şekilde azaltarak' anlamını veren zarf tümlecidir. Bu ögelerin tam karşılığı C seçeneğinde bulunmaktadır."
+  },
+  {
+    "id": 11,
+    "type": "Çeviri",
+    "context": null,
+    "text": "Karbon emisyonlarını azaltmaya yönelik küresel çabalara rağmen, fosil yakıtlara olan bağımlılık enerji sektöründe baskın bir güç olmaya devam etmektedir.",
+    "options": [
+      {"id": "A", "text": "Due to global efforts to reduce carbon emissions, the reliance on fossil fuels remains a dominant force in the energy sector."},
+      {"id": "B", "text": "Despite global efforts aimed at reducing carbon emissions, dependence on fossil fuels continues to be a dominant force in the energy sector."},
+      {"id": "C", "text": "Although there are global efforts to reduce carbon emissions, the energy sector is still dominated by dependence on fossil fuels."},
+      {"id": "D", "text": "In spite of reducing carbon emissions globally, fossil fuel addiction has remained a dominant power in the energy industry."},
+      {"id": "E", "text": "While global efforts are reducing carbon emissions, relying on fossil fuels is continuing to be the dominant force in the energy sector."}
+    ],
+    "correctOption": "B",
+    "explanation": "'... rağmen' ifadesi 'Despite', 'Karbon emisyonlarını azaltmaya yönelik küresel çabalar' ifadesi 'global efforts aimed at reducing carbon emissions', 'fosil yakıtlara olan bağımlılık' ifadesi 'dependence on fossil fuels', ve 'enerji sektöründe baskın bir güç olmaya devam etmektedir' ifadesi 'continues to be a dominant force in the energy sector' şeklinde tam ve doğru olarak B seçeneğinde çevrilmiştir."
+  },
+  {
+    "id": 12,
+    "type": "Paragraf Tamamlama",
+    "context": null,
+    "text": "CRISPR-Cas9 has emerged as a revolutionary tool in genetic engineering, allowing scientists to edit DNA with unprecedented precision. ____. However, the technology is not without its ethical dilemmas. The possibility of creating 'designer babies' with enhanced physical or intellectual traits has sparked intense debate among bioethicists.",
+    "options": [
+      {"id": "A", "text": "Traditional breeding methods take years, whereas gene editing yields results much faster"},
+      {"id": "B", "text": "It has already been used to modify agricultural crops to withstand severe droughts and pests"},
+      {"id": "C", "text": "Its potential applications range from curing genetic disorders to eradicating vector-borne diseases"},
+      {"id": "D", "text": "The initial discovery of the CRISPR mechanism was made while studying bacterial immune systems"},
+      {"id": "E", "text": "Most researchers agree that the patent dispute surrounding CRISPR is holding back innovation"}
+    ],
+    "correctOption": "C",
+    "explanation": "Boşluktan önceki cümlede CRISPR'ın devrim niteliğinde olduğu ve DNA'yı hassas bir şekilde düzenlemeye olanak tanıdığı anlatılmaktadır. Boşluktan sonraki cümlede ise 'Ancak, bu teknolojinin etik ikilemleri de var' diyerek 'tasarım bebekler'den bahsedilmiştir. Boşluğa, teknolojinin tıp ve bilimdeki geniş ve olumlu potansiyel uygulamalarından bahseden, 'potansiyel uygulamaları genetik hastalıkları iyileştirmekten vektör kaynaklı hastalıkları yok etmeye kadar uzanır' diyen C seçeneği gelmelidir ki 'However' (Ancak) ile etik kaygılara geçiş anlamlı olsun."
+  },
+  {
+    "id": 13,
+    "type": "Paragraf Tamamlama",
+    "context": null,
+    "text": "The concept of a circular economy is gaining traction as a sustainable alternative to the traditional linear model of 'take, make, dispose'. In a circular economy, resources are kept in use for as long as possible. ____. By designing products for longevity and recyclability, industries can significantly reduce their environmental footprint while fostering innovation.",
+    "options": [
+      {"id": "A", "text": "Consumers are increasingly demanding cheap, single-use products for convenience"},
+      {"id": "B", "text": "Maximum value is extracted from them, and products are recovered or regenerated at the end of their service life"},
+      {"id": "C", "text": "Developing nations often lack the infrastructure required for advanced recycling facilities"},
+      {"id": "D", "text": "The primary goal of linear economies is to maximize short-term profit margins"},
+      {"id": "E", "text": "Raw materials such as lithium and cobalt are becoming increasingly scarce on a global scale"}
+    ],
+    "correctOption": "B",
+    "explanation": "Paragraf döngüsel ekonomiyi ve kaynakların mümkün olduğunca uzun süre kullanımda tutulmasını anlatmaktadır. Boşluktan sonra ise ürünlerin uzun ömürlü tasarlanması ve geri dönüştürülmesi ile çevresel etkinin azaltılabileceğinden bahsedilmektedir. B seçeneği, 'Onlardan maksimum değer elde edilir ve hizmet ömürlerinin sonunda ürünler geri kazanılır veya yenilenir' diyerek döngüsel ekonominin temel ilkesini tamamlar ve bir sonraki cümleyle doğrudan bağlantı kurar."
+  },
+  {
+    "id": 14,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) Geothermal energy harnesses the heat generated beneath the Earth's crust to produce electricity. (II) This renewable energy source is highly dependable, as it can operate 24 hours a day, regardless of weather conditions. (III) Solar panels, on the other hand, require significant land areas and are ineffective during the night. (IV) In countries like Iceland, geothermal power meets a substantial portion of the national electricity demand. (V) Furthermore, geothermal plants produce only a fraction of the greenhouse gases emitted by fossil fuel power stations.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Paragraf tamamen jeotermal enerjinin tanımı, güvenilirliği (I, II), İzlanda'daki kullanımı (IV) ve çevre dostu olması (V) üzerine odaklanmıştır. III. cümlede ise aniden güneş panellerinin dezavantajlarından (geniş alan gereksinimi ve gece çalışamaması) bahsedilmesi paragrafın bütünlüğünü ve jeotermal enerji odaklı akışını bozmaktadır."
+  },
+  {
+    "id": 15,
+    "type": "Anlamı Bozan Cümle",
+    "context": null,
+    "text": "(I) The human microbiome consists of trillions of microorganisms residing in and on the body. (II) These microbial communities play a crucial role in digestion, immunity, and even mental health. (III) Antibiotics are often prescribed to treat bacterial infections but can also harm beneficial bacteria. (IV) Recent studies have linked imbalances in the gut microbiome to conditions such as obesity and inflammatory bowel disease. (V) Consequently, therapies like probiotics and fecal microbiota transplantation are being explored to restore microbial health.",
+    "options": [
+      {"id": "A", "text": "I"},
+      {"id": "B", "text": "II"},
+      {"id": "C", "text": "III"},
+      {"id": "D", "text": "IV"},
+      {"id": "E", "text": "V"}
+    ],
+    "correctOption": "C",
+    "explanation": "Paragraf mikrobiyomun tanımı (I), vücuttaki işlevleri (II), bozulmasının hastalıklarla ilişkisi (IV) ve mikrobiyomu onarmaya yönelik tedaviler (V) şeklinde mantıksal bir sıra izlemektedir. III. cümlede antibiyotiklerin reçete edilmesi ve faydalı bakterilere zarar vermesi konusu araya girerek genel hastalık/tedavi ilişkisini açıklayan bu yapısal akışı kesintiye uğratır."
+  },
+  {
+    "id": 16,
+    "type": "Paragraf",
+    "context": "The phenomenon of bioluminescence, the emission of light by living organisms, is widely distributed across marine environments, particularly in the deep ocean where sunlight cannot penetrate. Organisms ranging from bacteria to complex creatures like jellyfish and anglerfish utilize this biochemical reaction. Bioluminescence serves various evolutionary purposes. For instance, the anglerfish uses a glowing lure to attract prey in the pitch-black depths. Other species, such as certain squids, use bioluminescence for counter-illumination camouflage, emitting light from their undersides to match the faint light coming from the surface, thereby hiding from predators below. The chemical reaction responsible for this light involves a light-emitting molecule called luciferin and an enzyme, luciferase. Despite its widespread presence in the oceans, terrestrial bioluminescence is relatively rare, confined mostly to fireflies, some beetles, and specific types of fungi. Understanding the genetic and chemical basis of bioluminescence has not only shed light on deep-sea ecosystems but also provided biomedical research with vital tools, such as fluorescent markers used to track cellular processes in living tissues.",
+    "text": "According to the passage, counter-illumination camouflage is a strategy where ____.",
+    "options": [
+      {"id": "A", "text": "organisms absorb light from the surface to become completely invisible to their prey"},
+      {"id": "B", "text": "marine creatures emit light from their lower bodies to blend in with the light shining from above"},
+      {"id": "C", "text": "predators like the anglerfish use a glowing lure to confuse and trap small fish"},
+      {"id": "D", "text": "deep-sea organisms temporarily blind their predators by releasing a sudden burst of intense light"},
+      {"id": "E", "text": "bioluminescent bacteria attach themselves to the undersides of fish to protect them from larger predators"}
+    ],
+    "correctOption": "B",
+    "explanation": "Paragrafta 'counter-illumination camouflage' şu şekilde açıklanmıştır: 'emitting light from their undersides to match the faint light coming from the surface, thereby hiding from predators below' (aşağıdan gelen avcılardan saklanmak için yüzeyden gelen cılız ışıkla eşleşecek şekilde alt kısımlarından ışık yaymak). Bu tanım doğrudan B seçeneğiyle eşleşmektedir."
+  },
+  {
+    "id": 17,
+    "type": "Paragraf",
+    "context": "The phenomenon of bioluminescence, the emission of light by living organisms, is widely distributed across marine environments, particularly in the deep ocean where sunlight cannot penetrate. Organisms ranging from bacteria to complex creatures like jellyfish and anglerfish utilize this biochemical reaction. Bioluminescence serves various evolutionary purposes. For instance, the anglerfish uses a glowing lure to attract prey in the pitch-black depths. Other species, such as certain squids, use bioluminescence for counter-illumination camouflage, emitting light from their undersides to match the faint light coming from the surface, thereby hiding from predators below. The chemical reaction responsible for this light involves a light-emitting molecule called luciferin and an enzyme, luciferase. Despite its widespread presence in the oceans, terrestrial bioluminescence is relatively rare, confined mostly to fireflies, some beetles, and specific types of fungi. Understanding the genetic and chemical basis of bioluminescence has not only shed light on deep-sea ecosystems but also provided biomedical research with vital tools, such as fluorescent markers used to track cellular processes in living tissues.",
+    "text": "It can be inferred from the passage that bioluminescence ____.",
+    "options": [
+      {"id": "A", "text": "is an evolutionary adaptation solely designed for predatory purposes"},
+      {"id": "B", "text": "is much more prevalent on land due to the diversity of fungi and insects"},
+      {"id": "C", "text": "relies on an external light source, such as the sun, to trigger the biochemical reaction"},
+      {"id": "D", "text": "has practical applications for human science beyond simply understanding marine biology"},
+      {"id": "E", "text": "is gradually disappearing from deep-sea environments due to changes in ocean temperature"}
+    ],
+    "correctOption": "D",
+    "explanation": "Paragrafın son cümlesinde 'Understanding the genetic and chemical basis of bioluminescence... provided biomedical research with vital tools, such as fluorescent markers...' (Biyolüminesansın temelini anlamak, biyomedikal araştırmalara... hayati araçlar sağladı) denmektedir. Bu da biyolüminesansın sadece deniz biyolojisini anlamanın ötesinde insan bilimi (biyomedikal) için pratik uygulamaları olduğunu gösterir (D seçeneği)."
+  },
+  {
+    "id": 18,
+    "type": "Paragraf",
+    "context": "The phenomenon of bioluminescence, the emission of light by living organisms, is widely distributed across marine environments, particularly in the deep ocean where sunlight cannot penetrate. Organisms ranging from bacteria to complex creatures like jellyfish and anglerfish utilize this biochemical reaction. Bioluminescence serves various evolutionary purposes. For instance, the anglerfish uses a glowing lure to attract prey in the pitch-black depths. Other species, such as certain squids, use bioluminescence for counter-illumination camouflage, emitting light from their undersides to match the faint light coming from the surface, thereby hiding from predators below. The chemical reaction responsible for this light involves a light-emitting molecule called luciferin and an enzyme, luciferase. Despite its widespread presence in the oceans, terrestrial bioluminescence is relatively rare, confined mostly to fireflies, some beetles, and specific types of fungi. Understanding the genetic and chemical basis of bioluminescence has not only shed light on deep-sea ecosystems but also provided biomedical research with vital tools, such as fluorescent markers used to track cellular processes in living tissues.",
+    "text": "Which of the following is true regarding terrestrial bioluminescence?",
+    "options": [
+      {"id": "A", "text": "It involves a completely different chemical reaction than the one found in marine environments."},
+      {"id": "B", "text": "It is mainly used by land organisms to regulate their internal body temperature."},
+      {"id": "C", "text": "It is considerably less common compared to bioluminescence found in the oceans."},
+      {"id": "D", "text": "It is exclusively observed in insects, completely absent in plant or fungal life."},
+      {"id": "E", "text": "It is the primary method of communication for most insect species residing in dark forests."}
+    ],
+    "correctOption": "C",
+    "explanation": "Paragrafta 'terrestrial bioluminescence is relatively rare' (karasal biyolüminesans nispeten nadirdir) ifadesi yer almaktadır ve bu durumun okyanuslardaki yaygın varlığına ('widespread presence in the oceans') kıyasla böyle olduğu belirtilmektedir. Bu nedenle karasal biyolüminesansın okyanuslardakine göre çok daha az yaygın olduğu (C seçeneği) doğrudur."
+  },
+  {
+    "id": 19,
+    "type": "Paragraf",
+    "context": "Antimicrobial resistance (AMR) occurs when bacteria, viruses, fungi, and parasites change over time and no longer respond to medicines, making infections harder to treat and increasing the risk of disease spread, severe illness, and death. One of the main drivers of AMR is the misuse and overuse of antimicrobials in humans, animals, and agriculture. In the agricultural sector, antibiotics are often administered to healthy livestock in low doses to promote growth and prevent disease in crowded conditions. This practice exerts selective pressure on bacteria, allowing resistant strains to survive and multiply. These resistant bacteria can then be transmitted to humans through the food chain, direct contact with animals, or environmental contamination of soil and water. The World Health Organization has declared AMR one of the top ten global public health threats facing humanity. Addressing this crisis requires a 'One Health' approach, which recognizes that human health is closely connected to the health of animals and our shared environment. Stricter regulations on agricultural antibiotic use and the development of alternative treatments, such as vaccines, are urgently needed.",
+    "text": "According to the passage, administering low doses of antibiotics to livestock ____.",
+    "options": [
+      {"id": "A", "text": "is a newly developed method aimed at completely eradicating viral infections in animals"},
+      {"id": "B", "text": "is solely performed to cure animals that have already contracted severe illnesses"},
+      {"id": "C", "text": "encourages the survival and reproduction of bacteria that are resistant to the drugs"},
+      {"id": "D", "text": "has proven to be ineffective in promoting physical growth in agricultural animals"},
+      {"id": "E", "text": "is strictly regulated and highly restricted by the World Health Organization globally"}
+    ],
+    "correctOption": "C",
+    "explanation": "Paragrafta tarım sektöründe hayvanlara düşük dozda antibiyotik verilmesinin 'bakteriler üzerinde seçici baskı oluşturduğu ve dirençli suşların (türlerin) hayatta kalmasına ve çoğalmasına izin verdiği' ('allowing resistant strains to survive and multiply') açıkça belirtilmiştir. Bu durum C seçeneği ile birebir örtüşmektedir."
+  },
+  {
+    "id": 20,
+    "type": "Paragraf",
+    "context": "Antimicrobial resistance (AMR) occurs when bacteria, viruses, fungi, and parasites change over time and no longer respond to medicines, making infections harder to treat and increasing the risk of disease spread, severe illness, and death. One of the main drivers of AMR is the misuse and overuse of antimicrobials in humans, animals, and agriculture. In the agricultural sector, antibiotics are often administered to healthy livestock in low doses to promote growth and prevent disease in crowded conditions. This practice exerts selective pressure on bacteria, allowing resistant strains to survive and multiply. These resistant bacteria can then be transmitted to humans through the food chain, direct contact with animals, or environmental contamination of soil and water. The World Health Organization has declared AMR one of the top ten global public health threats facing humanity. Addressing this crisis requires a 'One Health' approach, which recognizes that human health is closely connected to the health of animals and our shared environment. Stricter regulations on agricultural antibiotic use and the development of alternative treatments, such as vaccines, are urgently needed.",
+    "text": "The 'One Health' approach mentioned in the passage primarily emphasizes ____.",
+    "options": [
+      {"id": "A", "text": "the creation of a single global health organization to monitor all pharmaceutical companies"},
+      {"id": "B", "text": "the idea that human, animal, and environmental health are profoundly interconnected"},
+      {"id": "C", "text": "prioritizing human healthcare infrastructure over agricultural and environmental policies"},
+      {"id": "D", "text": "the elimination of all pharmaceutical treatments in favor of natural and organic remedies"},
+      {"id": "E", "text": "restricting the consumption of animal products to prevent the spread of resistant bacteria"}
+    ],
+    "correctOption": "B",
+    "explanation": "Paragrafta 'One Health' yaklaşımının, 'insan sağlığının hayvanların ve paylaştığımız çevrenin sağlığıyla yakından bağlantılı olduğunu' (recognizes that human health is closely connected to the health of animals and our shared environment) kabul eden bir yaklaşım olduğu belirtilmiştir. Bu tanım B seçeneğinde doğru şekilde ifade edilmiştir."
+  }
+]

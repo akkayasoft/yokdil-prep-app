@@ -45,7 +45,7 @@ function App() {
         <div className="card test-grid">
           <h2>Lütfen Bir Deneme Seçin</h2>
           <div className="grid">
-            {[1, 2, 3, 4, 5].map(num => {
+            {[1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map(num => {
               const bestScore = savedScores[num];
               return (
                 <button 
